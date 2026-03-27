@@ -1,0 +1,17 @@
+data/
+*.pt
+*.pth
+*.onnx
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.venv/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+.env
