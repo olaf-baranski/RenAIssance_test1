@@ -1,6 +1,9 @@
 import os
 from pathlib import Path
 from pdf2image import convert_from_path, pdfinfo_from_path
+from PIL import Image
+
+Image.MAX_IMAGE_PIXELS = None
 
 def main():
     script_dir = Path(__file__).resolve().parent
@@ -28,17 +31,23 @@ def main():
         try:
             info = pdfinfo_from_path(pdf_path)
             total_pages = info["Pages"]
-            print(f"Total pages to process: {total_pages}")
+            print(f"  Total pages to process: {total_pages}")
+            
+            expected_last_page = output_dir / f"{pdf_path.stem}_page_{total_pages:03d}.png"
+            if expected_last_page.exists():
+                print(f"Skipping {pdf_path.name} - already fully processed.")
+                continue
             
             for start_page in range(1, total_pages + 1, BATCH_SIZE):
                 end_page = min(start_page + BATCH_SIZE - 1, total_pages)
-                print(f"Extracting pages {start_page} to {end_page}")
+                print(f"  Extracting pages {start_page} to {end_page}...")
                 
                 images = convert_from_path(
                     pdf_path, 
                     dpi=300, 
                     first_page=start_page, 
-                    last_page=end_page
+                    last_page=end_page,
+                    use_cropbox=True
                 )
                 
                 for i, image in enumerate(images):
@@ -47,7 +56,7 @@ def main():
                     image_path = output_dir / image_name
                     image.save(image_path, "PNG")
                     
-            print(f"Successfully processed all {total_pages} pages from {pdf_path.name}")
+            print(f"  Successfully processed all {total_pages} pages from {pdf_path.name}")
             
         except Exception as e:
             print(f"Error processing {pdf_path.name}.")
