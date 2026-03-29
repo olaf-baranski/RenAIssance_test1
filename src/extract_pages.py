@@ -1,13 +1,11 @@
 import os
 from pathlib import Path
-from pdf2image import convert_from_path, pdfinfo_from_path
-from PIL import Image
-
-Image.MAX_IMAGE_PIXELS = None
+import fitz  
 
 def main():
     script_dir = Path(__file__).resolve().parent
     base_dir = script_dir.parent
+    
     input_dir = base_dir / "data" / "original_pdfs"
     output_dir = base_dir / "data" / "raw_pages"
     
@@ -23,40 +21,33 @@ def main():
         
     print(f"Found {len(pdf_files)} PDF(s). Starting conversion")
     
-    BATCH_SIZE = 10
-    
     for pdf_path in pdf_files:
-        print(f"Processing: {pdf_path.name}")
+        print(f"Processing: {pdf_path.name}.")
         
         try:
-            info = pdfinfo_from_path(pdf_path)
-            total_pages = info["Pages"]
+            doc = fitz.open(pdf_path)
+            total_pages = len(doc)
             print(f"  Total pages to process: {total_pages}")
             
             expected_last_page = output_dir / f"{pdf_path.stem}_page_{total_pages:03d}.png"
             if expected_last_page.exists():
-                print(f"Skipping {pdf_path.name} - already fully processed.")
+                print(f"  Skipping {pdf_path.name} - already fully processed.")
+                doc.close()
                 continue
             
-            for start_page in range(1, total_pages + 1, BATCH_SIZE):
-                end_page = min(start_page + BATCH_SIZE - 1, total_pages)
-                print(f"  Extracting pages {start_page} to {end_page}...")
+            for page_num in range(total_pages):
+                page = doc.load_page(page_num)
                 
-                images = convert_from_path(
-                    pdf_path, 
-                    dpi=300, 
-                    first_page=start_page, 
-                    last_page=end_page,
-                    use_cropbox=True
-                )
+                pix = page.get_pixmap(dpi=300)
                 
-                for i, image in enumerate(images):
-                    actual_page_num = start_page + i
-                    image_name = f"{pdf_path.stem}_page_{actual_page_num:03d}.png"
-                    image_path = output_dir / image_name
-                    image.save(image_path, "PNG")
-                    
-            print(f"  Successfully processed all {total_pages} pages from {pdf_path.name}")
+                actual_page_num = page_num + 1
+                image_name = f"{pdf_path.stem}_page_{actual_page_num:03d}.png"
+                image_path = output_dir / image_name
+                
+                pix.save(str(image_path))
+                
+            print(f"Successfully processed all {total_pages} pages from {pdf_path.name}")
+            doc.close()
             
         except Exception as e:
             print(f"Error processing {pdf_path.name}.")
