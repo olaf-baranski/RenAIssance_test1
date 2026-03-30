@@ -1,533 +1,385 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
-    <Description>
-        <MeasurementUnit>pixel</MeasurementUnit>
-        <sourceImageInformation>
-            <fileName>None</fileName>
-        </sourceImageInformation>
-        <Processing ID="OCR__bd62ba37-e535-48ba-aade-fe7e3569f649">
-            <processingCategory>preOperation</processingCategory>
-            <processingStepDescription>Image binarization</processingStepDescription>
-            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-        <Processing ID="OCR__51527947-4d81-42b6-8a71-275bba46b3f3">
-            <processingCategory>contentGeneration</processingCategory>
-            <processingStepDescription>bounding box segmentation</processingStepDescription>
-            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-    </Description>
-    <Tags>
-    </Tags>
-    <Layout>
-        <Page WIDTH="1339" HEIGHT="1999" PHYSICAL_IMG_NR="0" ID="page_0">
-            <PrintSpace HPOS="0" VPOS="0" WIDTH="1339" HEIGHT="1999">
-                <TextBlock ID="textblock_1">
-                    
-                    <TextLine ID="_fd07577b-c742-445d-9799-757cf0e3506f" HPOS="70" VPOS="72" WIDTH="1138" HEIGHT="37">
-                        <Shape>
-                            <Polygon POINTS="70 72 1208 72 1208 109 70 109"/>
-                        </Shape>
-                        <String CONTENT="Conocimiento de las cosas depende del de los vocablos, el que ayuda a esta, ayuda mucho a todas"/>
-                    </TextLine>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T17:27:57.822064+00:00</Created>
+        <LastChange>2026-03-30T17:27:57.822064+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="None" imageWidth="1339" imageHeight="1999">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,1999 1339,1999 1339,0"/>
+            
+            <TextLine id="_c044ff70-e5c5-40aa-8a05-72173f8f5c56">
+                <Coords points="70,72 1208,72 1208,109 70,109"/>
+                
+            <TextEquiv><Unicode>Conocimiento de las cosas depende del de los vocablos, el que ayuda a esta, ayuda mucho a todas</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_6ea9fda6-d044-4efd-9782-c77959ec7c31" HPOS="69" VPOS="106" WIDTH="1138" HEIGHT="34">
-                        <Shape>
-                            <Polygon POINTS="69 106 1207 106 1207 140 69 140"/>
-                        </Shape>
-                        <String CONTENT="las ciencias: y assi los grandes Filosofos antiguos trabajaron mucho en esta parte, como fue Platon"/>
-                    </TextLine>
+            
+            <TextLine id="_21cd6dd0-709b-4d46-b68f-aabf0233e7b7">
+                <Coords points="69,106 1207,106 1207,140 69,140"/>
+                
+            <TextEquiv><Unicode>las ciencias: y assi los grandes Filosofos antiguos trabajaron mucho en esta parte, como fue Platon</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0a93803c-6ad2-42a9-a1bf-a513744f8899" HPOS="68" VPOS="134" WIDTH="1136" HEIGHT="38">
-                        <Shape>
-                            <Polygon POINTS="68 134 1204 134 1204 172 68 172"/>
-                        </Shape>
-                        <String CONTENT="en su Dialogo Cratilo, que oy en dia leemos, a cuya imitacion los Latinos trataron esta facultad,"/>
-                    </TextLine>
+            
+            <TextLine id="_507a34b5-ebed-470f-bf4d-2a0a4cc82292">
+                <Coords points="68,134 1204,134 1204,172 68,172"/>
+                
+            <TextEquiv><Unicode>en su Dialogo Cratilo, que oy en dia leemos, a cuya imitacion los Latinos trataron esta facultad,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_c290e9b4-6c80-4443-9569-0046c0a2b844" HPOS="67" VPOS="164" WIDTH="1140" HEIGHT="40">
-                        <Shape>
-                            <Polygon POINTS="67 164 1207 164 1207 204 67 204"/>
-                        </Shape>
-                        <String CONTENT="aunque con mayores ayudas que los Griegos, por tener mas conocidos los manantiales de su lengua-"/>
-                    </TextLine>
+            
+            <TextLine id="_8f8e8f9d-7eb4-4e02-ad24-dd7a23b55d79">
+                <Coords points="67,164 1207,164 1207,204 67,204"/>
+                
+            <TextEquiv><Unicode>aunque con mayores ayudas que los Griegos, por tener mas conocidos los manantiales de su lengua-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_bbd24a63-ac56-4383-9c68-884c75f27103" HPOS="60" VPOS="198" WIDTH="1146" HEIGHT="38">
-                        <Shape>
-                            <Polygon POINTS="60 198 1206 198 1206 236 60 236"/>
-                        </Shape>
-                        <String CONTENT="ge, el qual casi todo es Griego, aunque Marco Vatron en los libros qu eescrivio en lengua Latina"/>
-                    </TextLine>
+            
+            <TextLine id="_20f49a85-4c91-4b1d-8197-0c95127e52df">
+                <Coords points="60,198 1206,198 1206,236 60,236"/>
+                
+            <TextEquiv><Unicode>ge, el qual casi todo es Griego, aunque Marco Vatron en los libros qu eescrivio en lengua Latina</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_54c04777-240e-4a18-baf9-9c160b5b9ffa" HPOS="74" VPOS="227" WIDTH="1134" HEIGHT="35">
-                        <Shape>
-                            <Polygon POINTS="74 227 1208 227 1208 262 74 262"/>
-                        </Shape>
-                        <String CONTENT="a Ciceron, quiso huir el cuerpo desto, pretendiendo hazer creer que la lengua Latina tenia voca-"/>
-                    </TextLine>
+            
+            <TextLine id="_92550610-d587-4f81-90f5-8955b8943992">
+                <Coords points="74,227 1208,227 1208,262 74,262"/>
+                
+            <TextEquiv><Unicode>a Ciceron, quiso huir el cuerpo desto, pretendiendo hazer creer que la lengua Latina tenia voca-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e0abcc26-d807-4b3a-b386-2f6d3ddb5334" HPOS="63" VPOS="258" WIDTH="1144" HEIGHT="37">
-                        <Shape>
-                            <Polygon POINTS="63 258 1207 258 1207 295 63 295"/>
-                        </Shape>
-                        <String CONTENT="blos propios, no tomados de otra, y esto pretendiendo autorizar su lenguaje, siendo cosa cierta, que"/>
-                    </TextLine>
+            
+            <TextLine id="_c69cb4aa-ca9f-4fcb-a3a7-4851b45b1cb6">
+                <Coords points="63,258 1207,258 1207,295 63,295"/>
+                
+            <TextEquiv><Unicode>blos propios, no tomados de otra, y esto pretendiendo autorizar su lenguaje, siendo cosa cierta, que</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_8a176168-4855-447e-bad0-c7fd16cff5d0" HPOS="71" VPOS="289" WIDTH="1136" HEIGHT="34">
-                        <Shape>
-                            <Polygon POINTS="71 289 1207 289 1207 323 71 323"/>
-                        </Shape>
-                        <String CONTENT="el lo sabia mejor que otro ninguno, pues era el mas docto hombre de todos los mortales que no te-"/>
-                    </TextLine>
+            
+            <TextLine id="_92032062-bb55-46d8-b195-b42e0c30288f">
+                <Coords points="71,289 1207,289 1207,323 71,323"/>
+                
+            <TextEquiv><Unicode>el lo sabia mejor que otro ninguno, pues era el mas docto hombre de todos los mortales que no te-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0c08589c-46da-4b0d-aa25-d7739a540d86" HPOS="63" VPOS="319" WIDTH="1146" HEIGHT="39">
-                        <Shape>
-                            <Polygon POINTS="63 319 1209 319 1209 358 63 358"/>
-                        </Shape>
-                        <String CONTENT="nia la lengua Latina vocablo ninguno propio suyo: y echasele de ver que quiso engañar, pues en al-"/>
-                    </TextLine>
+            
+            <TextLine id="_5d85634c-a6bb-4ae5-9caf-cc4c16101abd">
+                <Coords points="63,319 1209,319 1209,358 63,358"/>
+                
+            <TextEquiv><Unicode>nia la lengua Latina vocablo ninguno propio suyo: y echasele de ver que quiso engañar, pues en al-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_a2d81a8a-8192-4f57-8841-4a5cc79ae7a6" HPOS="69" VPOS="350" WIDTH="1139" HEIGHT="39">
-                        <Shape>
-                            <Polygon POINTS="69 350 1208 350 1208 389 69 389"/>
-                        </Shape>
-                        <String CONTENT="gunas Etymologias que quiso deduzir de los vocablos que el fingio ser originariamente Latinos, no"/>
-                    </TextLine>
+            
+            <TextLine id="_32524c5f-e177-4634-9229-39f426400640">
+                <Coords points="69,350 1208,350 1208,389 69,389"/>
+                
+            <TextEquiv><Unicode>gunas Etymologias que quiso deduzir de los vocablos que el fingio ser originariamente Latinos, no</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_2a09bb07-8b56-4d74-aff6-9d3e0e543aac" HPOS="70" VPOS="380" WIDTH="1142" HEIGHT="40">
-                        <Shape>
-                            <Polygon POINTS="70 380 1212 380 1212 420 70 420"/>
-                        </Shape>
-                        <String CONTENT="pudo encubrir el engaño, como quando dixo que Pater se deduzia del verbo Patrare, que no igno-"/>
-                    </TextLine>
+            
+            <TextLine id="_e24cbeb4-0e44-40d2-a38a-3bf144d27241">
+                <Coords points="70,380 1212,380 1212,420 70,420"/>
+                
+            <TextEquiv><Unicode>pudo encubrir el engaño, como quando dixo que Pater se deduzia del verbo Patrare, que no igno-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_001bfda3-93ac-41ec-bac9-da8c73fe6b3f" HPOS="73" VPOS="413" WIDTH="1140" HEIGHT="38">
-                        <Shape>
-                            <Polygon POINTS="73 413 1213 413 1213 451 73 451"/>
-                        </Shape>
-                        <String CONTENT="rava el que Pater es vocablo puramente Griego, del qual se derivava el verbo Patrare, y todos los"/>
-                    </TextLine>
+            
+            <TextLine id="_ac403fb1-f681-4747-8782-b5466aed8276">
+                <Coords points="73,413 1213,413 1213,451 73,451"/>
+                
+            <TextEquiv><Unicode>rava el que Pater es vocablo puramente Griego, del qual se derivava el verbo Patrare, y todos los</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_919bb813-4311-43bd-822e-b1593a613125" HPOS="72" VPOS="443" WIDTH="1140" HEIGHT="36">
-                        <Shape>
-                            <Polygon POINTS="72 443 1212 443 1212 479 72 479"/>
-                        </Shape>
-                        <String CONTENT="demás que tienen esse origen. Y aunque en su tiempo no pudo engañar a los hombres que sabian tan-"/>
-                    </TextLine>
+            
+            <TextLine id="_a85d3adc-9528-40b6-91de-2d5bc2c9764e">
+                <Coords points="72,443 1212,443 1212,479 72,479"/>
+                
+            <TextEquiv><Unicode>demás que tienen esse origen. Y aunque en su tiempo no pudo engañar a los hombres que sabian tan-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_3fa21c1a-5e40-4bc4-826b-61465ab40897" HPOS="72" VPOS="474" WIDTH="1141" HEIGHT="35">
-                        <Shape>
-                            <Polygon POINTS="72 474 1213 474 1213 509 72 509"/>
-                        </Shape>
-                        <String CONTENT="to del lenguaje Latino, engaño en los venideros a muchos: y assi el bienaventurado San Isidoro, que"/>
-                    </TextLine>
+            
+            <TextLine id="_9f3844f4-90aa-460c-9054-55769faad337">
+                <Coords points="72,474 1213,474 1213,509 72,509"/>
+                
+            <TextEquiv><Unicode>to del lenguaje Latino, engaño en los venideros a muchos: y assi el bienaventurado San Isidoro, que</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_af94a643-b486-432c-92be-20b825820609" HPOS="74" VPOS="505" WIDTH="1140" HEIGHT="34">
-                        <Shape>
-                            <Polygon POINTS="74 505 1214 505 1214 539 74 539"/>
-                        </Shape>
-                        <String CONTENT="en sus Etymologias mezclo muchos de los vocablos Latinos, dio ocasión a al irrisiori de los no tan"/>
-                    </TextLine>
+            
+            <TextLine id="_24e828ca-a07c-4805-90d2-264329580ed7">
+                <Coords points="74,505 1214,505 1214,539 74,539"/>
+                
+            <TextEquiv><Unicode>en sus Etymologias mezclo muchos de los vocablos Latinos, dio ocasión a al irrisiori de los no tan</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_25ee1697-d1f9-4df9-b5c5-a75ec17a428c" HPOS="74" VPOS="533" WIDTH="1142" HEIGHT="40">
-                        <Shape>
-                            <Polygon POINTS="74 533 1216 533 1216 573 74 573"/>
-                        </Shape>
-                        <String CONTENT="pios, y a que su grande autoridad se enflaqueciesse por esse camino, acerca de los Criticos rigurosos"/>
-                    </TextLine>
+            
+            <TextLine id="_1e477543-1424-4a2d-84e8-384ebed1af51">
+                <Coords points="74,533 1216,533 1216,573 74,573"/>
+                
+            <TextEquiv><Unicode>pios, y a que su grande autoridad se enflaqueciesse por esse camino, acerca de los Criticos rigurosos</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_2d1a0bae-6f0a-49e1-a623-580b9c4f5db6" HPOS="74" VPOS="566" WIDTH="1140" HEIGHT="33">
-                        <Shape>
-                            <Polygon POINTS="74 566 1214 566 1214 599 74 599"/>
-                        </Shape>
-                        <String CONTENT="de nuestros tiempos dexo a parte las ridiculas Etymologias de los Gramaticos ignorantes de la len-"/>
-                    </TextLine>
+            
+            <TextLine id="_9d89f556-fd6f-4692-8a3e-b885f66da910">
+                <Coords points="74,566 1214,566 1214,599 74,599"/>
+                
+            <TextEquiv><Unicode>de nuestros tiempos dexo a parte las ridiculas Etymologias de los Gramaticos ignorantes de la len-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_6d10d5c6-b3eb-454f-a883-e366ba35b2c4" HPOS="76" VPOS="597" WIDTH="1140" HEIGHT="37">
-                        <Shape>
-                            <Polygon POINTS="76 597 1216 597 1216 634 76 634"/>
-                        </Shape>
-                        <String CONTENT="gua Griega, que no sirven de otra cosa, sino de causar risa a los que la saben, como dezir que el voca-"/>
-                    </TextLine>
+            
+            <TextLine id="_88fd6017-22e9-46c4-ab09-2bea1ad61f87">
+                <Coords points="76,597 1216,597 1216,634 76,634"/>
+                
+            <TextEquiv><Unicode>gua Griega, que no sirven de otra cosa, sino de causar risa a los que la saben, como dezir que el voca-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_d3d2bf08-a497-4936-8ae3-91a6313808e1" HPOS="76" VPOS="626" WIDTH="1142" HEIGHT="34">
-                        <Shape>
-                            <Polygon POINTS="76 626 1218 626 1218 660 76 660"/>
-                        </Shape>
-                        <String CONTENT="blo Purus desciende de pus puris, y que por antiphrasi, q es otra gentil patraña suya, se dize purum,"/>
-                    </TextLine>
+            
+            <TextLine id="_6f4cafe3-a61c-4ee9-9182-2f17356f7561">
+                <Coords points="76,626 1218,626 1218,660 76,660"/>
+                
+            <TextEquiv><Unicode>blo Purus desciende de pus puris, y que por antiphrasi, q es otra gentil patraña suya, se dize purum,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_1a6c961d-3b83-4ea0-9607-449aa5d3d69c" HPOS="78" VPOS="658" WIDTH="1138" HEIGHT="37">
-                        <Shape>
-                            <Polygon POINTS="78 658 1216 658 1216 695 78 695"/>
-                        </Shape>
-                        <String CONTENT="quod caret pure, que no tiene podre, siendo manifiesto, que purus se dize del Griego piro, piros, que"/>
-                    </TextLine>
+            
+            <TextLine id="_ca2c182f-73f7-48d5-aabe-84dd833c8334">
+                <Coords points="78,658 1216,658 1216,695 78,695"/>
+                
+            <TextEquiv><Unicode>quod caret pure, que no tiene podre, siendo manifiesto, que purus se dize del Griego piro, piros, que</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_7de747f9-ad74-4de7-9162-05c554404fcf" HPOS="78" VPOS="690" WIDTH="1139" HEIGHT="31">
-                        <Shape>
-                            <Polygon POINTS="78 690 1217 690 1217 721 78 721"/>
-                        </Shape>
-                        <String CONTENT="es el fuego, cuerpo mas puro de quantos la taturaleza hizo; seria nunca acabar tratar esta materia."/>
-                    </TextLine>
+            
+            <TextLine id="_f892dfb7-d3d2-4194-ac4a-5cf897f6afa4">
+                <Coords points="78,690 1217,690 1217,721 78,721"/>
+                
+            <TextEquiv><Unicode>es el fuego, cuerpo mas puro de quantos la taturaleza hizo; seria nunca acabar tratar esta materia.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_3b172581-d311-4db2-8ca7-f10858d3f93b" HPOS="78" VPOS="719" WIDTH="1138" HEIGHT="32">
-                        <Shape>
-                            <Polygon POINTS="78 719 1216 719 1216 751 78 751"/>
-                        </Shape>
-                        <String CONTENT="Entendido han en la correccion destos errores los mayores hombres de nuestros tiempos: Nicolao"/>
-                    </TextLine>
+            
+            <TextLine id="_0e71781b-b1a0-48dc-81e6-4bee3fa01ab0">
+                <Coords points="78,719 1216,719 1216,751 78,751"/>
+                
+            <TextEquiv><Unicode>Entendido han en la correccion destos errores los mayores hombres de nuestros tiempos: Nicolao</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_fe895640-e540-42ac-b9ec-889edba70296" HPOS="76" VPOS="750" WIDTH="1143" HEIGHT="34">
-                        <Shape>
-                            <Polygon POINTS="76 750 1219 750 1219 784 76 784"/>
-                        </Shape>
-                        <String CONTENT="Peroto en su Cornucopia abrio mucho el camino para esto, Julio Cesar, Scaligero en su libro de cau-"/>
-                    </TextLine>
+            
+            <TextLine id="_264a0468-5617-4764-9e35-53a625bddc7a">
+                <Coords points="76,750 1219,750 1219,784 76,784"/>
+                
+            <TextEquiv><Unicode>Peroto en su Cornucopia abrio mucho el camino para esto, Julio Cesar, Scaligero en su libro de cau-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0d98d641-98aa-412e-876e-b5bfd8b2baee" HPOS="78" VPOS="780" WIDTH="1141" HEIGHT="33">
-                        <Shape>
-                            <Polygon POINTS="78 780 1219 780 1219 813 78 813"/>
-                        </Shape>
-                        <String CONTENT="sis linguae Latina, y su hijo Josepho Scaligero, el Principe de los humanistas de nuestro tiempo, cor-"/>
-                    </TextLine>
+            
+            <TextLine id="_6e97b68e-d30d-4301-b3b6-0268436972ae">
+                <Coords points="78,780 1219,780 1219,813 78,813"/>
+                
+            <TextEquiv><Unicode>sis linguae Latina, y su hijo Josepho Scaligero, el Principe de los humanistas de nuestro tiempo, cor-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_7148efd5-fe34-4094-96ff-46c3c1df6587" HPOS="79" VPOS="812" WIDTH="1141" HEIGHT="34">
-                        <Shape>
-                            <Polygon POINTS="79 812 1220 812 1220 846 79 846"/>
-                        </Shape>
-                        <String CONTENT="rigio los engaños de Marco Varron en los Coniectaneos que hizo sobre su libro: y todos quantos"/>
-                    </TextLine>
+            
+            <TextLine id="_0bcf064c-327e-413f-9ce5-1383224a7b20">
+                <Coords points="79,812 1220,812 1220,846 79,846"/>
+                
+            <TextEquiv><Unicode>rigio los engaños de Marco Varron en los Coniectaneos que hizo sobre su libro: y todos quantos</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_344771fb-323a-42ac-872a-fa011b88eb26" HPOS="79" VPOS="841" WIDTH="1142" HEIGHT="34">
-                        <Shape>
-                            <Polygon POINTS="79 841 1221 841 1221 875 79 875"/>
-                        </Shape>
-                        <String CONTENT="han escrito libros Criticos en nuestros tiempos, han procurado adornarlos con verdaderas, y doctas"/>
-                    </TextLine>
+            
+            <TextLine id="_1a9fc02b-e6a4-4a69-825b-5d9c8f7819ba">
+                <Coords points="79,841 1221,841 1221,875 79,875"/>
+                
+            <TextEquiv><Unicode>han escrito libros Criticos en nuestros tiempos, han procurado adornarlos con verdaderas, y doctas</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f7554ede-f24e-4892-8619-8605e8a97cdb" HPOS="80" VPOS="873" WIDTH="1148" HEIGHT="33">
-                        <Shape>
-                            <Polygon POINTS="80 873 1228 873 1228 906 80 906"/>
-                        </Shape>
-                        <String CONTENT="Etymologias: dexo a parte el libro que agora escrivio Ivan Fungero de Etymologyas, que este bien"/>
-                    </TextLine>
+            
+            <TextLine id="_0b238121-61ed-433b-aeef-558c9ef619f2">
+                <Coords points="80,873 1228,873 1228,906 80,906"/>
+                
+            <TextEquiv><Unicode>Etymologias: dexo a parte el libro que agora escrivio Ivan Fungero de Etymologyas, que este bien</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_2cedff10-6d3f-4fae-b207-fb2bc2c2e0a5" HPOS="81" VPOS="904" WIDTH="1140" HEIGHT="33">
-                        <Shape>
-                            <Polygon POINTS="81 904 1221 904 1221 937 81 937"/>
-                        </Shape>
-                        <String CONTENT="se que no contentara a v. m. pero con todo esso es de tan grande utilidad el conocimiento de las ety-"/>
-                    </TextLine>
+            
+            <TextLine id="_35819c02-a2f8-4739-a6f0-68a2692b395a">
+                <Coords points="81,904 1221,904 1221,937 81,937"/>
+                
+            <TextEquiv><Unicode>se que no contentara a v. m. pero con todo esso es de tan grande utilidad el conocimiento de las ety-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_cc96610b-3f33-49ef-97f5-529604dddd97" HPOS="84" VPOS="935" WIDTH="1137" HEIGHT="32">
-                        <Shape>
-                            <Polygon POINTS="84 935 1221 935 1221 967 84 967"/>
-                        </Shape>
-                        <String CONTENT="mologias, que aun hasta las falsas se han de estimar, porque ocasionan a la Inquisicion, y investiga-"/>
-                    </TextLine>
+            
+            <TextLine id="_62bd3049-b8fa-4dc2-a38d-2bd3a8c41d4d">
+                <Coords points="84,935 1221,935 1221,967 84,967"/>
+                
+            <TextEquiv><Unicode>mologias, que aun hasta las falsas se han de estimar, porque ocasionan a la Inquisicion, y investiga-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_3220269a-d0b0-4849-b580-c8927041b429" HPOS="84" VPOS="966" WIDTH="1148" HEIGHT="33">
-                        <Shape>
-                            <Polygon POINTS="84 966 1232 966 1232 999 84 999"/>
-                        </Shape>
-                        <String CONTENT="cion de las verdaderas, porque estas demas de que dan conocimiento de la verdadera grincacion"/>
-                    </TextLine>
+            
+            <TextLine id="_95abb839-d9a0-4cd1-baf8-7bfbbb805a4a">
+                <Coords points="84,966 1232,966 1232,999 84,999"/>
+                
+            <TextEquiv><Unicode>cion de las verdaderas, porque estas demas de que dan conocimiento de la verdadera grincacion</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_7cb53e17-c86a-4a00-ad85-3ac1134028df" HPOS="85" VPOS="997" WIDTH="1139" HEIGHT="30">
-                        <Shape>
-                            <Polygon POINTS="85 997 1224 997 1224 1027 85 1027"/>
-                        </Shape>
-                        <String CONTENT="de los vocablos, desengañan de dos errores muy assentados en la ignorancia de los iergllages, pro-"/>
-                    </TextLine>
+            
+            <TextLine id="_ab892bda-2919-48a1-b038-7578eb65d09c">
+                <Coords points="85,997 1224,997 1224,1027 85,1027"/>
+                
+            <TextEquiv><Unicode>de los vocablos, desengañan de dos errores muy assentados en la ignorancia de los iergllages, pro-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_daf0aca7-3e5f-4709-a223-998070416ffd" HPOS="83" VPOS="1025" WIDTH="1140" HEIGHT="35">
-                        <Shape>
-                            <Polygon POINTS="83 1025 1223 1025 1223 1060 83 1060"/>
-                        </Shape>
-                        <String CONTENT="bando evidentemente lo contrario dellos; y enseñando lo uno que no es possible, que en un mismo"/>
-                    </TextLine>
+            
+            <TextLine id="_cfffc867-22f4-4de2-a99e-5214cc1dbddf">
+                <Coords points="83,1025 1223,1025 1223,1060 83,1060"/>
+                
+            <TextEquiv><Unicode>bando evidentemente lo contrario dellos; y enseñando lo uno que no es possible, que en un mismo</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_29590265-7d54-4630-97ff-db075c2e997c" HPOS="86" VPOS="1057" WIDTH="1145" HEIGHT="38">
-                        <Shape>
-                            <Polygon POINTS="86 1057 1231 1057 1231 1095 86 1095"/>
-                        </Shape>
-                        <String CONTENT="lenguaje aya vocablo que signifique dos coiss igualmente y lo otro, que es impossible que aya dos"/>
-                    </TextLine>
+            
+            <TextLine id="_a5c50a49-4209-45cb-b5f1-4116f4203115">
+                <Coords points="86,1057 1231,1057 1231,1095 86,1095"/>
+                
+            <TextEquiv><Unicode>lenguaje aya vocablo que signifique dos coiss igualmente y lo otro, que es impossible que aya dos</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_296631ec-b24c-42ae-b677-89d11699cda1" HPOS="85" VPOS="1089" WIDTH="1140" HEIGHT="32">
-                        <Shape>
-                            <Polygon POINTS="85 1089 1225 1089 1225 1121 85 1121"/>
-                        </Shape>
-                        <String CONTENT="o mas vocablos que igualmente signifiquen una cosa. Lo primero es cosa evidente, porque en los vo-"/>
-                    </TextLine>
+            
+            <TextLine id="_fa1a1ab1-3c02-4898-8121-fa0cdb4ea440">
+                <Coords points="85,1089 1225,1089 1225,1121 85,1121"/>
+                
+            <TextEquiv><Unicode>o mas vocablos que igualmente signifiquen una cosa. Lo primero es cosa evidente, porque en los vo-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_9ef83dc3-da23-4d5c-be8d-98dc595288c0" HPOS="87" VPOS="1119" WIDTH="1138" HEIGHT="31">
-                        <Shape>
-                            <Polygon POINTS="87 1119 1225 1119 1225 1150 87 1150"/>
-                        </Shape>
-                        <String CONTENT="cablos sucede lo mismo que en los instrumentos del servicio humano, en los que ies ay uso, que es el"/>
-                    </TextLine>
+            
+            <TextLine id="_f38af33f-19e9-40f6-97a1-442236999744">
+                <Coords points="87,1119 1225,1119 1225,1150 87,1150"/>
+                
+            <TextEquiv><Unicode>cablos sucede lo mismo que en los instrumentos del servicio humano, en los que ies ay uso, que es el</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_16ce2412-2274-4b5d-8703-c053b45b44a8" HPOS="88" VPOS="1150" WIDTH="1142" HEIGHT="33">
-                        <Shape>
-                            <Polygon POINTS="88 1150 1230 1150 1230 1183 88 1183"/>
-                        </Shape>
-                        <String CONTENT="fin para que se hizieron, y ay abuso; que es los fines a que los hombres por ienelirza los apocan;"/>
-                    </TextLine>
+            
+            <TextLine id="_55ed7666-2cad-40ed-91d1-37be11819ab8">
+                <Coords points="88,1150 1230,1150 1230,1183 88,1183"/>
+                
+            <TextEquiv><Unicode>fin para que se hizieron, y ay abuso; que es los fines a que los hombres por ienelirza los apocan;</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_4463aa5f-f151-448f-851e-6dc76751cb7d" HPOS="89" VPOS="1179" WIDTH="1136" HEIGHT="35">
-                        <Shape>
-                            <Polygon POINTS="89 1179 1225 1179 1225 1214 89 1214"/>
-                        </Shape>
-                        <String CONTENT="como un cuchillo solo se hizo para cortar, pero clavandole en un madero, y colgando algo del, sir-"/>
-                    </TextLine>
+            
+            <TextLine id="_a9ed4e85-7a92-424d-ba10-fad6dcbe8dde">
+                <Coords points="89,1179 1225,1179 1225,1214 89,1214"/>
+                
+            <TextEquiv><Unicode>como un cuchillo solo se hizo para cortar, pero clavandole en un madero, y colgando algo del, sir-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_d1fbb08a-d30f-4fdd-871a-4b3ebbdbebe1" HPOS="90" VPOS="1212" WIDTH="1137" HEIGHT="30">
-                        <Shape>
-                            <Polygon POINTS="90 1212 1227 1212 1227 1242 90 1242"/>
-                        </Shape>
-                        <String CONTENT="ve de clavo: no por uso propio, sino por abuso del que se sirve del, por la semejanza que tiene en la lar-"/>
-                    </TextLine>
+            
+            <TextLine id="_504362df-caed-450a-93b4-0b66e88ff19c">
+                <Coords points="90,1212 1227,1212 1227,1242 90,1242"/>
+                
+            <TextEquiv><Unicode>ve de clavo: no por uso propio, sino por abuso del que se sirve del, por la semejanza que tiene en la lar-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_85957ee7-b8b1-4d74-8e57-ab6e3255ea49" HPOS="90" VPOS="1241" WIDTH="1061" HEIGHT="33">
-                        <Shape>
-                            <Polygon POINTS="90 1241 1151 1241 1151 1274 90 1274"/>
-                        </Shape>
-                        <String CONTENT="gueza, dureza, y agudeza. Ni mas, ni menos es en los vocablos aquella acepcion de la Etymologia"/>
-                    </TextLine>
+            
+            <TextLine id="_213c2dfa-9bdd-4bd7-8b95-2c304e2e2075">
+                <Coords points="90,1241 1151,1241 1151,1274 90,1274"/>
+                
+            <TextEquiv><Unicode>gueza, dureza, y agudeza. Ni mas, ni menos es en los vocablos aquella acepcion de la Etymologia</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_40f2b207-f72c-4ba8-8e89-a344236ac984" HPOS="1154" VPOS="1246" WIDTH="73" HEIGHT="21">
-                        <Shape>
-                            <Polygon POINTS="1154 1246 1227 1246 1227 1267 1154 1267"/>
-                        </Shape>
-                        <String CONTENT="dellos es la verdadera, y assi a la Etymologia llamo Ciceron al pie de la letra en los Topicos verilo-"/>
-                    </TextLine>
+            
+            <TextLine id="_ccd66a97-371b-4151-bca6-d92f9bdbf96a">
+                <Coords points="1154,1246 1227,1246 1227,1267 1154,1267"/>
+                
+            <TextEquiv><Unicode>dellos es la verdadera, y assi a la Etymologia llamo Ciceron al pie de la letra en los Topicos verilo-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_38003553-7ae9-4bb6-84b7-786256a97b98" HPOS="90" VPOS="1271" WIDTH="1137" HEIGHT="32">
-                        <Shape>
-                            <Polygon POINTS="90 1271 1227 1271 1227 1303 90 1303"/>
-                        </Shape>
-                        <String CONTENT="quium, el mejor vocablo que el en su vida traduxo al proposito; y no quisiera que se huviera arrepen-"/>
-                    </TextLine>
+            
+            <TextLine id="_1e9495ef-b7fe-4db8-a133-be6997f8a5f3">
+                <Coords points="90,1271 1227,1271 1227,1303 90,1303"/>
+                
+            <TextEquiv><Unicode>quium, el mejor vocablo que el en su vida traduxo al proposito; y no quisiera que se huviera arrepen-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_47e22e11-00e7-4c70-b298-0200e202a428" HPOS="90" VPOS="1303" WIDTH="1138" HEIGHT="33">
-                        <Shape>
-                            <Polygon POINTS="90 1303 1228 1303 1228 1336 90 1336"/>
-                        </Shape>
-                        <String CONTENT="tido; y parecidole mal, pues la acepcion del vocablo en su propia Etymologia es la verdadera signi-"/>
-                    </TextLine>
+            
+            <TextLine id="_09e4cbba-0948-42f9-b9d7-cbacbdfccf95">
+                <Coords points="90,1303 1228,1303 1228,1336 90,1336"/>
+                
+            <TextEquiv><Unicode>tido; y parecidole mal, pues la acepcion del vocablo en su propia Etymologia es la verdadera signi-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_83aa3e14-3c94-438e-a634-f3a4f3646c05" HPOS="92" VPOS="1332" WIDTH="1137" HEIGHT="37">
-                        <Shape>
-                            <Polygon POINTS="92 1332 1229 1332 1229 1369 92 1369"/>
-                        </Shape>
-                        <String CONTENT="ficacion del. Las demas no son propias, sino aplicadas por Tropos, y particularmente por las cinco"/>
-                    </TextLine>
+            
+            <TextLine id="_12356355-0192-425b-96e2-59fb9512c683">
+                <Coords points="92,1332 1229,1332 1229,1369 92,1369"/>
+                
+            <TextEquiv><Unicode>ficacion del. Las demas no son propias, sino aplicadas por Tropos, y particularmente por las cinco</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_d11eaaa4-537b-4472-baab-97a95d46e3b6" HPOS="92" VPOS="1365" WIDTH="1146" HEIGHT="31">
-                        <Shape>
-                            <Polygon POINTS="92 1365 1238 1365 1238 1396 92 1396"/>
-                        </Shape>
-                        <String CONTENT="especies de la Metonymia, que son las que hazen todo este juego, del que llamamos abuso de los vo-"/>
-                    </TextLine>
+            
+            <TextLine id="_f209d84f-158e-4389-86fd-9a28b0ed9fed">
+                <Coords points="92,1365 1238,1365 1238,1396 92,1396"/>
+                
+            <TextEquiv><Unicode>especies de la Metonymia, que son las que hazen todo este juego, del que llamamos abuso de los vo-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_23bb257a-7452-4f54-a431-7cacde1caf36" HPOS="93" VPOS="1392" WIDTH="1137" HEIGHT="37">
-                        <Shape>
-                            <Polygon POINTS="93 1392 1230 1392 1230 1429 93 1429"/>
-                        </Shape>
-                        <String CONTENT="cablos, y la metafora que enriqueze todos los lenguages del mundo, y particularmente el nuestro,"/>
-                    </TextLine>
+            
+            <TextLine id="_cb31be02-7e50-48bb-b548-4217cfe99731">
+                <Coords points="93,1392 1230,1392 1230,1429 93,1429"/>
+                
+            <TextEquiv><Unicode>cablos, y la metafora que enriqueze todos los lenguages del mundo, y particularmente el nuestro,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_6c9d5fb9-31c4-4f1f-873b-119381dffa5b" HPOS="93" VPOS="1424" WIDTH="1134" HEIGHT="34">
-                        <Shape>
-                            <Polygon POINTS="93 1424 1227 1424 1227 1458 93 1458"/>
-                        </Shape>
-                        <String CONTENT="cuya elegancia, y sutileza descubrira este libro de v. m.  porque no puede conocerse la metafora, o"/>
-                    </TextLine>
+            
+            <TextLine id="_99a26d62-e034-4c09-abe7-4c1c08867109">
+                <Coords points="93,1424 1227,1424 1227,1458 93,1458"/>
+                
+            <TextEquiv><Unicode>cuya elegancia, y sutileza descubrira este libro de v. m.  porque no puede conocerse la metafora, o</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_1b7a6472-4db3-4f48-9693-316896f29026" HPOS="93" VPOS="1453" WIDTH="1135" HEIGHT="36">
-                        <Shape>
-                            <Polygon POINTS="93 1453 1228 1453 1228 1489 93 1489"/>
-                        </Shape>
-                        <String CONTENT="traslacion, sin que se sepa por la Etymologia la propia significacion del vocablo. El segundo error"/>
-                    </TextLine>
+            
+            <TextLine id="_fe56ffa9-b181-4bdd-a87a-596fae988509">
+                <Coords points="93,1453 1228,1453 1228,1489 93,1489"/>
+                
+            <TextEquiv><Unicode>traslacion, sin que se sepa por la Etymologia la propia significacion del vocablo. El segundo error</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_fa278d57-a1eb-4610-890b-968358e88276" HPOS="94" VPOS="1485" WIDTH="1136" HEIGHT="33">
-                        <Shape>
-                            <Polygon POINTS="94 1485 1230 1485 1230 1518 94 1518"/>
-                        </Shape>
-                        <String CONTENT="es creer que ay dos, o mas vocablos, que sifnifiquen una cosa misma, y este esta mas assentado que el"/>
-                    </TextLine>
+            
+            <TextLine id="_3bb5b1e2-8e87-4cf7-bba6-47dbb78d5bfe">
+                <Coords points="94,1485 1230,1485 1230,1518 94,1518"/>
+                
+            <TextEquiv><Unicode>es creer que ay dos, o mas vocablos, que sifnifiquen una cosa misma, y este esta mas assentado que el</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b974b6d4-5f92-47ec-b67b-b037d6cd1d79" HPOS="95" VPOS="1517" WIDTH="1135" HEIGHT="36">
-                        <Shape>
-                            <Polygon POINTS="95 1517 1230 1517 1230 1553 95 1553"/>
-                        </Shape>
-                        <String CONTENT="passado, y calificado con titulo de elegancia, aviendo muchos libros de los que falsamente llaman"/>
-                    </TextLine>
+            
+            <TextLine id="_544f106c-6905-4903-b3fc-e32726d0074e">
+                <Coords points="95,1517 1230,1517 1230,1553 95,1553"/>
+                
+            <TextEquiv><Unicode>passado, y calificado con titulo de elegancia, aviendo muchos libros de los que falsamente llaman</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_874cf2f7-1505-4b2e-9d9e-9252aa1e6097" HPOS="95" VPOS="1545" WIDTH="1135" HEIGHT="38">
-                        <Shape>
-                            <Polygon POINTS="95 1545 1230 1545 1230 1583 95 1583"/>
-                        </Shape>
-                        <String CONTENT="Synonymos, poniendo todos los vocablos que dizen significar una cosa misma, siendo cierto, que ni"/>
-                    </TextLine>
+            
+            <TextLine id="_6107150a-76e4-4890-97ab-c34e72ac1d49">
+                <Coords points="95,1545 1230,1545 1230,1583 95,1583"/>
+                
+            <TextEquiv><Unicode>Synonymos, poniendo todos los vocablos que dizen significar una cosa misma, siendo cierto, que ni</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b24f2be7-3921-49da-8815-3718641cc199" HPOS="97" VPOS="1579" WIDTH="1135" HEIGHT="33">
-                        <Shape>
-                            <Polygon POINTS="97 1579 1232 1579 1232 1612 97 1612"/>
-                        </Shape>
-                        <String CONTENT="estos son Synonymos, aunque signifiquen una cosa misma, ni la pueden significar propiamente, como"/>
-                    </TextLine>
+            
+            <TextLine id="_9b8fa61c-ad00-448a-b96c-6d827066207a">
+                <Coords points="97,1579 1232,1579 1232,1612 97,1612"/>
+                
+            <TextEquiv><Unicode>estos son Synonymos, aunque signifiquen una cosa misma, ni la pueden significar propiamente, como</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_82258501-af60-4871-b29b-996d2bca283e" HPOS="96" VPOS="1609" WIDTH="1141" HEIGHT="32">
-                        <Shape>
-                            <Polygon POINTS="96 1609 1237 1609 1237 1641 96 1641"/>
-                        </Shape>
-                        <String CONTENT="en los instrumentos que deziamos de los hombres, no puede aver dos diferentes, que hagan el mismo"/>
-                    </TextLine>
+            
+            <TextLine id="_4d4a5b78-8c49-4f0a-bbf9-75eefcaf52e7">
+                <Coords points="96,1609 1237,1609 1237,1641 96,1641"/>
+                
+            <TextEquiv><Unicode>en los instrumentos que deziamos de los hombres, no puede aver dos diferentes, que hagan el mismo</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_dc7cdc81-b3d3-4925-83f9-1bdc0d292e70" HPOS="96" VPOS="1642" WIDTH="1136" HEIGHT="32">
-                        <Shape>
-                            <Polygon POINTS="96 1642 1232 1642 1232 1674 96 1674"/>
-                        </Shape>
-                        <String CONTENT="oficio de la mesma manera: como el cuchillo; y las tixeras, se hizieron ambos para cortar, pero no"/>
-                    </TextLine>
+            
+            <TextLine id="_8a677b65-3479-486c-a3d5-794b51a34de5">
+                <Coords points="96,1642 1232,1642 1232,1674 96,1674"/>
+                
+            <TextEquiv><Unicode>oficio de la mesma manera: como el cuchillo; y las tixeras, se hizieron ambos para cortar, pero no</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_97bd64da-518b-4c9a-bcad-2664bfa9b691" HPOS="97" VPOS="1672" WIDTH="1135" HEIGHT="28">
-                        <Shape>
-                            <Polygon POINTS="97 1672 1232 1672 1232 1700 97 1700"/>
-                        </Shape>
-                        <String CONTENT="cortan de una misma manera, ni en todas las cosas el uso del uno se puede sacar del otro: y assi es en los vocablos, como dezimos en Latin conteauno, y despicio por despreciar, pero mirando la propia"/>
-                    </TextLine>
+            
+            <TextLine id="_67affec8-d431-43d0-84ca-07fdabd57d87">
+                <Coords points="97,1672 1232,1672 1232,1700 97,1700"/>
+                
+            <TextEquiv><Unicode>cortan de una misma manera, ni en todas las cosas el uso del uno se puede sacar del otro: y assi es en los vocablos, como dezimos en Latin conteauno, y despicio por despreciar, pero mirando la propia</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_8d286bea-b263-46a1-8fc3-ccda738d1cc3" HPOS="98" VPOS="1703" WIDTH="1134" HEIGHT="28">
-                        <Shape>
-                            <Polygon POINTS="98 1703 1232 1703 1232 1731 98 1731"/>
-                        </Shape>
-                        <String CONTENT="significacion de cada uno por la Etymologia, vemos que son muy diferentes, y por el mismo caso"/>
-                    </TextLine>
+            
+            <TextLine id="_8e8a49f4-8aa5-4e61-8922-68b16dc05aff">
+                <Coords points="98,1703 1232,1703 1232,1731 98,1731"/>
+                
+            <TextEquiv><Unicode>significacion de cada uno por la Etymologia, vemos que son muy diferentes, y por el mismo caso</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_d9862a08-93e4-4b3a-aefc-0558cb19664e" HPOS="98" VPOS="1733" WIDTH="1135" HEIGHT="30">
-                        <Shape>
-                            <Polygon POINTS="98 1733 1233 1733 1233 1763 98 1763"/>
-                        </Shape>
-                        <String CONTENT="que los Autores Antiguos los juntan, aviamos de entender que son muy diferentes en la significa-"/>
-                    </TextLine>
+            
+            <TextLine id="_ab4f6716-1c9d-44a2-9b51-002a96f475c9">
+                <Coords points="98,1733 1233,1733 1233,1763 98,1763"/>
+                
+            <TextEquiv><Unicode>que los Autores Antiguos los juntan, aviamos de entender que son muy diferentes en la significa-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_02c61a0f-524d-4a0a-9573-a0d929d2062e" HPOS="98" VPOS="1763" WIDTH="1135" HEIGHT="34">
-                        <Shape>
-                            <Polygon POINTS="98 1763 1233 1763 1233 1797 98 1797"/>
-                        </Shape>
-                        <String CONTENT="cion, pues a no serlo, fuera una intolerable Batologia. Estas son las grandes utilidades del conoci-"/>
-                    </TextLine>
+            
+            <TextLine id="_1712e6bb-cb99-4889-853e-6515847a181a">
+                <Coords points="98,1763 1233,1763 1233,1797 98,1797"/>
+                
+            <TextEquiv><Unicode>cion, pues a no serlo, fuera una intolerable Batologia. Estas son las grandes utilidades del conoci-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_90bb1cd1-1267-429b-b1de-fb0b160f302b" HPOS="98" VPOS="1795" WIDTH="1136" HEIGHT="31">
-                        <Shape>
-                            <Polygon POINTS="98 1795 1234 1795 1234 1826 98 1826"/>
-                        </Shape>
-                        <String CONTENT="miento de las Etymologias, demas de ser a mi parecer el mayor gusto de los buenos ingenios, como"/>
-                    </TextLine>
+            
+            <TextLine id="_b5f488da-9d1f-4786-9121-4689efb67092">
+                <Coords points="98,1795 1234,1795 1234,1826 98,1826"/>
+                
+            <TextEquiv><Unicode>miento de las Etymologias, demas de ser a mi parecer el mayor gusto de los buenos ingenios, como</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_eb813c00-c2c6-4715-a2d5-2573c71953b9" HPOS="100" VPOS="1826" WIDTH="1135" HEIGHT="32">
-                        <Shape>
-                            <Polygon POINTS="100 1826 1235 1826 1235 1858 100 1858"/>
-                        </Shape>
-                        <String CONTENT="de conocer las cosas por sus causas, entender los vocablos por las suyas, con el qual estudio se adquie"/>
-                    </TextLine>
+            
+            <TextLine id="_e47798fa-8afe-4b00-9ba8-1deaae7ca315">
+                <Coords points="100,1826 1235,1826 1235,1858 100,1858"/>
+                
+            <TextEquiv><Unicode>de conocer las cosas por sus causas, entender los vocablos por las suyas, con el qual estudio se adquie</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0f73c4f6-8c79-432c-9d98-e248465601dd" HPOS="98" VPOS="1856" WIDTH="1145" HEIGHT="34">
-                        <Shape>
-                            <Polygon POINTS="98 1856 1243 1856 1243 1890 98 1890"/>
-                        </Shape>
-                        <String CONTENT="re"/>
-                    </TextLine>
+            
+            <TextLine id="_15476c01-0573-45a1-a12f-b3463bc50960">
+                <Coords points="98,1856 1243,1856 1243,1890 98,1890"/>
+                
+            <TextEquiv><Unicode>re</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_aa8f469b-a547-4b3c-96c3-510e928f524f" HPOS="103" VPOS="1886" WIDTH="1140" HEIGHT="31">
-                        <Shape>
-                            <Polygon POINTS="103 1886 1243 1886 1243 1917 103 1917"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_c70e62ef-5bce-4651-9582-a89185d0fcf5">
+                <Coords points="103,1886 1243,1886 1243,1917 103,1917"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_3c791f04-c9eb-4f04-aff6-b2e702f021c8" HPOS="1216" VPOS="1924" WIDTH="22" HEIGHT="21">
-                        <Shape>
-                            <Polygon POINTS="1216 1924 1238 1924 1238 1945 1216 1945"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_3209f715-9489-4a40-8847-d008faf59b75">
+                <Coords points="1216,1924 1238,1924 1238,1945 1216,1945"/>
+                
+            </TextLine>
 
-                </TextBlock>
-            </PrintSpace>
-        </Page>
-    </Layout>
-</alto>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,333 +1,235 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
-    <Description>
-        <MeasurementUnit>pixel</MeasurementUnit>
-        <sourceImageInformation>
-            <fileName>None</fileName>
-        </sourceImageInformation>
-        <Processing ID="OCR__8042c0dc-5189-47af-975e-f25ac7cbc923">
-            <processingCategory>preOperation</processingCategory>
-            <processingStepDescription>Image binarization</processingStepDescription>
-            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-        <Processing ID="OCR__7a1a82a4-3f24-45c9-8d19-d0e50e468f9e">
-            <processingCategory>contentGeneration</processingCategory>
-            <processingStepDescription>bounding box segmentation</processingStepDescription>
-            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-    </Description>
-    <Tags>
-    </Tags>
-    <Layout>
-        <Page WIDTH="1329" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
-            <PrintSpace HPOS="0" VPOS="0" WIDTH="1329" HEIGHT="2000">
-                <TextBlock ID="textblock_1">
-                    
-                    <TextLine ID="_94d66bf2-9a85-44b6-b4ee-00bcaf137539" HPOS="202" VPOS="172" WIDTH="864" HEIGHT="71">
-                        <Shape>
-                            <Polygon POINTS="202 172 1066 172 1066 243 202 243"/>
-                        </Shape>
-                        <String CONTENT="su Magestad) no ha querellado, y la hembra (que es la"/>
-                    </TextLine>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T17:27:52.207958+00:00</Created>
+        <LastChange>2026-03-30T17:27:52.207958+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="None" imageWidth="1329" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1329,2000 1329,0"/>
+            
+            <TextLine id="_4155f4b1-b133-451a-b44c-5c808cd4772d">
+                <Coords points="202,172 1066,172 1066,243 202,243"/>
+                
+            <TextEquiv><Unicode>su Magestad) no ha querellado, y la hembra (que es la</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_c0a90a2a-58f9-4365-b387-605ad790adac" HPOS="204" VPOS="221" WIDTH="852" HEIGHT="68">
-                        <Shape>
-                            <Polygon POINTS="204 221 1056 221 1056 289 204 289"/>
-                        </Shape>
-                        <String CONTENT="doña Francisca casada oy con el matador) no le pide,"/>
-                    </TextLine>
+            
+            <TextLine id="_c6776ec0-de86-4c9f-af8f-6cb9fbe57ac5">
+                <Coords points="204,221 1056,221 1056,289 204,289"/>
+                
+            <TextEquiv><Unicode>doña Francisca casada oy con el matador) no le pide,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e589b04d-a6aa-43bb-95de-3d87747f2b01" HPOS="205" VPOS="272" WIDTH="857" HEIGHT="62">
-                        <Shape>
-                            <Polygon POINTS="205 272 1062 272 1062 334 205 334"/>
-                        </Shape>
-                        <String CONTENT="han de prevalecer a doña Catalina, q acusa por ser ma-"/>
-                    </TextLine>
+            
+            <TextLine id="_e9ac18a0-4756-41b5-82e0-1bfc359bf335">
+                <Coords points="205,272 1062,272 1062,334 205,334"/>
+                
+            <TextEquiv><Unicode>han de prevalecer a doña Catalina, q acusa por ser ma-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_088feeef-eea8-44d8-854f-d718ad5291c4" HPOS="206" VPOS="334" WIDTH="219" HEIGHT="54">
-                        <Shape>
-                            <Polygon POINTS="206 334 425 334 425 388 206 388"/>
-                        </Shape>
-                        <String CONTENT="yor parte."/>
-                    </TextLine>
+            
+            <TextLine id="_b6c18947-8bcb-42ac-ad85-da15b44767ec">
+                <Coords points="206,334 425,334 425,388 206,388"/>
+                
+            <TextEquiv><Unicode>yor parte.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_60217896-f9ca-4434-ac8a-04ce4ea1eb8a" HPOS="211" VPOS="358" WIDTH="847" HEIGHT="67">
-                        <Shape>
-                            <Polygon POINTS="211 358 1058 358 1058 425 211 425"/>
-                        </Shape>
-                        <String CONTENT="Pero este discurso repugna a la jurisprudencia, y a la"/>
-                    </TextLine>
+            
+            <TextLine id="_a69cc4a6-b7ca-4d25-8eb2-28a476c7e75b">
+                <Coords points="211,358 1058,358 1058,425 211,425"/>
+                
+            <TextEquiv><Unicode>Pero este discurso repugna a la jurisprudencia, y a la</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_556216e5-a314-4e6c-9c55-78d282fa9c4f" HPOS="206" VPOS="413" WIDTH="748" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="206 413 954 413 954 469 206 469"/>
-                        </Shape>
-                        <String CONTENT="resolucion mas assentada que ay en este Reyno."/>
-                    </TextLine>
+            
+            <TextLine id="_94b0c1fb-cfc4-48f8-ab9c-bf44d3b349c8">
+                <Coords points="206,413 954,413 954,469 206,469"/>
+                
+            <TextEquiv><Unicode>resolucion mas assentada que ay en este Reyno.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b83fbd8c-2712-448f-b9b5-99c9c368c4e1" HPOS="206" VPOS="453" WIDTH="851" HEIGHT="67">
-                        <Shape>
-                            <Polygon POINTS="206 453 1057 453 1057 520 206 520"/>
-                        </Shape>
-                        <String CONTENT="Lo primero, que la viuda tiene el primer lugar en la"/>
-                    </TextLine>
+            
+            <TextLine id="_5ee9a542-8c5d-4d56-94fb-467d074f23bb">
+                <Coords points="206,453 1057,453 1057,520 206,520"/>
+                
+            <TextEquiv><Unicode>Lo primero, que la viuda tiene el primer lugar en la</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_87e33666-7d36-43a1-9e63-c60dfc32eb04" HPOS="208" VPOS="501" WIDTH="849" HEIGHT="64">
-                        <Shape>
-                            <Polygon POINTS="208 501 1057 501 1057 565 208 565"/>
-                        </Shape>
-                        <String CONTENT="acusacion de la muerte del marido, y demas agravios"/>
-                    </TextLine>
+            
+            <TextLine id="_6add72cb-8753-48e0-b486-f5bfe62f5df1">
+                <Coords points="208,501 1057,501 1057,565 208,565"/>
+                
+            <TextEquiv><Unicode>acusacion de la muerte del marido, y demas agravios</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_5820c951-9587-4f80-862d-4d81f0b736a7" HPOS="207" VPOS="549" WIDTH="857" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="207 549 1064 549 1064 609 207 609"/>
-                        </Shape>
-                        <String CONTENT="hechos a su casa, sin que los hijos (quando huvieran acu-"/>
-                    </TextLine>
+            
+            <TextLine id="_49da08cc-d035-4512-986e-a3bed151166b">
+                <Coords points="207,549 1064,549 1064,609 207,609"/>
+                
+            <TextEquiv><Unicode>hechos a su casa, sin que los hijos (quando huvieran acu-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_abca6782-2de2-47f8-952c-7038770b1c87" HPOS="210" VPOS="593" WIDTH="848" HEIGHT="65">
-                        <Shape>
-                            <Polygon POINTS="210 593 1058 593 1058 658 210 658"/>
-                        </Shape>
-                        <String CONTENT="sado) puedan concurrir con ella, ni ser parte para remi-"/>
-                    </TextLine>
+            
+            <TextLine id="_bd3bcdd8-f249-49b4-b530-4599c5ebb3a3">
+                <Coords points="210,593 1058,593 1058,658 210,658"/>
+                
+            <TextEquiv><Unicode>sado) puedan concurrir con ella, ni ser parte para remi-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_5bc20e5a-0691-4400-a827-bd710eb7ca02" HPOS="211" VPOS="642" WIDTH="850" HEIGHT="65">
-                        <Shape>
-                            <Polygon POINTS="211 642 1061 642 1061 707 211 707"/>
-                        </Shape>
-                        <String CONTENT="tir la muerte, como lo assientan los Autores q adelante"/>
-                    </TextLine>
+            
+            <TextLine id="_b0d0db35-5e94-4fba-b89c-a409f04cd7b7">
+                <Coords points="211,642 1061,642 1061,707 211,707"/>
+                
+            <TextEquiv><Unicode>tir la muerte, como lo assientan los Autores q adelante</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_085769cc-2d05-496b-83b1-cc6dbc52a1ea" HPOS="211" VPOS="687" WIDTH="849" HEIGHT="62">
-                        <Shape>
-                            <Polygon POINTS="211 687 1060 687 1060 749 211 749"/>
-                        </Shape>
-                        <String CONTENT="se citaran, fundadas en la razon de que el derecho de"/>
-                    </TextLine>
+            
+            <TextLine id="_0219abc9-b9ac-4c61-abee-da139dc66fa6">
+                <Coords points="211,687 1060,687 1060,749 211,749"/>
+                
+            <TextEquiv><Unicode>se citaran, fundadas en la razon de que el derecho de</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_baddd15b-a538-49cf-9313-8de61e48a0bf" HPOS="210" VPOS="734" WIDTH="845" HEIGHT="58">
-                        <Shape>
-                            <Polygon POINTS="210 734 1055 734 1055 792 210 792"/>
-                        </Shape>
-                        <String CONTENT="acusar la muerte, non est quid haereditarium, I. pro haere"/>
-                    </TextLine>
+            
+            <TextLine id="_f369c172-3a3d-4ed0-b9ac-42766ce6dfc5">
+                <Coords points="210,734 1055,734 1055,792 210,792"/>
+                
+            <TextEquiv><Unicode>acusar la muerte, non est quid haereditarium, I. pro haere</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f979e292-ced3-40a8-b467-e0fa971e493d" HPOS="214" VPOS="782" WIDTH="838" HEIGHT="59">
-                        <Shape>
-                            <Polygon POINTS="214 782 1052 782 1052 841 214 841"/>
-                        </Shape>
-                        <String CONTENT="de, §, sin, ff, de acquiren. haered. &amp; sic, la muger aunque"/>
-                    </TextLine>
+            
+            <TextLine id="_1c787aa3-f178-409a-a889-ec382de71674">
+                <Coords points="214,782 1052,782 1052,841 214,841"/>
+                
+            <TextEquiv><Unicode>de, §, sin, ff, de acquiren. haered. &amp; sic, la muger aunque</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_023f6e10-40ed-4e73-919c-c25649a07a60" HPOS="216" VPOS="821" WIDTH="838" HEIGHT="58">
-                        <Shape>
-                            <Polygon POINTS="216 821 1054 821 1054 879 216 879"/>
-                        </Shape>
-                        <String CONTENT="no sea heredera de su marido, se prefiere en la acusacion"/>
-                    </TextLine>
+            
+            <TextLine id="_c570c1dc-37c0-4e48-91d8-883fbba54f5a">
+                <Coords points="216,821 1054,821 1054,879 216,879"/>
+                
+            <TextEquiv><Unicode>no sea heredera de su marido, se prefiere en la acusacion</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e72057a5-20dc-462e-acbe-041206d34ba6" HPOS="216" VPOS="866" WIDTH="838" HEIGHT="63">
-                        <Shape>
-                            <Polygon POINTS="216 866 1054 866 1054 929 216 929"/>
-                        </Shape>
-                        <String CONTENT="de su muerte a los hijos, y a todos los demas consangui-"/>
-                    </TextLine>
+            
+            <TextLine id="_8669d49f-6a52-44ec-b0a9-258c52021df0">
+                <Coords points="216,866 1054,866 1054,929 216,929"/>
+                
+            <TextEquiv><Unicode>de su muerte a los hijos, y a todos los demas consangui-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_3c7fa696-6800-4f0f-9147-67e275d9817a" HPOS="217" VPOS="914" WIDTH="833" HEIGHT="55">
-                        <Shape>
-                            <Polygon POINTS="217 914 1050 914 1050 969 217 969"/>
-                        </Shape>
-                        <String CONTENT="neos porque como por el matrimonio se hizieron am-"/>
-                    </TextLine>
+            
+            <TextLine id="_cb1dc026-2fb8-4a1b-8944-fc3bf6b4c8af">
+                <Coords points="217,914 1050,914 1050,969 217,969"/>
+                
+            <TextEquiv><Unicode>neos porque como por el matrimonio se hizieron am-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_29bac29e-92c7-4e4f-be5d-9c95ae1838a3" HPOS="218" VPOS="958" WIDTH="829" HEIGHT="49">
-                        <Shape>
-                            <Polygon POINTS="218 958 1047 958 1047 1007 218 1007"/>
-                        </Shape>
-                        <String CONTENT="bos una misma carne y sangre, no ay persona mas con-"/>
-                    </TextLine>
+            
+            <TextLine id="_e5a4c9eb-e106-4355-be6f-a2034b920843">
+                <Coords points="218,958 1047,958 1047,1007 218,1007"/>
+                
+            <TextEquiv><Unicode>bos una misma carne y sangre, no ay persona mas con-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_db01efeb-c856-4e78-8856-e3001f12e647" HPOS="220" VPOS="1001" WIDTH="824" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="220 1001 1044 1001 1044 1061 220 1061"/>
-                        </Shape>
-                        <String CONTENT="junta que ella, &amp; sunevnares, &amp; vnum fuppofitum, c."/>
-                    </TextLine>
+            
+            <TextLine id="_98b33748-1089-4bc2-99e3-fb59b8a022c5">
+                <Coords points="220,1001 1044,1001 1044,1061 220,1061"/>
+                
+            <TextEquiv><Unicode>junta que ella, &amp; sunevnares, &amp; vnum fuppofitum, c.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_10be908c-baf7-4fa4-8d98-b46a2550f1d1" HPOS="222" VPOS="1043" WIDTH="831" HEIGHT="61">
-                        <Shape>
-                            <Polygon POINTS="222 1043 1053 1043 1053 1104 222 1104"/>
-                        </Shape>
-                        <String CONTENT="gaudemus de divorcijs, iuxtra illud Pauli, erunt duo in"/>
-                    </TextLine>
+            
+            <TextLine id="_b643a7a0-7318-45a2-b068-ef0ebad56386">
+                <Coords points="222,1043 1053,1043 1053,1104 222,1104"/>
+                
+            <TextEquiv><Unicode>gaudemus de divorcijs, iuxtra illud Pauli, erunt duo in</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_719eba1e-4b78-4d87-8f12-4ff12c19d78c" HPOS="226" VPOS="1087" WIDTH="829" HEIGHT="54">
-                        <Shape>
-                            <Polygon POINTS="226 1087 1055 1087 1055 1141 226 1141"/>
-                        </Shape>
-                        <String CONTENT="carne una, itaque iam non sune duo, fedunacaro, &amp; ita"/>
-                    </TextLine>
+            
+            <TextLine id="_fcf8a9b4-2419-488e-b635-3fb8341a7680">
+                <Coords points="226,1087 1055,1087 1055,1141 226,1141"/>
+                
+            <TextEquiv><Unicode>carne una, itaque iam non sune duo, fedunacaro, &amp; ita</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_edfe344c-8a1b-4336-90c8-c7697c1825b9" HPOS="227" VPOS="1132" WIDTH="832" HEIGHT="61">
-                        <Shape>
-                            <Polygon POINTS="227 1132 1059 1132 1059 1193 227 1193"/>
-                        </Shape>
-                        <String CONTENT="nulla maior unio, quam coniugalis, nam ius divinum"/>
-                    </TextLine>
+            
+            <TextLine id="_a5351378-3554-4fb2-a933-1fe849cabae6">
+                <Coords points="227,1132 1059,1132 1059,1193 227,1193"/>
+                
+            <TextEquiv><Unicode>nulla maior unio, quam coniugalis, nam ius divinum</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0b2beede-afd1-4f60-be16-4cc9108a466e" HPOS="231" VPOS="1176" WIDTH="824" HEIGHT="49">
-                        <Shape>
-                            <Polygon POINTS="231 1176 1055 1176 1055 1225 231 1225"/>
-                        </Shape>
-                        <String CONTENT="consistit in veritate, &amp; non infictione, &amp; est focia vi-"/>
-                    </TextLine>
+            
+            <TextLine id="_aac59b27-2218-4da6-91c6-69a4ac6f727c">
+                <Coords points="231,1176 1055,1176 1055,1225 231,1225"/>
+                
+            <TextEquiv><Unicode>consistit in veritate, &amp; non infictione, &amp; est focia vi-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_be41db6e-4d0b-4f96-ac1b-aab8e6e1b3e2" HPOS="232" VPOS="1220" WIDTH="831" HEIGHT="57">
-                        <Shape>
-                            <Polygon POINTS="232 1220 1063 1220 1063 1277 232 1277"/>
-                        </Shape>
-                        <String CONTENT="vinae, &amp; humana domus, I. aduersus, C. de crimine ex-"/>
-                    </TextLine>
+            
+            <TextLine id="_251103fe-876c-4ecb-95c2-cdf8b623f9af">
+                <Coords points="232,1220 1063,1220 1063,1277 232,1277"/>
+                
+            <TextEquiv><Unicode>vinae, &amp; humana domus, I. aduersus, C. de crimine ex-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_4a443782-ae18-4382-95c3-ece2c313c32c" HPOS="233" VPOS="1269" WIDTH="833" HEIGHT="55">
-                        <Shape>
-                            <Polygon POINTS="233 1269 1066 1269 1066 1324 233 1324"/>
-                        </Shape>
-                        <String CONTENT="pil. heredit. &amp; matrimonium durare dicitur vno eorum"/>
-                    </TextLine>
+            
+            <TextLine id="_3be45142-2b28-460e-a302-19e88f7171fc">
+                <Coords points="233,1269 1066,1269 1066,1324 233,1324"/>
+                
+            <TextEquiv><Unicode>pil. heredit. &amp; matrimonium durare dicitur vno eorum</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_fa624e70-e5e0-40c3-ba82-0da259acacc4" HPOS="235" VPOS="1311" WIDTH="831" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="235 1311 1066 1311 1066 1367 235 1367"/>
-                        </Shape>
-                        <String CONTENT="superstite, authent, nec virum quod ex dore, §. nuptiali-"/>
-                    </TextLine>
+            
+            <TextLine id="_79dd0269-4143-4b0a-835b-39da4bf9d9dc">
+                <Coords points="235,1311 1066,1311 1066,1367 235,1367"/>
+                
+            <TextEquiv><Unicode>superstite, authent, nec virum quod ex dore, §. nuptiali-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e5c4cdd7-7413-4676-a5be-3ef5f3d7b423" HPOS="236" VPOS="1356" WIDTH="833" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="236 1356 1069 1356 1069 1404 236 1404"/>
-                        </Shape>
-                        <String CONTENT="bus, collat. 8. Y assi vemos, que los privilegios concedi-"/>
-                    </TextLine>
+            
+            <TextLine id="_f1f43bd9-e3b6-45fe-944b-fe1869dbb83a">
+                <Coords points="236,1356 1069,1356 1069,1404 236,1404"/>
+                
+            <TextEquiv><Unicode>bus, collat. 8. Y assi vemos, que los privilegios concedi-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_659fc498-2e3f-4b81-a585-c1bbad635e39" HPOS="240" VPOS="1401" WIDTH="831" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="240 1401 1071 1401 1071 1457 240 1457"/>
-                        </Shape>
-                        <String CONTENT="dos al marido, quantoquiera que sean personalissimos,"/>
-                    </TextLine>
+            
+            <TextLine id="_246f2693-82d9-4dcc-a21e-b7f7dc7f2292">
+                <Coords points="240,1401 1071,1401 1071,1457 240,1457"/>
+                
+            <TextEquiv><Unicode>dos al marido, quantoquiera que sean personalissimos,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_fad94bfe-b8e1-42ec-85f7-02c62a07e5e2" HPOS="244" VPOS="1442" WIDTH="825" HEIGHT="51">
-                        <Shape>
-                            <Polygon POINTS="244 1442 1069 1442 1069 1493 244 1493"/>
-                        </Shape>
-                        <String CONTENT="como el del fuero, y otros que se dan a la persona, ratio"/>
-                    </TextLine>
+            
+            <TextLine id="_cab572cb-60e8-4195-928b-3b6871d458ed">
+                <Coords points="244,1442 1069,1442 1069,1493 244,1493"/>
+                
+            <TextEquiv><Unicode>como el del fuero, y otros que se dan a la persona, ratio</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_d6c9c819-7c93-4ba0-b961-3037f6c404b9" HPOS="246" VPOS="1484" WIDTH="862" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="246 1484 1108 1484 1108 1544 246 1544"/>
-                        </Shape>
-                        <String CONTENT="ne officij, vel alias, los goza la muger, y no los hijos, I."/>
-                    </TextLine>
+            
+            <TextLine id="_378d822a-cc7c-4a5f-8bff-03c4859505c5">
+                <Coords points="246,1484 1108,1484 1108,1544 246,1544"/>
+                
+            <TextEquiv><Unicode>ne officij, vel alias, los goza la muger, y no los hijos, I.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_d4f6e3eb-34fa-4a5c-93b1-6de3fe54fbf5" HPOS="249" VPOS="1534" WIDTH="821" HEIGHT="49">
-                        <Shape>
-                            <Polygon POINTS="249 1534 1070 1534 1070 1583 249 1583"/>
-                        </Shape>
-                        <String CONTENT="mulieres, C. de dignitatibus lib. ro. Y en la viuda q vie-"/>
-                    </TextLine>
+            
+            <TextLine id="_df7801ad-629b-4ffb-81cc-044e02e712bd">
+                <Coords points="249,1534 1070,1534 1070,1583 249,1583"/>
+                
+            <TextEquiv><Unicode>mulieres, C. de dignitatibus lib. ro. Y en la viuda q vie-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_c08158cf-88d3-46ea-bb3d-f04ed81bd0f6" HPOS="252" VPOS="1574" WIDTH="819" HEIGHT="59">
-                        <Shape>
-                            <Polygon POINTS="252 1574 1071 1574 1071 1633 252 1633"/>
-                        </Shape>
-                        <String CONTENT="ne a quedar sola y desamparada, por faltalle la mitad"/>
-                    </TextLine>
+            
+            <TextLine id="_e3d52a11-4ec3-4cac-b781-3349eed7c271">
+                <Coords points="252,1574 1071,1574 1071,1633 252,1633"/>
+                
+            <TextEquiv><Unicode>ne a quedar sola y desamparada, por faltalle la mitad</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_14cbe0c0-2b9a-4354-a190-d754d5b72f8a" HPOS="253" VPOS="1619" WIDTH="817" HEIGHT="58">
-                        <Shape>
-                            <Polygon POINTS="253 1619 1070 1619 1070 1677 253 1677"/>
-                        </Shape>
-                        <String CONTENT="de su persona, se considera mayor interes y daño en la"/>
-                    </TextLine>
+            
+            <TextLine id="_2583a084-d48c-4961-a3ae-18de9db091eb">
+                <Coords points="253,1619 1070,1619 1070,1677 253,1677"/>
+                
+            <TextEquiv><Unicode>de su persona, se considera mayor interes y daño en la</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e34c6f72-e09c-4edb-bc94-67d182e0bc8b" HPOS="254" VPOS="1661" WIDTH="815" HEIGHT="55">
-                        <Shape>
-                            <Polygon POINTS="254 1661 1069 1661 1069 1716 254 1716"/>
-                        </Shape>
-                        <String CONTENT="muerte de su marido, que es la inspreccion que hizo el"/>
-                    </TextLine>
+            
+            <TextLine id="_ac09d9db-adee-4302-8e3b-c9b2e6d920f7">
+                <Coords points="254,1661 1069,1661 1069,1716 254,1716"/>
+                
+            <TextEquiv><Unicode>muerte de su marido, que es la inspreccion que hizo el</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_946c4fa7-266f-4c91-aa6b-12678f89c487" HPOS="257" VPOS="1710" WIDTH="811" HEIGHT="58">
-                        <Shape>
-                            <Polygon POINTS="257 1710 1068 1710 1068 1768 257 1768"/>
-                        </Shape>
-                        <String CONTENT="derecho, aun en terminos de concurso de acusadores,"/>
-                    </TextLine>
+            
+            <TextLine id="_eec0d1cf-48e9-464f-adf4-d86f4878972a">
+                <Coords points="257,1710 1068,1710 1068,1768 257,1768"/>
+                
+            <TextEquiv><Unicode>derecho, aun en terminos de concurso de acusadores,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e36456c2-3046-4bcf-a148-bd1210fa8a4e" HPOS="953" VPOS="1753" WIDTH="109" HEIGHT="38">
-                        <Shape>
-                            <Polygon POINTS="953 1753 1062 1753 1062 1791 953 1791"/>
-                        </Shape>
-                        <String CONTENT="para"/>
-                    </TextLine>
+            
+            <TextLine id="_666f122f-ca72-4a18-afeb-18bb53643655">
+                <Coords points="953,1753 1062,1753 1062,1791 953,1791"/>
+                
+            <TextEquiv><Unicode>para</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_12ccee64-18ea-40ee-874c-686a862c281c" HPOS="1107" VPOS="1909" WIDTH="160" HEIGHT="25">
-                        <Shape>
-                            <Polygon POINTS="1107 1909 1267 1909 1267 1934 1107 1934"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_2e9f0052-f365-4715-8cf5-d114d8e90a59">
+                <Coords points="1107,1909 1267,1909 1267,1934 1107,1934"/>
+                
+            </TextLine>
 
-                </TextBlock>
-            </PrintSpace>
-        </Page>
-    </Layout>
-</alto>
+        </TextRegion>
+    </Page>
+</PcGts>

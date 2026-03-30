@@ -1,269 +1,187 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
-    <Description>
-        <MeasurementUnit>pixel</MeasurementUnit>
-        <sourceImageInformation>
-            <fileName>None</fileName>
-        </sourceImageInformation>
-        <Processing ID="OCR__5e47e93f-4e97-4f14-af83-c840032c9e5b">
-            <processingCategory>preOperation</processingCategory>
-            <processingStepDescription>Image binarization</processingStepDescription>
-            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-        <Processing ID="OCR__557c2d05-9eed-40d1-af16-7f4db17ff1bc">
-            <processingCategory>contentGeneration</processingCategory>
-            <processingStepDescription>bounding box segmentation</processingStepDescription>
-            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-    </Description>
-    <Tags>
-    </Tags>
-    <Layout>
-        <Page WIDTH="1135" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
-            <PrintSpace HPOS="0" VPOS="0" WIDTH="1135" HEIGHT="2000">
-                <TextBlock ID="textblock_1">
-                    
-                    <TextLine ID="_68130484-c437-42a6-8fa6-e98d62b671fb" HPOS="332" VPOS="108" WIDTH="788" HEIGHT="79">
-                        <Shape>
-                            <Polygon POINTS="332 108 1120 108 1120 187 332 187"/>
-                        </Shape>
-                        <String CONTENT="guro disseño de su edad: la Reli-"/>
-                    </TextLine>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T17:29:04.768425+00:00</Created>
+        <LastChange>2026-03-30T17:29:04.768425+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="None" imageWidth="1135" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1135,2000 1135,0"/>
+            
+            <TextLine id="_14ea0238-a2f9-4b86-a77f-f772581438b5">
+                <Coords points="332,108 1120,108 1120,187 332,187"/>
+                
+            <TextEquiv><Unicode>guro disseño de su edad: la Reli-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_48085a0a-3e14-4ab6-b29e-8eebdb87d0ae" HPOS="333" VPOS="179" WIDTH="787" HEIGHT="67">
-                        <Shape>
-                            <Polygon POINTS="333 179 1120 179 1120 246 333 246"/>
-                        </Shape>
-                        <String CONTENT="gion para con Dios en la devota"/>
-                    </TextLine>
+            
+            <TextLine id="_952f65da-6231-4d3b-a19c-061f74a08c30">
+                <Coords points="333,179 1120,179 1120,246 333,246"/>
+                
+            <TextEquiv><Unicode>gion para con Dios en la devota</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e0c37765-14dc-4887-af7b-b423ba703015" HPOS="334" VPOS="241" WIDTH="785" HEIGHT="59">
-                        <Shape>
-                            <Polygon POINTS="334 241 1119 241 1119 300 334 300"/>
-                        </Shape>
-                        <String CONTENT="assistencia a los Templos; la piedad"/>
-                    </TextLine>
+            
+            <TextLine id="_4cd528b7-7bbd-4685-b2c4-62a78e0cf2b1">
+                <Coords points="334,241 1119,241 1119,300 334,300"/>
+                
+            <TextEquiv><Unicode>assistencia a los Templos; la piedad</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f0ea3464-a9fd-4d38-ac03-d57fb26a58b4" HPOS="335" VPOS="303" WIDTH="788" HEIGHT="53">
-                        <Shape>
-                            <Polygon POINTS="335 303 1123 303 1123 356 335 356"/>
-                        </Shape>
-                        <String CONTENT="con los Padres en la obediencia"/>
-                    </TextLine>
+            
+            <TextLine id="_16e9c5d0-1ed9-45f1-a513-2e0d4b3f1dd6">
+                <Coords points="335,303 1123,303 1123,356 335,356"/>
+                
+            <TextEquiv><Unicode>con los Padres en la obediencia</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_5a10adea-23c7-475d-bf03-6845c0161c7a" HPOS="330" VPOS="365" WIDTH="798" HEIGHT="65">
-                        <Shape>
-                            <Polygon POINTS="330 365 1128 365 1128 430 330 430"/>
-                        </Shape>
-                        <String CONTENT="mas rendida; y la modestia, y de-"/>
-                    </TextLine>
+            
+            <TextLine id="_98bd14d5-3d2a-4500-bd66-6c49fa2716ca">
+                <Coords points="330,365 1128,365 1128,430 330,430"/>
+                
+            <TextEquiv><Unicode>mas rendida; y la modestia, y de-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_18a684b9-22fe-4dae-8b42-30a7da3271e1" HPOS="334" VPOS="428" WIDTH="785" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="334 428 1119 428 1119 488 334 488"/>
-                        </Shape>
-                        <String CONTENT="seo de saber, con los mayores,"/>
-                    </TextLine>
+            
+            <TextLine id="_c530d575-da7a-4e09-8012-20d4dddede4d">
+                <Coords points="334,428 1119,428 1119,488 334,488"/>
+                
+            <TextEquiv><Unicode>seo de saber, con los mayores,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_fa2d6bbd-262f-46c5-8d67-a5c4873dde3e" HPOS="337" VPOS="490" WIDTH="779" HEIGHT="63">
-                        <Shape>
-                            <Polygon POINTS="337 490 1116 490 1116 553 337 553"/>
-                        </Shape>
-                        <String CONTENT="gustando mas de oir, y pregun-"/>
-                    </TextLine>
+            
+            <TextLine id="_375a5191-ca29-4410-aa3f-12642034e9ef">
+                <Coords points="337,490 1116,490 1116,553 337,553"/>
+                
+            <TextEquiv><Unicode>gustando mas de oir, y pregun-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_57bd1bcf-520c-4970-85f3-64558054d549" HPOS="337" VPOS="551" WIDTH="782" HEIGHT="63">
-                        <Shape>
-                            <Polygon POINTS="337 551 1119 551 1119 614 337 614"/>
-                        </Shape>
-                        <String CONTENT="tar, que de definir, y resolver. Bien"/>
-                    </TextLine>
+            
+            <TextLine id="_f1e65738-0f8b-4955-909c-36a032de5fdb">
+                <Coords points="337,551 1119,551 1119,614 337,614"/>
+                
+            <TextEquiv><Unicode>tar, que de definir, y resolver. Bien</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_12008951-345e-4b7e-bf20-25489df69986" HPOS="338" VPOS="612" WIDTH="788" HEIGHT="67">
-                        <Shape>
-                            <Polygon POINTS="338 612 1126 612 1126 679 338 679"/>
-                        </Shape>
-                        <String CONTENT="que esto en vuestra infinita Sabi-"/>
-                    </TextLine>
+            
+            <TextLine id="_523ea220-6b42-4359-a080-0db8ed7dafbd">
+                <Coords points="338,612 1126,612 1126,679 338,679"/>
+                
+            <TextEquiv><Unicode>que esto en vuestra infinita Sabi-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_8bbc84d9-845d-42d2-b8da-a2c50fc44ab8" HPOS="339" VPOS="675" WIDTH="783" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="339 675 1122 675 1122 735 339 735"/>
-                        </Shape>
-                        <String CONTENT="duria fue soberana dignacion, y"/>
-                    </TextLine>
+            
+            <TextLine id="_aac7e488-e963-4fdf-8cb2-babbafbb591a">
+                <Coords points="339,675 1122,675 1122,735 339,735"/>
+                
+            <TextEquiv><Unicode>duria fue soberana dignacion, y</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e6447c69-158d-4b9d-9af1-55be99a5e47c" HPOS="339" VPOS="737" WIDTH="783" HEIGHT="65">
-                        <Shape>
-                            <Polygon POINTS="339 737 1122 737 1122 802 339 802"/>
-                        </Shape>
-                        <String CONTENT="en la natural ignorancia de los"/>
-                    </TextLine>
+            
+            <TextLine id="_3193be30-f528-442a-bc71-3e764c3b59ad">
+                <Coords points="339,737 1122,737 1122,802 339,802"/>
+                
+            <TextEquiv><Unicode>en la natural ignorancia de los</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_9e81f70e-ff64-4018-9bfd-2822910f2e34" HPOS="337" VPOS="799" WIDTH="788" HEIGHT="59">
-                        <Shape>
-                            <Polygon POINTS="337 799 1125 799 1125 858 337 858"/>
-                        </Shape>
-                        <String CONTENT="Niños es indispensable necessi-"/>
-                    </TextLine>
+            
+            <TextLine id="_9b94199a-db46-485b-a31a-2edeaed2448d">
+                <Coords points="337,799 1125,799 1125,858 337,858"/>
+                
+            <TextEquiv><Unicode>Niños es indispensable necessi-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_ab554d49-7476-47da-b4a8-346ff70ded51" HPOS="337" VPOS="864" WIDTH="190" HEIGHT="44">
-                        <Shape>
-                            <Polygon POINTS="337 864 527 864 527 908 337 908"/>
-                        </Shape>
-                        <String CONTENT="dad."/>
-                    </TextLine>
+            
+            <TextLine id="_11d718c9-d6a0-4015-ad22-4b79156a6bcd">
+                <Coords points="337,864 527,864 527,908 337,908"/>
+                
+            <TextEquiv><Unicode>dad.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_c2db8a03-8a62-4a85-8656-20139716efcb" HPOS="457" VPOS="920" WIDTH="674" HEIGHT="58">
-                        <Shape>
-                            <Polygon POINTS="457 920 1131 920 1131 978 457 978"/>
-                        </Shape>
-                        <String CONTENT="Ni tienen solamente en Vos"/>
-                    </TextLine>
+            
+            <TextLine id="_abca87d6-00b7-4e37-8ec8-fcbff040d5ae">
+                <Coords points="457,920 1131,920 1131,978 457,978"/>
+                
+            <TextEquiv><Unicode>Ni tienen solamente en Vos</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_6c18d50a-2e01-4c71-968d-180f5946462c" HPOS="338" VPOS="983" WIDTH="788" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="338 983 1126 983 1126 1043 338 1043"/>
-                        </Shape>
-                        <String CONTENT="el disseño, la luz, y el exemplo,"/>
-                    </TextLine>
+            
+            <TextLine id="_3fac58ef-b096-4ce1-9627-d2e0a048e1a2">
+                <Coords points="338,983 1126,983 1126,1043 338,1043"/>
+                
+            <TextEquiv><Unicode>el disseño, la luz, y el exemplo,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e9f8bda8-eafc-4021-90cb-5baaa1103b8c" HPOS="338" VPOS="1047" WIDTH="786" HEIGHT="57">
-                        <Shape>
-                            <Polygon POINTS="338 1047 1124 1047 1124 1104 338 1104"/>
-                        </Shape>
-                        <String CONTENT="sino tambien el amor, y protec-"/>
-                    </TextLine>
+            
+            <TextLine id="_851c712c-9e48-4331-b15d-08e7751ad667">
+                <Coords points="338,1047 1124,1047 1124,1104 338,1104"/>
+                
+            <TextEquiv><Unicode>sino tambien el amor, y protec-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_a261a493-c627-4609-a371-2ece4486176c" HPOS="340" VPOS="1106" WIDTH="793" HEIGHT="61">
-                        <Shape>
-                            <Polygon POINTS="340 1106 1133 1106 1133 1167 340 1167"/>
-                        </Shape>
-                        <String CONTENT="cion. Vos, como singular Maes-"/>
-                    </TextLine>
+            
+            <TextLine id="_8b178548-ce28-4839-986f-c5d8a0d8ad1f">
+                <Coords points="340,1106 1133,1106 1133,1167 340,1167"/>
+                
+            <TextEquiv><Unicode>cion. Vos, como singular Maes-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_039ed2ef-e316-4c4b-a784-5e78e785d8a4" HPOS="340" VPOS="1169" WIDTH="791" HEIGHT="64">
-                        <Shape>
-                            <Polygon POINTS="340 1169 1131 1169 1131 1233 340 1233"/>
-                        </Shape>
-                        <String CONTENT="tro de los Niños, les dais enten-"/>
-                    </TextLine>
+            
+            <TextLine id="_26e8f06f-c967-4ed1-8462-ac7ce2ddcdf3">
+                <Coords points="340,1169 1131,1169 1131,1233 340,1233"/>
+                
+            <TextEquiv><Unicode>tro de los Niños, les dais enten-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_90688ae4-750d-486e-93e7-9cb6701fd946" HPOS="322" VPOS="1230" WIDTH="806" HEIGHT="65">
-                        <Shape>
-                            <Polygon POINTS="322 1230 1128 1230 1128 1295 322 1295"/>
-                        </Shape>
-                        <String CONTENT="dimiento, y comunicais la sabi-"/>
-                    </TextLine>
+            
+            <TextLine id="_e9af9a15-2a0a-45c4-9836-da1556387e24">
+                <Coords points="322,1230 1128,1230 1128,1295 322,1295"/>
+                
+            <TextEquiv><Unicode>dimiento, y comunicais la sabi-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_c86adfe1-d83a-46dd-ba79-fa85cdeb75d6" HPOS="308" VPOS="1291" WIDTH="820" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="308 1291 1128 1291 1128 1351 308 1351"/>
-                        </Shape>
-                        <String CONTENT="duria. Vos les prometeis el Reyno"/>
-                    </TextLine>
+            
+            <TextLine id="_226056aa-b10b-4fdb-826a-bcb6561b2326">
+                <Coords points="308,1291 1128,1291 1128,1351 308,1351"/>
+                
+            <TextEquiv><Unicode>duria. Vos les prometeis el Reyno</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_8bd9a15c-59fb-43fe-8b86-16120cc41bae" HPOS="325" VPOS="1352" WIDTH="801" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="325 1352 1126 1352 1126 1412 325 1412"/>
-                        </Shape>
-                        <String CONTENT="de los Cielos, y os indignais con"/>
-                    </TextLine>
+            
+            <TextLine id="_366d3d1a-e504-4cc3-9cf5-5bc6807f0db4">
+                <Coords points="325,1352 1126,1352 1126,1412 325,1412"/>
+                
+            <TextEquiv><Unicode>de los Cielos, y os indignais con</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b11578c0-e05d-483e-b4fa-0a2e3efa86e6" HPOS="343" VPOS="1413" WIDTH="788" HEIGHT="66">
-                        <Shape>
-                            <Polygon POINTS="343 1413 1131 1413 1131 1479 343 1479"/>
-                        </Shape>
-                        <String CONTENT="quien les aparta de Vos, y les"/>
-                    </TextLine>
+            
+            <TextLine id="_d706ffeb-9039-4b41-9a14-3225ff59f454">
+                <Coords points="343,1413 1131,1413 1131,1479 343,1479"/>
+                
+            <TextEquiv><Unicode>quien les aparta de Vos, y les</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_745c4ccf-1005-4e43-b641-f46ba944a4b4" HPOS="343" VPOS="1476" WIDTH="789" HEIGHT="64">
-                        <Shape>
-                            <Polygon POINTS="343 1476 1132 1476 1132 1540 343 1540"/>
-                        </Shape>
-                        <String CONTENT="proponeis por norma del can-"/>
-                    </TextLine>
+            
+            <TextLine id="_a07398be-dfe7-4f32-afb6-08b765a4ad45">
+                <Coords points="343,1476 1132,1476 1132,1540 343,1540"/>
+                
+            <TextEquiv><Unicode>proponeis por norma del can-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_707e3c95-8969-41e9-8d74-90d9cbc9fd1d" HPOS="343" VPOS="1538" WIDTH="790" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="343 1538 1133 1538 1133 1598 343 1598"/>
-                        </Shape>
-                        <String CONTENT="dor, inocencia, y christiana hu-"/>
-                    </TextLine>
+            
+            <TextLine id="_c2303696-3976-477a-a3ce-b3f594025f3e">
+                <Coords points="343,1538 1133,1538 1133,1598 343,1598"/>
+                
+            <TextEquiv><Unicode>dor, inocencia, y christiana hu-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f36f8cef-0241-4898-a71c-2fdcae8ea479" HPOS="331" VPOS="1601" WIDTH="802" HEIGHT="58">
-                        <Shape>
-                            <Polygon POINTS="331 1601 1133 1601 1133 1659 331 1659"/>
-                        </Shape>
-                        <String CONTENT="mildad. Vuestro amor parece que"/>
-                    </TextLine>
+            
+            <TextLine id="_a746571f-a17f-41ce-8f01-65d4d70888dc">
+                <Coords points="331,1601 1133,1601 1133,1659 331,1659"/>
+                
+            <TextEquiv><Unicode>mildad. Vuestro amor parece que</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_4d476d05-cb43-4a76-9ec8-065ca140e3c6" HPOS="346" VPOS="1662" WIDTH="785" HEIGHT="61">
-                        <Shape>
-                            <Polygon POINTS="346 1662 1131 1662 1131 1723 346 1723"/>
-                        </Shape>
-                        <String CONTENT="no pudo explicarse mas tierno, y"/>
-                    </TextLine>
+            
+            <TextLine id="_3b75e2fb-3c98-4bf4-9451-087c0769f715">
+                <Coords points="346,1662 1131,1662 1131,1723 346,1723"/>
+                
+            <TextEquiv><Unicode>no pudo explicarse mas tierno, y</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_c4e4e2b9-90e8-40d5-9db8-2fd18a2a6532" HPOS="340" VPOS="1726" WIDTH="791" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="340 1726 1131 1726 1131 1782 340 1782"/>
-                        </Shape>
-                        <String CONTENT="liberal con los Niños, pues no"/>
-                    </TextLine>
+            
+            <TextLine id="_b597001f-1f8d-4592-b019-521b18911267">
+                <Coords points="340,1726 1131,1726 1131,1782 340,1782"/>
+                
+            <TextEquiv><Unicode>liberal con los Niños, pues no</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_15485364-759a-4c07-a44f-0b3acadb60ce" HPOS="341" VPOS="1782" WIDTH="790" HEIGHT="69">
-                        <Shape>
-                            <Polygon POINTS="341 1782 1131 1782 1131 1851 341 1851"/>
-                        </Shape>
-                        <String CONTENT="contento de echarles vuestras di-"/>
-                    </TextLine>
+            
+            <TextLine id="_a4668ab3-7640-47ff-9f85-e38e08d993d8">
+                <Coords points="341,1782 1131,1782 1131,1851 341,1851"/>
+                
+            <TextEquiv><Unicode>contento de echarles vuestras di-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b599826f-08d2-4119-a546-c768ae571c80" HPOS="951" VPOS="1845" WIDTH="116" HEIGHT="54">
-                        <Shape>
-                            <Polygon POINTS="951 1845 1067 1845 1067 1899 951 1899"/>
-                        </Shape>
-                        <String CONTENT="divi-"/>
-                    </TextLine>
+            
+            <TextLine id="_c5650529-0b58-4639-851c-b143f9675110">
+                <Coords points="951,1845 1067,1845 1067,1899 951,1899"/>
+                
+            <TextEquiv><Unicode>divi-</Unicode></TextEquiv></TextLine>
 
-                </TextBlock>
-            </PrintSpace>
-        </Page>
-    </Layout>
-</alto>
+        </TextRegion>
+    </Page>
+</PcGts>

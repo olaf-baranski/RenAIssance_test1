@@ -1,221 +1,151 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
-    <Description>
-        <MeasurementUnit>pixel</MeasurementUnit>
-        <sourceImageInformation>
-            <fileName>None</fileName>
-        </sourceImageInformation>
-        <Processing ID="OCR__6746fb8e-ac5e-43d0-ae8e-73ddbad5685c">
-            <processingCategory>preOperation</processingCategory>
-            <processingStepDescription>Image binarization</processingStepDescription>
-            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-        <Processing ID="OCR__8c2d28af-c046-4da5-af9a-18efe16c066c">
-            <processingCategory>contentGeneration</processingCategory>
-            <processingStepDescription>bounding box segmentation</processingStepDescription>
-            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-    </Description>
-    <Tags>
-    </Tags>
-    <Layout>
-        <Page WIDTH="1516" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
-            <PrintSpace HPOS="0" VPOS="0" WIDTH="1516" HEIGHT="2000">
-                <TextBlock ID="textblock_1">
-                    
-                    <TextLine ID="_0540ead8-11cc-4959-8ba9-f14c99fcecad" HPOS="409" VPOS="331" WIDTH="812" HEIGHT="92">
-                        <Shape>
-                            <Polygon POINTS="409 331 1221 331 1221 423 409 423"/>
-                        </Shape>
-                        <String CONTENT="Al"/>
-                    </TextLine>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T17:28:23.949313+00:00</Created>
+        <LastChange>2026-03-30T17:28:23.949313+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="None" imageWidth="1516" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1516,2000 1516,0"/>
+            
+            <TextLine id="_6e3d5edb-051c-4a82-9a06-127f2d6559c9">
+                <Coords points="409,331 1221,331 1221,423 409,423"/>
+                
+            <TextEquiv><Unicode>Al</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_da8cf05c-cdc6-4013-ab50-906eeeaa03f7" HPOS="508" VPOS="439" WIDTH="191" HEIGHT="47">
-                        <Shape>
-                            <Polygon POINTS="508 439 699 439 699 486 508 486"/>
-                        </Shape>
-                        <String CONTENT="INFINITAMENTE AMABLE"/>
-                    </TextLine>
+            
+            <TextLine id="_151c5c82-eee8-410b-bb9a-8cf0941f6faa">
+                <Coords points="508,439 699,439 699,486 508,486"/>
+                
+            <TextEquiv><Unicode>INFINITAMENTE AMABLE</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_ed39130b-b3a1-43bb-bffd-f2c45a55ac62" HPOS="837" VPOS="433" WIDTH="279" HEIGHT="68">
-                        <Shape>
-                            <Polygon POINTS="837 433 1116 433 1116 501 837 501"/>
-                        </Shape>
-                        <String CONTENT="NIÑO JESUS."/>
-                    </TextLine>
+            
+            <TextLine id="_76f67762-38bc-413b-adca-b67038cbde25">
+                <Coords points="837,433 1116,433 1116,501 837,501"/>
+                
+            <TextEquiv><Unicode>NIÑO JESUS.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_413c405f-6450-4797-b29c-775cf4cda128" HPOS="561" VPOS="468" WIDTH="581" HEIGHT="99">
-                        <Shape>
-                            <Polygon POINTS="561 468 1142 468 1142 567 561 567"/>
-                        </Shape>
-                        <String CONTENT="A Vos, Dulcissimo Niño"/>
-                    </TextLine>
+            
+            <TextLine id="_45a0a2d6-2ef1-4119-8587-1d48b08bc0fd">
+                <Coords points="561,468 1142,468 1142,567 561,567"/>
+                
+            <TextEquiv><Unicode>A Vos, Dulcissimo Niño</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_2a29ff42-f119-4198-a6be-a4480556432a" HPOS="545" VPOS="648" WIDTH="681" HEIGHT="66">
-                        <Shape>
-                            <Polygon POINTS="545 648 1226 648 1226 714 545 714"/>
-                        </Shape>
-                        <String CONTENT="JESUS, que no solo os"/>
-                    </TextLine>
+            
+            <TextLine id="_fe42de98-e4c3-4adc-a1d0-f896b36e5452">
+                <Coords points="545,648 1226,648 1226,714 545,714"/>
+                
+            <TextEquiv><Unicode>JESUS, que no solo os</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_008e3b29-f102-4d9c-a599-4ef211e74c28" HPOS="413" VPOS="697" WIDTH="810" HEIGHT="142">
-                        <Shape>
-                            <Polygon POINTS="413 697 1223 697 1223 839 413 839"/>
-                        </Shape>
-                        <String CONTENT="dignasteis de llamaros"/>
-                    </TextLine>
+            
+            <TextLine id="_a05e4d72-80f6-490b-8d0d-e76f8ccb2c9f">
+                <Coords points="413,697 1223,697 1223,839 413,839"/>
+                
+            <TextEquiv><Unicode>dignasteis de llamaros</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_becb8fbc-4f96-4b96-8217-1e53f28607c9" HPOS="549" VPOS="824" WIDTH="672" HEIGHT="80">
-                        <Shape>
-                            <Polygon POINTS="549 824 1221 824 1221 904 549 904"/>
-                        </Shape>
-                        <String CONTENT="Doctor de los Niños,"/>
-                    </TextLine>
+            
+            <TextLine id="_0d19e519-a09d-4c8b-950d-b7948fb44d65">
+                <Coords points="549,824 1221,824 1221,904 549,904"/>
+                
+            <TextEquiv><Unicode>Doctor de los Niños,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e9203daf-950c-4a31-afbd-4a6bd8e5d8e9" HPOS="575" VPOS="897" WIDTH="648" HEIGHT="51">
-                        <Shape>
-                            <Polygon POINTS="575 897 1223 897 1223 948 575 948"/>
-                        </Shape>
-                        <String CONTENT="sino también de assis-"/>
-                    </TextLine>
+            
+            <TextLine id="_3a3d8f78-838a-46e6-85ea-a4d0a03a7d45">
+                <Coords points="575,897 1223,897 1223,948 575,948"/>
+                
+            <TextEquiv><Unicode>sino también de assis-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_9e6a5d50-31a5-41b7-b830-a6f8b6b0bbe3" HPOS="409" VPOS="961" WIDTH="817" HEIGHT="54">
-                        <Shape>
-                            <Polygon POINTS="409 961 1226 961 1226 1015 409 1015"/>
-                        </Shape>
-                        <String CONTENT="tir como Niño entre los Doctores,"/>
-                    </TextLine>
+            
+            <TextLine id="_af1c0274-70d7-4f19-9ba9-77b81a4b62be">
+                <Coords points="409,961 1226,961 1226,1015 409,1015"/>
+                
+            <TextEquiv><Unicode>tir como Niño entre los Doctores,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_9153f248-6794-4703-ba36-17cdcd545126" HPOS="407" VPOS="1023" WIDTH="819" HEIGHT="64">
-                        <Shape>
-                            <Polygon POINTS="407 1023 1226 1023 1226 1087 407 1087"/>
-                        </Shape>
-                        <String CONTENT="se consagra humilde esta pequeña"/>
-                    </TextLine>
+            
+            <TextLine id="_7734aa4e-895e-437c-bf18-49664bb0f5b7">
+                <Coords points="407,1023 1226,1023 1226,1087 407,1087"/>
+                
+            <TextEquiv><Unicode>se consagra humilde esta pequeña</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_a89560bd-cd98-4784-b3bf-02363c36a2ac" HPOS="406" VPOS="1083" WIDTH="821" HEIGHT="64">
-                        <Shape>
-                            <Polygon POINTS="406 1083 1227 1083 1227 1147 406 1147"/>
-                        </Shape>
-                        <String CONTENT="Instrucción de los Niños. Es assi,"/>
-                    </TextLine>
+            
+            <TextLine id="_428000f3-1a52-4620-84c9-c98d0d5d6971">
+                <Coords points="406,1083 1227,1083 1227,1147 406,1147"/>
+                
+            <TextEquiv><Unicode>Instrucción de los Niños. Es assi,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_70c92122-e4ab-4cea-9c02-45079fa0bff5" HPOS="408" VPOS="1146" WIDTH="820" HEIGHT="65">
-                        <Shape>
-                            <Polygon POINTS="408 1146 1228 1146 1228 1211 408 1211"/>
-                        </Shape>
-                        <String CONTENT="que ella también se dirige a la ju-"/>
-                    </TextLine>
+            
+            <TextLine id="_cb6ff26e-d163-4168-94d3-5e043f235aad">
+                <Coords points="408,1146 1228,1146 1228,1211 408,1211"/>
+                
+            <TextEquiv><Unicode>que ella también se dirige a la ju-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b5749a87-392a-4898-8947-0f4814248be3" HPOS="404" VPOS="1210" WIDTH="825" HEIGHT="62">
-                        <Shape>
-                            <Polygon POINTS="404 1210 1229 1210 1229 1272 404 1272"/>
-                        </Shape>
-                        <String CONTENT="ventud; pero a esta, como recuer-"/>
-                    </TextLine>
+            
+            <TextLine id="_8a0e4a71-ca08-4436-8c9f-acec6abeb409">
+                <Coords points="404,1210 1229,1210 1229,1272 404,1272"/>
+                
+            <TextEquiv><Unicode>ventud; pero a esta, como recuer-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_43132ad3-80d9-41c7-84c4-704ce26e9471" HPOS="395" VPOS="1268" WIDTH="834" HEIGHT="66">
-                        <Shape>
-                            <Polygon POINTS="395 1268 1229 1268 1229 1334 395 1334"/>
-                        </Shape>
-                        <String CONTENT="do de lo que aprendió, a los Ni-"/>
-                    </TextLine>
+            
+            <TextLine id="_b9a5f39d-a00b-45b8-920e-bda1de464894">
+                <Coords points="395,1268 1229,1268 1229,1334 395,1334"/>
+                
+            <TextEquiv><Unicode>do de lo que aprendió, a los Ni-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0b31bca0-dfa3-428c-908e-6fbb3a55caad" HPOS="407" VPOS="1329" WIDTH="822" HEIGHT="65">
-                        <Shape>
-                            <Polygon POINTS="407 1329 1229 1329 1229 1394 407 1394"/>
-                        </Shape>
-                        <String CONTENT="ños, como precisa explicacion de"/>
-                    </TextLine>
+            
+            <TextLine id="_e2298790-d244-4429-a799-29374c29739f">
+                <Coords points="407,1329 1229,1329 1229,1394 407,1394"/>
+                
+            <TextEquiv><Unicode>ños, como precisa explicacion de</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_043ca095-ee94-4c6b-b503-cbf3ed441c73" HPOS="404" VPOS="1390" WIDTH="826" HEIGHT="68">
-                        <Shape>
-                            <Polygon POINTS="404 1390 1230 1390 1230 1458 404 1458"/>
-                        </Shape>
-                        <String CONTENT="lo que deben estudiar. Por este so-"/>
-                    </TextLine>
+            
+            <TextLine id="_a1f8b8e6-8756-4f67-81d5-6cf6dbbf212b">
+                <Coords points="404,1390 1230,1390 1230,1458 404,1458"/>
+                
+            <TextEquiv><Unicode>lo que deben estudiar. Por este so-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_ff38e05a-becc-48e0-ae03-d5a3e2ff3937" HPOS="407" VPOS="1455" WIDTH="820" HEIGHT="68">
-                        <Shape>
-                            <Polygon POINTS="407 1455 1227 1455 1227 1523 407 1523"/>
-                        </Shape>
-                        <String CONTENT="lo titulo es muy vuestra; y por"/>
-                    </TextLine>
+            
+            <TextLine id="_147951ce-dfe1-4468-8812-04a1891ab424">
+                <Coords points="407,1455 1227,1455 1227,1523 407,1523"/>
+                
+            <TextEquiv><Unicode>lo titulo es muy vuestra; y por</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_474828a8-436a-4959-bdbb-10245e0ae149" HPOS="409" VPOS="1515" WIDTH="820" HEIGHT="68">
-                        <Shape>
-                            <Polygon POINTS="409 1515 1229 1515 1229 1583 409 1583"/>
-                        </Shape>
-                        <String CONTENT="ser para Niños, que confiais a la"/>
-                    </TextLine>
+            
+            <TextLine id="_e00da78d-730d-485b-bce3-9467f5f95d5b">
+                <Coords points="409,1515 1229,1515 1229,1583 409,1583"/>
+                
+            <TextEquiv><Unicode>ser para Niños, que confiais a la</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b4c7a9cf-b598-47ee-a9db-360013d70493" HPOS="409" VPOS="1578" WIDTH="819" HEIGHT="64">
-                        <Shape>
-                            <Polygon POINTS="409 1578 1228 1578 1228 1642 409 1642"/>
-                        </Shape>
-                        <String CONTENT="educacion de vuestra Compañia,"/>
-                    </TextLine>
+            
+            <TextLine id="_ee2c87fd-fff7-42a0-a4de-2bcf6cc99b0e">
+                <Coords points="409,1578 1228,1578 1228,1642 409,1642"/>
+                
+            <TextEquiv><Unicode>educacion de vuestra Compañia,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_41c8d571-55de-47f0-8ca2-d3a3fd564ff6" HPOS="407" VPOS="1638" WIDTH="823" HEIGHT="69">
-                        <Shape>
-                            <Polygon POINTS="407 1638 1230 1638 1230 1707 407 1707"/>
-                        </Shape>
-                        <String CONTENT="lo es mucho mas. En Vos, (Divi-"/>
-                    </TextLine>
+            
+            <TextLine id="_4bcf4514-5ef4-4335-99e8-fd421a6f87bb">
+                <Coords points="407,1638 1230,1638 1230,1707 407,1707"/>
+                
+            <TextEquiv><Unicode>lo es mucho mas. En Vos, (Divi-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_dc32db84-5d6d-4a17-83f2-9084a4c2439f" HPOS="410" VPOS="1701" WIDTH="821" HEIGHT="68">
-                        <Shape>
-                            <Polygon POINTS="410 1701 1231 1701 1231 1769 410 1769"/>
-                        </Shape>
-                        <String CONTENT="no Exemplar de todas las virtu-"/>
-                    </TextLine>
+            
+            <TextLine id="_2e7e5490-2dd8-4f6a-ad1e-c0012595455a">
+                <Coords points="410,1701 1231,1701 1231,1769 410,1769"/>
+                
+            <TextEquiv><Unicode>no Exemplar de todas las virtu-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f3ed599c-6a71-42f1-a945-444287748233" HPOS="413" VPOS="1762" WIDTH="819" HEIGHT="70">
-                        <Shape>
-                            <Polygon POINTS="413 1762 1232 1762 1232 1832 413 1832"/>
-                        </Shape>
-                        <String CONTENT="des) tienen abreviado el mas se-"/>
-                    </TextLine>
+            
+            <TextLine id="_456f7d75-1a94-4dce-ad54-a21fe2733433">
+                <Coords points="413,1762 1232,1762 1232,1832 413,1832"/>
+                
+            <TextEquiv><Unicode>des) tienen abreviado el mas se-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_995bcb15-93b2-4d87-b1a1-80e65d128635" HPOS="1062" VPOS="1836" WIDTH="111" HEIGHT="47">
-                        <Shape>
-                            <Polygon POINTS="1062 1836 1173 1836 1173 1883 1062 1883"/>
-                        </Shape>
-                        <String CONTENT="guro"/>
-                    </TextLine>
+            
+            <TextLine id="_03f9c57c-b016-4d35-bc5c-5cdd4fa300f5">
+                <Coords points="1062,1836 1173,1836 1173,1883 1062,1883"/>
+                
+            <TextEquiv><Unicode>guro</Unicode></TextEquiv></TextLine>
 
-                </TextBlock>
-            </PrintSpace>
-        </Page>
-    </Layout>
-</alto>
+        </TextRegion>
+    </Page>
+</PcGts>

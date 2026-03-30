@@ -1,269 +1,187 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
-    <Description>
-        <MeasurementUnit>pixel</MeasurementUnit>
-        <sourceImageInformation>
-            <fileName>None</fileName>
-        </sourceImageInformation>
-        <Processing ID="OCR__26b8b511-ce04-4008-a833-cb692deb0fd8">
-            <processingCategory>preOperation</processingCategory>
-            <processingStepDescription>Image binarization</processingStepDescription>
-            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-        <Processing ID="OCR__b9b81e38-caec-4f21-83bb-7ca8d5345c62">
-            <processingCategory>contentGeneration</processingCategory>
-            <processingStepDescription>bounding box segmentation</processingStepDescription>
-            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-    </Description>
-    <Tags>
-    </Tags>
-    <Layout>
-        <Page WIDTH="1339" HEIGHT="1999" PHYSICAL_IMG_NR="0" ID="page_0">
-            <PrintSpace HPOS="0" VPOS="0" WIDTH="1339" HEIGHT="1999">
-                <TextBlock ID="textblock_1">
-                    
-                    <TextLine ID="_74a3a849-321e-4258-badc-472ea453a22d" HPOS="123" VPOS="62" WIDTH="244" HEIGHT="30">
-                        <Shape>
-                            <Polygon POINTS="123 62 367 62 367 92 123 92"/>
-                        </Shape>
-                        <String CONTENT="CENSURA DE"/>
-                    </TextLine>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T17:27:47.925462+00:00</Created>
+        <LastChange>2026-03-30T17:27:47.925462+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="None" imageWidth="1339" imageHeight="1999">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,1999 1339,1999 1339,0"/>
+            
+            <TextLine id="_b250e8da-2aef-461b-bbd4-9887b26cea5f">
+                <Coords points="123,62 367,62 367,92 123,92"/>
+                
+            <TextEquiv><Unicode>CENSURA DE</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_a1db9934-4d5b-4859-9dbc-c75e709601e0" HPOS="395" VPOS="65" WIDTH="219" HEIGHT="32">
-                        <Shape>
-                            <Polygon POINTS="395 65 614 65 614 97 395 97"/>
-                        </Shape>
-                        <String CONTENT="PEDRO DE VALENCIA CORONISTA"/>
-                    </TextLine>
+            
+            <TextLine id="_c4cabf9f-2386-48e1-9886-f00223cf8a1f">
+                <Coords points="395,65 614,65 614,97 395,97"/>
+                
+            <TextEquiv><Unicode>PEDRO DE VALENCIA CORONISTA</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f3b61b67-14d0-4e8a-a61f-583d29f9333e" HPOS="175" VPOS="88" WIDTH="320" HEIGHT="46">
-                        <Shape>
-                            <Polygon POINTS="175 88 495 88 495 134 175 134"/>
-                        </Shape>
-                        <String CONTENT="General de el Rey nuestro"/>
-                    </TextLine>
+            
+            <TextLine id="_17fb78f4-b0c5-40d7-ba3f-4745044fd4ee">
+                <Coords points="175,88 495,88 495,134 175,134"/>
+                
+            <TextEquiv><Unicode>General de el Rey nuestro</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_275bdb73-1ded-4049-8df2-09e4e19f4706" HPOS="106" VPOS="94" WIDTH="507" HEIGHT="68">
-                        <Shape>
-                            <Polygon POINTS="106 94 613 94 613 162 106 162"/>
-                        </Shape>
-                        <String CONTENT="Señor."/>
-                    </TextLine>
+            
+            <TextLine id="_ab67fbaa-0b8a-41ee-9f95-6941a5a89f7a">
+                <Coords points="106,94 613,94 613,162 106,162"/>
+                
+            <TextEquiv><Unicode>Señor.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_fd7aa200-bac9-4669-81c1-c04b6c6feb73" HPOS="1021" VPOS="65" WIDTH="172" HEIGHT="28">
-                        <Shape>
-                            <Polygon POINTS="1021 65 1193 65 1193 93 1021 93"/>
-                        </Shape>
-                        <String CONTENT="POr mandado del Consejo Supremo de Castilla, he visto el libro in-"/>
-                    </TextLine>
+            
+            <TextLine id="_cedcbe2d-3d58-4507-a88b-3f1d734d2e5f">
+                <Coords points="1021,65 1193,65 1193,93 1021,93"/>
+                
+            <TextEquiv><Unicode>POr mandado del Consejo Supremo de Castilla, he visto el libro in-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_100c1816-37e8-4cda-8f06-addc2de13baa" HPOS="1065" VPOS="93" WIDTH="136" HEIGHT="42">
-                        <Shape>
-                            <Polygon POINTS="1065 93 1201 93 1201 135 1065 135"/>
-                        </Shape>
-                        <String CONTENT="titulado, Tesoro de la lengua Castellana, que compuso el Licen-"/>
-                    </TextLine>
+            
+            <TextLine id="_6f71919c-b32d-4e8e-ad8b-3d67796bd5ec">
+                <Coords points="1065,93 1201,93 1201,135 1065,135"/>
+                
+            <TextEquiv><Unicode>titulado, Tesoro de la lengua Castellana, que compuso el Licen-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f883f1e0-3602-46e1-9532-161dd7ecfcc6" HPOS="1010" VPOS="134" WIDTH="193" HEIGHT="27">
-                        <Shape>
-                            <Polygon POINTS="1010 134 1203 134 1203 161 1010 161"/>
-                        </Shape>
-                        <String CONTENT="ciado Don Sebastian de Covarruvias y Orozco, Canonigo, y Maesses-"/>
-                    </TextLine>
+            
+            <TextLine id="_78407d55-53be-4f44-9676-5e2062a934fb">
+                <Coords points="1010,134 1203,134 1203,161 1010,161"/>
+                
+            <TextEquiv><Unicode>ciado Don Sebastian de Covarruvias y Orozco, Canonigo, y Maesses-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b5849c2d-c7c8-420b-807a-f1c038d5f59d" HPOS="198" VPOS="189" WIDTH="74" HEIGHT="26">
-                        <Shape>
-                            <Polygon POINTS="198 189 272 189 272 215 198 215"/>
-                        </Shape>
-                        <String CONTENT="cuela de la Iglesia de Cuenca, Consultor de el Santo Oficio de la Inquisi-"/>
-                    </TextLine>
+            
+            <TextLine id="_6a5835e5-77f1-4e34-8558-2f2b388f3a90">
+                <Coords points="198,189 272,189 272,215 198,215"/>
+                
+            <TextEquiv><Unicode>cuela de la Iglesia de Cuenca, Consultor de el Santo Oficio de la Inquisi-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_73007e71-bf50-42e0-a939-98416fbd8222" HPOS="539" VPOS="188" WIDTH="669" HEIGHT="36">
-                        <Shape>
-                            <Polygon POINTS="539 188 1208 188 1208 224 539 224"/>
-                        </Shape>
-                        <String CONTENT="cion, y Capellan de su Magestad, y no he allado en el cosa contraria a"/>
-                    </TextLine>
+            
+            <TextLine id="_36f26b9a-40fa-4046-a24b-7509371fe4d8">
+                <Coords points="539,188 1208,188 1208,224 539,224"/>
+                
+            <TextEquiv><Unicode>cion, y Capellan de su Magestad, y no he allado en el cosa contraria a</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f0488c27-a92a-4436-8f1f-bf77d1f2828e" HPOS="85" VPOS="190" WIDTH="1123" HEIGHT="65">
-                        <Shape>
-                            <Polygon POINTS="85 190 1208 190 1208 255 85 255"/>
-                        </Shape>
-                        <String CONTENT="la Fe, ni a las buenas costumbres; antes tiene muchas muy utiles, y esta lle-"/>
-                    </TextLine>
+            
+            <TextLine id="_3c9c0f48-ad76-42a5-84c8-58d1e13b4905">
+                <Coords points="85,190 1208,190 1208,255 85,255"/>
+                
+            <TextEquiv><Unicode>la Fe, ni a las buenas costumbres; antes tiene muchas muy utiles, y esta lle-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_73d545b4-39af-4a56-b461-0894f75d8963" HPOS="84" VPOS="193" WIDTH="114" HEIGHT="32">
-                        <Shape>
-                            <Polygon POINTS="84 193 198 193 198 225 84 225"/>
-                        </Shape>
-                        <String CONTENT="no de varia, y curiosa leccion, y doctrina. Por lo qual, y por la autoridad,"/>
-                    </TextLine>
+            
+            <TextLine id="_e1684d46-bcb6-4e6e-9145-9c0cbdbf970c">
+                <Coords points="84,193 198,193 198,225 84,225"/>
+                
+            <TextEquiv><Unicode>no de varia, y curiosa leccion, y doctrina. Por lo qual, y por la autoridad,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_422530cb-22a1-493d-8628-ff7c5ab2d07f" HPOS="353" VPOS="258" WIDTH="580" HEIGHT="68">
-                        <Shape>
-                            <Polygon POINTS="353 258 933 258 933 326 353 326"/>
-                        </Shape>
-                        <String CONTENT="y erudicion de la persona del Autor, tan conocida, y estimada en todas par-"/>
-                    </TextLine>
+            
+            <TextLine id="_bfe3bb2c-20ca-4c43-9091-f3b29840377b">
+                <Coords points="353,258 933,258 933,326 353,326"/>
+                
+            <TextEquiv><Unicode>y erudicion de la persona del Autor, tan conocida, y estimada en todas par-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_56cc35ec-d16e-4ea6-b616-e70fb6a06467" HPOS="590" VPOS="326" WIDTH="140" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="590 326 730 326 730 386 590 386"/>
-                        </Shape>
-                        <String CONTENT="tes, y porque de materia semejante han escrito en cada lengua, y nacion"/>
-                    </TextLine>
+            
+            <TextLine id="_369b3b43-0d9b-4dbc-a926-d1345493e8f1">
+                <Coords points="590,326 730,326 730,386 590,386"/>
+                
+            <TextEquiv><Unicode>tes, y porque de materia semejante han escrito en cada lengua, y nacion</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0e78bb2d-f257-45a4-986e-27d4acdea9a4" HPOS="87" VPOS="435" WIDTH="1128" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="87 435 1215 435 1215 485 87 485"/>
-                        </Shape>
-                        <String CONTENT="politica, varones muy graves, y doctos, y por ser conveniente que de la"/>
-                    </TextLine>
+            
+            <TextLine id="_7c182b51-65ec-42cb-be62-07e01cdc7d2e">
+                <Coords points="87,435 1215,435 1215,485 87,485"/>
+                
+            <TextEquiv><Unicode>politica, varones muy graves, y doctos, y por ser conveniente que de la</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_504a6da0-073f-4d47-bbf5-d3f7550c82ac" HPOS="99" VPOS="468" WIDTH="59" HEIGHT="42">
-                        <Shape>
-                            <Polygon POINTS="99 468 158 468 158 510 99 510"/>
-                        </Shape>
-                        <String CONTENT="propiedad, pureza, y elegancia de una lengua se escriva en el tiempo que"/>
-                    </TextLine>
+            
+            <TextLine id="_12bfe7ee-4cb2-4ebe-89f2-cc6e2316dcc3">
+                <Coords points="99,468 158,468 158,510 99,510"/>
+                
+            <TextEquiv><Unicode>propiedad, pureza, y elegancia de una lengua se escriva en el tiempo que</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f837094e-35f2-459f-8cab-fe0579bc7c90" HPOS="86" VPOS="487" WIDTH="1131" HEIGHT="49">
-                        <Shape>
-                            <Polygon POINTS="86 487 1217 487 1217 536 86 536"/>
-                        </Shape>
-                        <String CONTENT="ella mas florece, me parece se debe dar la licencia, y privilegio que se pide pa-"/>
-                    </TextLine>
+            
+            <TextLine id="_6eeb9abd-84da-442d-8cc3-7edc91e6905c">
+                <Coords points="86,487 1217,487 1217,536 86,536"/>
+                
+            <TextEquiv><Unicode>ella mas florece, me parece se debe dar la licencia, y privilegio que se pide pa-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_8fddbfba-f91d-4bc1-9631-bcaf15a7187a" HPOS="86" VPOS="534" WIDTH="1134" HEIGHT="52">
-                        <Shape>
-                            <Polygon POINTS="86 534 1220 534 1220 586 86 586"/>
-                        </Shape>
-                        <String CONTENT="ra imprimirlo. En Madrid a tres dias del mes de Mayo de 1610."/>
-                    </TextLine>
+            
+            <TextLine id="_7c163ef5-b9c0-486f-a103-e6c4818bde21">
+                <Coords points="86,534 1220,534 1220,586 86,586"/>
+                
+            <TextEquiv><Unicode>ra imprimirlo. En Madrid a tres dias del mes de Mayo de 1610.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_3729d744-baa4-4dba-b5b1-45c869ab1e50" HPOS="83" VPOS="582" WIDTH="1138" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="83 582 1221 582 1221 632 83 632"/>
-                        </Shape>
-                        <String CONTENT="Pedro de Valencia"/>
-                    </TextLine>
+            
+            <TextLine id="_ca45d2b5-8ba5-4362-a96c-695a19633b42">
+                <Coords points="83,582 1221,582 1221,632 83,632"/>
+                
+            <TextEquiv><Unicode>Pedro de Valencia</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_41703f25-6c73-418e-8de6-39dcde07d12b" HPOS="86" VPOS="630" WIDTH="1134" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="86 630 1220 630 1220 680 86 680"/>
-                        </Shape>
-                        <String CONTENT="CAR"/>
-                    </TextLine>
+            
+            <TextLine id="_db210b59-e07e-4ffd-bbd9-8157d46d7ef3">
+                <Coords points="86,630 1220,630 1220,680 86,680"/>
+                
+            <TextEquiv><Unicode>CAR</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_756da43b-7592-4980-a582-4348720b9e73" HPOS="85" VPOS="678" WIDTH="1137" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="85 678 1222 678 1222 728 85 728"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_e4a815bb-6ae2-41ed-964a-eaf8dc29051b">
+                <Coords points="85,678 1222,678 1222,728 85,728"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_4ab099b3-bff3-460d-aaa6-db7286b1139d" HPOS="84" VPOS="726" WIDTH="1136" HEIGHT="47">
-                        <Shape>
-                            <Polygon POINTS="84 726 1220 726 1220 773 84 773"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_9ffa49de-ca0d-4e08-a8d4-4e7870426473">
+                <Coords points="84,726 1220,726 1220,773 84,773"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_51597e0f-4533-4f0f-9bd0-e1dbe9fbbfcf" HPOS="85" VPOS="775" WIDTH="1139" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="85 775 1224 775 1224 823 85 823"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_8255b3d7-2d32-41f7-8efb-181abfba45fb">
+                <Coords points="85,775 1224,775 1224,823 85,823"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_8ee7cd1a-0fbf-4a00-9689-682e6f5c79e7" HPOS="83" VPOS="819" WIDTH="1139" HEIGHT="51">
-                        <Shape>
-                            <Polygon POINTS="83 819 1222 819 1222 870 83 870"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_9d0d6a4e-f039-48f1-8eca-cef9198010ca">
+                <Coords points="83,819 1222,819 1222,870 83,870"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_c662a0c7-9669-4aaf-b7e3-d151168d4d2e" HPOS="85" VPOS="872" WIDTH="1139" HEIGHT="45">
-                        <Shape>
-                            <Polygon POINTS="85 872 1224 872 1224 917 85 917"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_cb304db5-5bae-4949-8000-88194675d589">
+                <Coords points="85,872 1224,872 1224,917 85,917"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_3eea86d1-5cc3-441f-8bdb-8719c8ee4f5d" HPOS="87" VPOS="919" WIDTH="1135" HEIGHT="47">
-                        <Shape>
-                            <Polygon POINTS="87 919 1222 919 1222 966 87 966"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_ba3fc3a3-0b84-410a-95ce-f3d55717c4ef">
+                <Coords points="87,919 1222,919 1222,966 87,966"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_3a00e726-ada8-4f5b-9098-86c46fcca579" HPOS="87" VPOS="968" WIDTH="1137" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="87 968 1224 968 1224 1016 87 1016"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_24f8a8c5-ac48-4d79-a966-7902a165317b">
+                <Coords points="87,968 1224,968 1224,1016 87,1016"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_1cccbcae-82c2-45e3-8c9d-f4cc49b12421" HPOS="88" VPOS="1015" WIDTH="959" HEIGHT="51">
-                        <Shape>
-                            <Polygon POINTS="88 1015 1047 1015 1047 1066 88 1066"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_b772b835-cb1f-46d0-bd8d-8b8a7192019a">
+                <Coords points="88,1015 1047,1015 1047,1066 88,1066"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_6f97f038-7d2c-455d-b51b-c89d46afde60" HPOS="739" VPOS="1087" WIDTH="298" HEIGHT="57">
-                        <Shape>
-                            <Polygon POINTS="739 1087 1037 1087 1037 1144 739 1144"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_cdd8f6e5-c37e-4dc7-859f-e5248845a134">
+                <Coords points="739,1087 1037,1087 1037,1144 739,1144"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_62784e3c-116c-437a-a4f0-c61340acae81" HPOS="1119" VPOS="1833" WIDTH="109" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="1119 1833 1228 1833 1228 1883 1119 1883"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_178a5d7b-153d-4d3f-b81f-221687ebdaf8">
+                <Coords points="1119,1833 1228,1833 1228,1883 1119,1883"/>
+                
+            </TextLine>
 
-                </TextBlock>
-            </PrintSpace>
-        </Page>
-    </Layout>
-</alto>
+        </TextRegion>
+    </Page>
+</PcGts>

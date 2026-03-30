@@ -1,325 +1,229 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
-    <Description>
-        <MeasurementUnit>pixel</MeasurementUnit>
-        <sourceImageInformation>
-            <fileName>None</fileName>
-        </sourceImageInformation>
-        <Processing ID="OCR__f40c7151-677c-41ac-9b40-26ae13eb3282">
-            <processingCategory>preOperation</processingCategory>
-            <processingStepDescription>Image binarization</processingStepDescription>
-            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-        <Processing ID="OCR__d275f74a-c1a7-46ca-80ba-94a814eda981">
-            <processingCategory>contentGeneration</processingCategory>
-            <processingStepDescription>bounding box segmentation</processingStepDescription>
-            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-    </Description>
-    <Tags>
-    </Tags>
-    <Layout>
-        <Page WIDTH="1500" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
-            <PrintSpace HPOS="0" VPOS="0" WIDTH="1500" HEIGHT="2000">
-                <TextBlock ID="textblock_1">
-                    
-                    <TextLine ID="_adf23378-9fa2-43d6-b1dc-ddfd7aa2cfe4" HPOS="359" VPOS="131" WIDTH="830" HEIGHT="59">
-                        <Shape>
-                            <Polygon POINTS="359 131 1189 131 1189 190 359 190"/>
-                        </Shape>
-                        <String CONTENT="ticia de esta parte en ajuitar con certeza, y claridad"/>
-                    </TextLine>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T17:28:34.233428+00:00</Created>
+        <LastChange>2026-03-30T17:28:34.233428+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="None" imageWidth="1500" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1500,2000 1500,0"/>
+            
+            <TextLine id="_5441cc7c-e9d5-4e63-a04e-11cfd84f30a4">
+                <Coords points="359,131 1189,131 1189,190 359,190"/>
+                
+            <TextEquiv><Unicode>ticia de esta parte en ajuitar con certeza, y claridad</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0330321f-9b46-47b4-a1a0-2d92ddecb20c" HPOS="361" VPOS="182" WIDTH="830" HEIGHT="57">
-                        <Shape>
-                            <Polygon POINTS="361 182 1191 182 1191 239 361 239"/>
-                        </Shape>
-                        <String CONTENT="el hecho verdadero de este negocio, que consiste"/>
-                    </TextLine>
+            
+            <TextLine id="_08172cad-47de-4784-b427-4879f531adfa">
+                <Coords points="361,182 1191,182 1191,239 361,239"/>
+                
+            <TextEquiv><Unicode>el hecho verdadero de este negocio, que consiste</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_aa8e137d-a22c-4cbc-a4de-d77b27d03fca" HPOS="360" VPOS="228" WIDTH="833" HEIGHT="62">
-                        <Shape>
-                            <Polygon POINTS="360 228 1193 228 1193 290 360 290"/>
-                        </Shape>
-                        <String CONTENT="en que Iacinto Gomez Pimentel fue preso el mes"/>
-                    </TextLine>
+            
+            <TextLine id="_9a6d982b-0595-4894-a031-7816cfe321c3">
+                <Coords points="360,228 1193,228 1193,290 360,290"/>
+                
+            <TextEquiv><Unicode>en que Iacinto Gomez Pimentel fue preso el mes</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_9c870dcb-729e-4fc9-9204-e344aabfb267" HPOS="361" VPOS="276" WIDTH="834" HEIGHT="64">
-                        <Shape>
-                            <Polygon POINTS="361 276 1195 276 1195 340 361 340"/>
-                        </Shape>
-                        <String CONTENT="de Agosto del año passado de 1643. por querella,"/>
-                    </TextLine>
+            
+            <TextLine id="_0d9ff1b2-a2d9-4651-808c-539e0d3af94f">
+                <Coords points="361,276 1195,276 1195,340 361,340"/>
+                
+            <TextEquiv><Unicode>de Agosto del año passado de 1643. por querella,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_1ae9286b-212a-40b0-9875-85315f6cda3d" HPOS="362" VPOS="324" WIDTH="835" HEIGHT="65">
-                        <Shape>
-                            <Polygon POINTS="362 324 1197 324 1197 389 362 389"/>
-                        </Shape>
-                        <String CONTENT="que de él dio doña Leonor Rauasco, por dezirla"/>
-                    </TextLine>
+            
+            <TextLine id="_36df28f8-cd1f-4ff8-8016-41ca28aa0f75">
+                <Coords points="362,324 1197,324 1197,389 362,389"/>
+                
+            <TextEquiv><Unicode>que de él dio doña Leonor Rauasco, por dezirla</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_358fe149-03b3-495f-a10b-63271b039407" HPOS="363" VPOS="376" WIDTH="835" HEIGHT="63">
-                        <Shape>
-                            <Polygon POINTS="363 376 1198 376 1198 439 363 439"/>
-                        </Shape>
-                        <String CONTENT="auia estrupado, y queriendole prender vnos Algua"/>
-                    </TextLine>
+            
+            <TextLine id="_61d76ba5-5a28-4fcc-aa4e-eb3eb0e7c004">
+                <Coords points="363,376 1198,376 1198,439 363,439"/>
+                
+            <TextEquiv><Unicode>auia estrupado, y queriendole prender vnos Algua</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_74fa69d1-3f82-4c78-be85-54ca596b914a" HPOS="364" VPOS="423" WIDTH="834" HEIGHT="65">
-                        <Shape>
-                            <Polygon POINTS="364 423 1198 423 1198 488 364 488"/>
-                        </Shape>
-                        <String CONTENT="ziles de esta Corte, les hizo resistencia, y sobe ello"/>
-                    </TextLine>
+            
+            <TextLine id="_3d524957-dbe1-479c-ac7f-0247a2a7932d">
+                <Coords points="364,423 1198,423 1198,488 364,488"/>
+                
+            <TextEquiv><Unicode>ziles de esta Corte, les hizo resistencia, y sobe ello</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_888a99da-cc54-47fb-9d39-169f5ba091e7" HPOS="365" VPOS="474" WIDTH="833" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="365 474 1198 474 1198 534 365 534"/>
-                        </Shape>
-                        <String CONTENT="se le hizo nueua causa, y por ello fue condenado"/>
-                    </TextLine>
+            
+            <TextLine id="_d318cde5-d6d7-43fe-be07-65a715f080bb">
+                <Coords points="365,474 1198,474 1198,534 365,534"/>
+                
+            <TextEquiv><Unicode>se le hizo nueua causa, y por ello fue condenado</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_ee4908f7-fe94-492b-8bb7-490c3d55069f" HPOS="367" VPOS="523" WIDTH="831" HEIGHT="62">
-                        <Shape>
-                            <Polygon POINTS="367 523 1198 523 1198 585 367 585"/>
-                        </Shape>
-                        <String CONTENT="en seis años de galeras, y lleuado a la caxa de Tole"/>
-                    </TextLine>
+            
+            <TextLine id="_c2148ec1-4953-4e61-87ca-a5ced4d16943">
+                <Coords points="367,523 1198,523 1198,585 367,585"/>
+                
+            <TextEquiv><Unicode>en seis años de galeras, y lleuado a la caxa de Tole</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_2c74f91a-4396-482f-9fda-8adadb04d621" HPOS="368" VPOS="573" WIDTH="830" HEIGHT="61">
-                        <Shape>
-                            <Polygon POINTS="368 573 1198 573 1198 634 368 634"/>
-                        </Shape>
-                        <String CONTENT="do, y por sentencia de reuista se le conmutó la di-"/>
-                    </TextLine>
+            
+            <TextLine id="_1ded0e51-3c62-469e-8853-928f1ae99506">
+                <Coords points="368,573 1198,573 1198,634 368,634"/>
+                
+            <TextEquiv><Unicode>do, y por sentencia de reuista se le conmutó la di-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_ded778da-c692-4eac-afbd-b413370075cf" HPOS="368" VPOS="623" WIDTH="830" HEIGHT="60">
-                        <Shape>
-                            <Polygon POINTS="368 623 1198 623 1198 683 368 683"/>
-                        </Shape>
-                        <String CONTENT="cha pena de galeras, en quatro años del presidio de"/>
-                    </TextLine>
+            
+            <TextLine id="_15b27df9-7a74-4117-be9b-fae225e2a05d">
+                <Coords points="368,623 1198,623 1198,683 368,683"/>
+                
+            <TextEquiv><Unicode>cha pena de galeras, en quatro años del presidio de</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_c9bf67d1-ffc8-4e40-b5d5-271ddd1f75ad" HPOS="373" VPOS="691" WIDTH="103" HEIGHT="29">
-                        <Shape>
-                            <Polygon POINTS="373 691 476 691 476 720 373 720"/>
-                        </Shape>
-                        <String CONTENT="Oran."/>
-                    </TextLine>
+            
+            <TextLine id="_59be5152-436c-4217-8503-0765ac53cc04">
+                <Coords points="373,691 476,691 476,720 373,720"/>
+                
+            <TextEquiv><Unicode>Oran.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_3777eefa-3c55-4ca2-b8ed-98a9501e5948" HPOS="418" VPOS="719" WIDTH="800" HEIGHT="64">
-                        <Shape>
-                            <Polygon POINTS="418 719 1218 719 1218 783 418 783"/>
-                        </Shape>
-                        <String CONTENT="3&#9;Estando condenado Iacinto Gomez en la"/>
-                    </TextLine>
+            
+            <TextLine id="_24103425-21eb-4228-823c-6e62fb34576e">
+                <Coords points="418,719 1218,719 1218,783 418,783"/>
+                
+            <TextEquiv><Unicode>3	Estando condenado Iacinto Gomez en la</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_e6226449-345c-4feb-aa68-62a9ff70e96e" HPOS="373" VPOS="775" WIDTH="825" HEIGHT="55">
-                        <Shape>
-                            <Polygon POINTS="373 775 1198 775 1198 830 373 830"/>
-                        </Shape>
-                        <String CONTENT="pena referida, siguió doña Leonor Rauasco su que"/>
-                    </TextLine>
+            
+            <TextLine id="_1a707e0f-f401-48a2-8829-ccd9d08e4841">
+                <Coords points="373,775 1198,775 1198,830 373,830"/>
+                
+            <TextEquiv><Unicode>pena referida, siguió doña Leonor Rauasco su que</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_43a8bc92-a499-426d-97c1-4c5d4bb24186" HPOS="373" VPOS="823" WIDTH="827" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="373 823 1200 823 1200 879 373 879"/>
-                        </Shape>
-                        <String CONTENT="rella de estrupo, contra Iacinto Gomez Pimentel, y"/>
-                    </TextLine>
+            
+            <TextLine id="_39eabbbe-b928-462d-a925-a01474fbe183">
+                <Coords points="373,823 1200,823 1200,879 373,879"/>
+                
+            <TextEquiv><Unicode>rella de estrupo, contra Iacinto Gomez Pimentel, y</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_60dd2135-a7f8-4b90-b820-35db2fe52fe8" HPOS="381" VPOS="870" WIDTH="824" HEIGHT="53">
-                        <Shape>
-                            <Polygon POINTS="381 870 1205 870 1205 923 381 923"/>
-                        </Shape>
-                        <String CONTENT="conclusa la causa por sentencia de vista, que se dio"/>
-                    </TextLine>
+            
+            <TextLine id="_1cc37b68-d356-4fde-a03a-ce694b4ff623">
+                <Coords points="381,870 1205,870 1205,923 381,923"/>
+                
+            <TextEquiv><Unicode>conclusa la causa por sentencia de vista, que se dio</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_5a6ae477-381b-4fdf-8136-40a4cfed0893" HPOS="378" VPOS="920" WIDTH="827" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="378 920 1205 920 1205 968 378 968"/>
-                        </Shape>
-                        <String CONTENT="en ocho de Febrero de 1645. fue condenado en"/>
-                    </TextLine>
+            
+            <TextLine id="_6985f0e5-7f2f-4a01-93d9-46072f785c72">
+                <Coords points="378,920 1205,920 1205,968 378,968"/>
+                
+            <TextEquiv><Unicode>en ocho de Febrero de 1645. fue condenado en</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_385eea34-43a3-4d03-8fc5-073cf77f7f41" HPOS="378" VPOS="966" WIDTH="834" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="378 966 1212 966 1212 1022 378 1022"/>
-                        </Shape>
-                        <String CONTENT="quatro años mas del presidio de Oran, y en mil du"/>
-                    </TextLine>
+            
+            <TextLine id="_5aa55f4f-ce3c-47b6-b4ad-1a5b51a5c6b2">
+                <Coords points="378,966 1212,966 1212,1022 378,1022"/>
+                
+            <TextEquiv><Unicode>quatro años mas del presidio de Oran, y en mil du</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_07185342-bf5c-4722-9d07-4b73498c40c9" HPOS="372" VPOS="1014" WIDTH="841" HEIGHT="53">
-                        <Shape>
-                            <Polygon POINTS="372 1014 1213 1014 1213 1067 372 1067"/>
-                        </Shape>
-                        <String CONTENT="cados para la parte querellante, y en cien mil mara"/>
-                    </TextLine>
+            
+            <TextLine id="_77f445f9-ffd5-44f6-bc5e-7aea446ede8a">
+                <Coords points="372,1014 1213,1014 1213,1067 372,1067"/>
+                
+            <TextEquiv><Unicode>cados para la parte querellante, y en cien mil mara</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_8643bfee-ee52-4ae3-9327-5372420e4d2f" HPOS="370" VPOS="1059" WIDTH="846" HEIGHT="54">
-                        <Shape>
-                            <Polygon POINTS="370 1059 1216 1059 1216 1113 370 1113"/>
-                        </Shape>
-                        <String CONTENT="uedis para la Camara, de que suplicó, y por senten-"/>
-                    </TextLine>
+            
+            <TextLine id="_92ea7643-44a7-4986-be7b-c1831a6e9cfc">
+                <Coords points="370,1059 1216,1059 1216,1113 370,1113"/>
+                
+            <TextEquiv><Unicode>uedis para la Camara, de que suplicó, y por senten-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_5a0b534e-2814-4f13-8009-39a8a668a736" HPOS="371" VPOS="1112" WIDTH="845" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="371 1112 1216 1112 1216 1160 371 1160"/>
-                        </Shape>
-                        <String CONTENT="cia de reuista, que se dio en diez de Mayo del di-"/>
-                    </TextLine>
+            
+            <TextLine id="_342301f7-b0cc-4a59-87a6-425a7fe668ea">
+                <Coords points="371,1112 1216,1112 1216,1160 371,1160"/>
+                
+            <TextEquiv><Unicode>cia de reuista, que se dio en diez de Mayo del di-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_ee12ef2f-0afe-4b95-b359-d795304c1bcf" HPOS="372" VPOS="1159" WIDTH="845" HEIGHT="53">
-                        <Shape>
-                            <Polygon POINTS="372 1159 1217 1159 1217 1212 372 1212"/>
-                        </Shape>
-                        <String CONTENT="cho año de 1645. se confirmó la sentencia de vis-"/>
-                    </TextLine>
+            
+            <TextLine id="_f27ab8b4-8ddc-484f-a6c5-1e1df05f2596">
+                <Coords points="372,1159 1217,1159 1217,1212 372,1212"/>
+                
+            <TextEquiv><Unicode>cho año de 1645. se confirmó la sentencia de vis-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_727fd3d1-8426-4efa-a34d-078a0d51d5ec" HPOS="373" VPOS="1209" WIDTH="839" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="373 1209 1212 1209 1212 1259 373 1259"/>
-                        </Shape>
-                        <String CONTENT="ta, con que los mil ducados fuessen ochocientos,"/>
-                    </TextLine>
+            
+            <TextLine id="_cdd8d514-9ff8-4854-8851-0eb73f7f994b">
+                <Coords points="373,1209 1212,1209 1212,1259 373,1259"/>
+                
+            <TextEquiv><Unicode>ta, con que los mil ducados fuessen ochocientos,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f57696ef-6418-47a0-8224-703d9ab81f15" HPOS="373" VPOS="1257" WIDTH="841" HEIGHT="58">
-                        <Shape>
-                            <Polygon POINTS="373 1257 1214 1257 1214 1315 373 1315"/>
-                        </Shape>
-                        <String CONTENT="y los cien mil marauedis, setenta mil, y los quatro"/>
-                    </TextLine>
+            
+            <TextLine id="_5fb2086c-94b7-4ae3-bbeb-f396810e5fa3">
+                <Coords points="373,1257 1214,1257 1214,1315 373,1315"/>
+                
+            <TextEquiv><Unicode>y los cien mil marauedis, setenta mil, y los quatro</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_76ad3bcc-f1ad-4713-8204-850c2d68c780" HPOS="372" VPOS="1308" WIDTH="423" HEIGHT="49">
-                        <Shape>
-                            <Polygon POINTS="372 1308 795 1308 795 1357 372 1357"/>
-                        </Shape>
-                        <String CONTENT="años de presidio, dos."/>
-                    </TextLine>
+            
+            <TextLine id="_2d17b9ab-11c7-47c6-8197-88936e215483">
+                <Coords points="372,1308 795,1308 795,1357 372,1357"/>
+                
+            <TextEquiv><Unicode>años de presidio, dos.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_089c4599-72ca-4977-ab6e-de2de5e9991d" HPOS="418" VPOS="1358" WIDTH="799" HEIGHT="54">
-                        <Shape>
-                            <Polygon POINTS="418 1358 1217 1358 1217 1412 418 1412"/>
-                        </Shape>
-                        <String CONTENT="4&#9;En execución desta executoria, se despachó"/>
-                    </TextLine>
+            
+            <TextLine id="_fb386096-990c-4064-95db-ec9ada8e412d">
+                <Coords points="418,1358 1217,1358 1217,1412 418,1412"/>
+                
+            <TextEquiv><Unicode>4	En execución desta executoria, se despachó</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_a6d2de92-4499-4c8e-b00d-98c79d187866" HPOS="367" VPOS="1407" WIDTH="853" HEIGHT="57">
-                        <Shape>
-                            <Polygon POINTS="367 1407 1220 1407 1220 1464 367 1464"/>
-                        </Shape>
-                        <String CONTENT="mandamiento para cobrar las penas pecuniarias, y"/>
-                    </TextLine>
+            
+            <TextLine id="_e97f58ec-bc0c-490f-b8a3-42f182b34e63">
+                <Coords points="367,1407 1220,1407 1220,1464 367,1464"/>
+                
+            <TextEquiv><Unicode>mandamiento para cobrar las penas pecuniarias, y</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_cc4722cc-7984-43f7-8be8-f10f4b588c3f" HPOS="366" VPOS="1459" WIDTH="856" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="366 1459 1222 1459 1222 1515 366 1515"/>
-                        </Shape>
-                        <String CONTENT="se requirió con el á Antonio Gomez Pimentel, pa"/>
-                    </TextLine>
+            
+            <TextLine id="_9714e185-3ea1-4787-9520-a6805f1ef0d3">
+                <Coords points="366,1459 1222,1459 1222,1515 366,1515"/>
+                
+            <TextEquiv><Unicode>se requirió con el á Antonio Gomez Pimentel, pa</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_c611bb83-b04b-4bf5-a8e6-fe8db6e5fcfd" HPOS="365" VPOS="1512" WIDTH="860" HEIGHT="47">
-                        <Shape>
-                            <Polygon POINTS="365 1512 1225 1512 1225 1559 365 1559"/>
-                        </Shape>
-                        <String CONTENT="dre de Iacinto Gomez, para que diesse bienes de su"/>
-                    </TextLine>
+            
+            <TextLine id="_7446f657-c458-42a9-a610-0e3b13a6e68e">
+                <Coords points="365,1512 1225,1512 1225,1559 365,1559"/>
+                
+            <TextEquiv><Unicode>dre de Iacinto Gomez, para que diesse bienes de su</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_de838dae-7ac3-4258-a825-8d0b446758f5" HPOS="363" VPOS="1561" WIDTH="863" HEIGHT="62">
-                        <Shape>
-                            <Polygon POINTS="363 1561 1226 1561 1226 1623 363 1623"/>
-                        </Shape>
-                        <String CONTENT="hijo, el qual respondio, quela tenia entregada, y pa"/>
-                    </TextLine>
+            
+            <TextLine id="_bdf0e822-ad8f-463b-b190-e64068ccd771">
+                <Coords points="363,1561 1226,1561 1226,1623 363,1623"/>
+                
+            <TextEquiv><Unicode>hijo, el qual respondio, quela tenia entregada, y pa</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_97d01b91-15f2-40ad-bd94-7b4a85d9f47c" HPOS="364" VPOS="1615" WIDTH="862" HEIGHT="58">
-                        <Shape>
-                            <Polygon POINTS="364 1615 1226 1615 1226 1673 364 1673"/>
-                        </Shape>
-                        <String CONTENT="gada toda su legitima materna, y que no tenia bie"/>
-                    </TextLine>
+            
+            <TextLine id="_b6f7e83c-526f-42f2-8865-87056dfe1ead">
+                <Coords points="364,1615 1226,1615 1226,1673 364,1673"/>
+                
+            <TextEquiv><Unicode>gada toda su legitima materna, y que no tenia bie</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_09e086f4-ffe1-42c3-a8f5-151ff60d4b94" HPOS="362" VPOS="1678" WIDTH="184" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="362 1678 546 1678 546 1728 362 1728"/>
-                        </Shape>
-                        <String CONTENT="nes suyos."/>
-                    </TextLine>
+            
+            <TextLine id="_7bd92f1f-ce85-4730-8468-15aed163b4b8">
+                <Coords points="362,1678 546,1678 546,1728 362,1728"/>
+                
+            <TextEquiv><Unicode>nes suyos.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_a5919407-2551-42f4-ab1e-0443a01d0fda" HPOS="414" VPOS="1715" WIDTH="815" HEIGHT="64">
-                        <Shape>
-                            <Polygon POINTS="414 1715 1229 1715 1229 1779 414 1779"/>
-                        </Shape>
-                        <String CONTENT="5&#9;Doña Leonor Rauasco pidio se mandasse,"/>
-                    </TextLine>
+            
+            <TextLine id="_7c48d854-b3db-460d-a446-7b609bd1cfd0">
+                <Coords points="414,1715 1229,1715 1229,1779 414,1779"/>
+                
+            <TextEquiv><Unicode>5	Doña Leonor Rauasco pidio se mandasse,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_a849392c-a6b2-4281-a4fb-298caf84e841" HPOS="364" VPOS="1768" WIDTH="867" HEIGHT="63">
-                        <Shape>
-                            <Polygon POINTS="364 1768 1231 1768 1231 1831 364 1831"/>
-                        </Shape>
-                        <String CONTENT="que el mandamiento despachado, se entendiesse"/>
-                    </TextLine>
+            
+            <TextLine id="_f16a851f-92f8-4c89-9e98-4f965f9de642">
+                <Coords points="364,1768 1231,1768 1231,1831 364,1831"/>
+                
+            <TextEquiv><Unicode>que el mandamiento despachado, se entendiesse</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_fa99ba67-d13e-4fa9-a3a6-f8be1d223b0d" HPOS="349" VPOS="1822" WIDTH="883" HEIGHT="54">
-                        <Shape>
-                            <Polygon POINTS="349 1822 1232 1822 1232 1876 349 1876"/>
-                        </Shape>
-                        <String CONTENT="con Antonio Gomez Pimentel, por tener en su po"/>
-                    </TextLine>
+            
+            <TextLine id="_5235b86c-1240-42ea-ac16-1b3e8b51375d">
+                <Coords points="349,1822 1232,1822 1232,1876 349,1876"/>
+                
+            <TextEquiv><Unicode>con Antonio Gomez Pimentel, por tener en su po</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_eaf136c7-968f-43de-b7d3-21abc169f245" HPOS="1179" VPOS="1881" WIDTH="54" HEIGHT="41">
-                        <Shape>
-                            <Polygon POINTS="1179 1881 1233 1881 1233 1922 1179 1922"/>
-                        </Shape>
-                        <String CONTENT="der"/>
-                    </TextLine>
+            
+            <TextLine id="_84bd610f-dae1-4c29-aa94-9939b9dd2ea8">
+                <Coords points="1179,1881 1233,1881 1233,1922 1179,1922"/>
+                
+            <TextEquiv><Unicode>der</Unicode></TextEquiv></TextLine>
 
-                </TextBlock>
-            </PrintSpace>
-        </Page>
-    </Layout>
-</alto>
+        </TextRegion>
+    </Page>
+</PcGts>

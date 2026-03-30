@@ -1,77 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
-    <Description>
-        <MeasurementUnit>pixel</MeasurementUnit>
-        <sourceImageInformation>
-            <fileName>None</fileName>
-        </sourceImageInformation>
-        <Processing ID="OCR__b7a1a90b-f5dd-483b-8cf6-d18c65ccb528">
-            <processingCategory>preOperation</processingCategory>
-            <processingStepDescription>Image binarization</processingStepDescription>
-            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-        <Processing ID="OCR__902926eb-a65b-41dc-b5d1-be90b83eb932">
-            <processingCategory>contentGeneration</processingCategory>
-            <processingStepDescription>bounding box segmentation</processingStepDescription>
-            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-    </Description>
-    <Tags>
-    </Tags>
-    <Layout>
-        <Page WIDTH="1162" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
-            <PrintSpace HPOS="0" VPOS="0" WIDTH="1162" HEIGHT="2000">
-                <TextBlock ID="textblock_1">
-                    
-                    <TextLine ID="_9f460cd9-7f00-4d27-9722-88a39285e792" HPOS="378" VPOS="177" WIDTH="781" HEIGHT="72">
-                        <Shape>
-                            <Polygon POINTS="378 177 1159 177 1159 249 378 249"/>
-                        </Shape>
-                        <String CONTENT="crianza de la niñez. Assi sea,"/>
-                    </TextLine>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T17:28:59.292783+00:00</Created>
+        <LastChange>2026-03-30T17:28:59.292783+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="None" imageWidth="1162" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1162,2000 1162,0"/>
+            
+            <TextLine id="_8121cc2c-f0b3-41c1-936a-7d55c043db65">
+                <Coords points="378,177 1159,177 1159,249 378,249"/>
+                
+            <TextEquiv><Unicode>crianza de la niñez. Assi sea,</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_679618fd-4b85-42b0-a242-c30d8677461e" HPOS="381" VPOS="248" WIDTH="777" HEIGHT="66">
-                        <Shape>
-                            <Polygon POINTS="381 248 1158 248 1158 314 381 314"/>
-                        </Shape>
-                        <String CONTENT="Divinissimo Niño, por vuestra"/>
-                    </TextLine>
+            
+            <TextLine id="_67c3044f-d0e6-4938-a69d-54e61df2f766">
+                <Coords points="381,248 1158,248 1158,314 381,314"/>
+                
+            <TextEquiv><Unicode>Divinissimo Niño, por vuestra</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_a1c52412-9b3c-4a58-a4e0-4028a9c1d3d4" HPOS="381" VPOS="310" WIDTH="776" HEIGHT="66">
-                        <Shape>
-                            <Polygon POINTS="381 310 1157 310 1157 376 381 376"/>
-                        </Shape>
-                        <String CONTENT="gracia, assi sea, a vuestra ma-"/>
-                    </TextLine>
+            
+            <TextLine id="_42588785-bb84-4151-9bbf-65310fa94e76">
+                <Coords points="381,310 1157,310 1157,376 381,376"/>
+                
+            <TextEquiv><Unicode>gracia, assi sea, a vuestra ma-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_8802517e-9e8e-4b01-b67e-abbbbd38170a" HPOS="380" VPOS="373" WIDTH="443" HEIGHT="68">
-                        <Shape>
-                            <Polygon POINTS="380 373 823 373 823 441 380 441"/>
-                        </Shape>
-                        <String CONTENT="yor gloria. Amen."/>
-                    </TextLine>
+            
+            <TextLine id="_375675c2-dc14-4df8-ac26-d62c890b01e4">
+                <Coords points="380,373 823,373 823,441 380,441"/>
+                
+            <TextEquiv><Unicode>yor gloria. Amen.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_61da4d58-1ff0-494b-acd1-118d7f3822fb" HPOS="854" VPOS="1921" WIDTH="230" HEIGHT="57">
-                        <Shape>
-                            <Polygon POINTS="854 1921 1084 1921 1084 1978 854 1978"/>
-                        </Shape>
-                        <String CONTENT="CENSU-"/>
-                    </TextLine>
+            
+            <TextLine id="_df5f4b79-3c3a-450b-92ae-9e85eca26bb0">
+                <Coords points="854,1921 1084,1921 1084,1978 854,1978"/>
+                
+            <TextEquiv><Unicode>CENSU-</Unicode></TextEquiv></TextLine>
 
-                </TextBlock>
-            </PrintSpace>
-        </Page>
-    </Layout>
-</alto>
+        </TextRegion>
+    </Page>
+</PcGts>

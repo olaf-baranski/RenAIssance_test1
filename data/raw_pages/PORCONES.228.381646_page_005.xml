@@ -1,341 +1,241 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
-    <Description>
-        <MeasurementUnit>pixel</MeasurementUnit>
-        <sourceImageInformation>
-            <fileName>None</fileName>
-        </sourceImageInformation>
-        <Processing ID="OCR__cfd9b470-19cf-4380-a149-8501baee5e55">
-            <processingCategory>preOperation</processingCategory>
-            <processingStepDescription>Image binarization</processingStepDescription>
-            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-        <Processing ID="OCR__fc0ea29c-473d-4749-ba97-4da94d90de06">
-            <processingCategory>contentGeneration</processingCategory>
-            <processingStepDescription>bounding box segmentation</processingStepDescription>
-            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
-            <processingSoftware>
-                <softwareName>kraken</softwareName>
-                <softwareVersion>6.0.3</softwareVersion>
-            </processingSoftware>
-        </Processing>
-    </Description>
-    <Tags>
-    </Tags>
-    <Layout>
-        <Page WIDTH="1500" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
-            <PrintSpace HPOS="0" VPOS="0" WIDTH="1500" HEIGHT="2000">
-                <TextBlock ID="textblock_1">
-                    
-                    <TextLine ID="_c978b6e1-1556-4644-81ad-79fe3bec5025" HPOS="177" VPOS="46" WIDTH="68" HEIGHT="53">
-                        <Shape>
-                            <Polygon POINTS="177 46 245 46 245 99 177 99"/>
-                        </Shape>
-                        <String CONTENT="14&#9;Otra carta de pago otorgada ante el dicho"/>
-                    </TextLine>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T17:28:10.908622+00:00</Created>
+        <LastChange>2026-03-30T17:28:10.908622+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="None" imageWidth="1500" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1500,2000 1500,0"/>
+            
+            <TextLine id="_fc5e1cd8-b7f5-4175-93e9-d11570554ab0">
+                <Coords points="177,46 245,46 245,99 177,99"/>
+                
+            <TextEquiv><Unicode>14	Otra carta de pago otorgada ante el dicho</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_891242a6-7204-4db5-b236-4205ee97ae37" HPOS="140" VPOS="1942" WIDTH="38" HEIGHT="37">
-                        <Shape>
-                            <Polygon POINTS="140 1942 178 1942 178 1979 140 1979"/>
-                        </Shape>
-                        <String CONTENT="Escriuano, en 19. de Enero de 1640. por Iacinto"/>
-                    </TextLine>
+            
+            <TextLine id="_00e4260e-bc5f-485b-9ef3-1ef395b1114a">
+                <Coords points="140,1942 178,1942 178,1979 140,1979"/>
+                
+            <TextEquiv><Unicode>Escriuano, en 19. de Enero de 1640. por Iacinto</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_d67976ee-8283-469c-a98a-2e0cc38cba2f" HPOS="479" VPOS="113" WIDTH="828" HEIGHT="61">
-                        <Shape>
-                            <Polygon POINTS="479 113 1307 113 1307 174 479 174"/>
-                        </Shape>
-                        <String CONTENT="Gomez, en que confiessa auer recibido de su padre 9?"/>
-                    </TextLine>
+            
+            <TextLine id="_0a8d96c8-409b-4997-85a6-07ae58666c48">
+                <Coords points="479,113 1307,113 1307,174 479,174"/>
+                
+            <TextEquiv><Unicode>Gomez, en que confiessa auer recibido de su padre 9?</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_65d7e639-72be-4ef4-aa1d-709574bb1735" HPOS="468" VPOS="168" WIDTH="837" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="468 168 1305 168 1305 224 468 224"/>
-                        </Shape>
-                        <String CONTENT="333. reales, que le tocan, como a vno de tres here-"/>
-                    </TextLine>
+            
+            <TextLine id="_f051f80a-0375-407b-b7ab-d88b877d0d4d">
+                <Coords points="468,168 1305,168 1305,224 468,224"/>
+                
+            <TextEquiv><Unicode>333. reales, que le tocan, como a vno de tres here-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b2252d8c-6ad7-4fe0-9f1b-4ec273db3c76" HPOS="467" VPOS="215" WIDTH="842" HEIGHT="58">
-                        <Shape>
-                            <Polygon POINTS="467 215 1309 215 1309 273 467 273"/>
-                        </Shape>
-                        <String CONTENT="deros de doña Beatriz de Silua su madre de su par-"/>
-                    </TextLine>
+            
+            <TextLine id="_9afdf22c-9bd8-4a37-a330-476d6d32106f">
+                <Coords points="467,215 1309,215 1309,273 467,273"/>
+                
+            <TextEquiv><Unicode>deros de doña Beatriz de Silua su madre de su par-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_4b3fb09e-2ba9-48cf-846c-19b9129eb040" HPOS="472" VPOS="266" WIDTH="833" HEIGHT="58">
-                        <Shape>
-                            <Polygon POINTS="472 266 1305 266 1305 324 472 324"/>
-                        </Shape>
-                        <String CONTENT="te, de la dote que lleuó al matrimonio. Y ratifica"/>
-                    </TextLine>
+            
+            <TextLine id="_600b17ff-8385-4b67-a49a-bcad66b6aa27">
+                <Coords points="472,266 1305,266 1305,324 472,324"/>
+                
+            <TextEquiv><Unicode>te, de la dote que lleuó al matrimonio. Y ratifica</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_70610c10-0c6f-49e6-9dbd-8a1277360c7a" HPOS="466" VPOS="318" WIDTH="832" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="466 318 1298 318 1298 368 466 368"/>
-                        </Shape>
-                        <String CONTENT="las dos cartas de pago, que antes desta tenia otor-"/>
-                    </TextLine>
+            
+            <TextLine id="_da611341-19e5-4ef4-b211-0381b3f5987a">
+                <Coords points="466,318 1298,318 1298,368 466,368"/>
+                
+            <TextEquiv><Unicode>las dos cartas de pago, que antes desta tenia otor-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_cc7e3a99-955f-493f-904f-fd044f5f45b0" HPOS="470" VPOS="369" WIDTH="828" HEIGHT="59">
-                        <Shape>
-                            <Polygon POINTS="470 369 1298 369 1298 428 470 428"/>
-                        </Shape>
-                        <String CONTENT="gadas, y dize, aquellas son por cuenta de las demas"/>
-                    </TextLine>
+            
+            <TextLine id="_cca7b394-e2f6-4f85-8880-29f5445278fc">
+                <Coords points="470,369 1298,369 1298,428 470,428"/>
+                
+            <TextEquiv><Unicode>gadas, y dize, aquellas son por cuenta de las demas</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_412dae89-ae92-41f3-a452-8f5a02f55ff0" HPOS="467" VPOS="421" WIDTH="826" HEIGHT="51">
-                        <Shape>
-                            <Polygon POINTS="467 421 1293 421 1293 472 467 472"/>
-                        </Shape>
-                        <String CONTENT="pretensiones que tiene; y declara, que con estas can-"/>
-                    </TextLine>
+            
+            <TextLine id="_1edb9929-e0c5-4c23-8ad7-7504aa1aee7b">
+                <Coords points="467,421 1293,421 1293,472 467,472"/>
+                
+            <TextEquiv><Unicode>pretensiones que tiene; y declara, que con estas can-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0a593cea-428c-4e61-92e1-4360bc1b5033" HPOS="469" VPOS="471" WIDTH="822" HEIGHT="51">
-                        <Shape>
-                            <Polygon POINTS="469 471 1291 471 1291 522 469 522"/>
-                        </Shape>
-                        <String CONTENT="tidades, se da por pagado de la dote, y bienes ganan-"/>
-                    </TextLine>
+            
+            <TextLine id="_59fdf6a4-6427-4046-bf91-fd04d11be94f">
+                <Coords points="469,471 1291,471 1291,522 469,522"/>
+                
+            <TextEquiv><Unicode>tidades, se da por pagado de la dote, y bienes ganan-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_d2efd0dd-0f3b-4544-867c-40180105c83d" HPOS="470" VPOS="518" WIDTH="820" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="470 518 1290 518 1290 568 470 568"/>
-                        </Shape>
-                        <String CONTENT="ciales, y demas pretenciones que pueda tener, por"/>
-                    </TextLine>
+            
+            <TextLine id="_a3150be5-a70e-4884-ae6d-7ae7bb0986ef">
+                <Coords points="470,518 1290,518 1290,568 470,568"/>
+                
+            <TextEquiv><Unicode>ciales, y demas pretenciones que pueda tener, por</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_dd565385-9d83-4f3d-9c28-947fa3bb16ec" HPOS="469" VPOS="566" WIDTH="816" HEIGHT="49">
-                        <Shape>
-                            <Polygon POINTS="469 566 1285 566 1285 615 469 615"/>
-                        </Shape>
-                        <String CONTENT="quanto importa mas que ellas la hazienda que ha"/>
-                    </TextLine>
+            
+            <TextLine id="_6b81503e-c90e-444d-9dc6-79387c0e80f7">
+                <Coords points="469,566 1285,566 1285,615 469,615"/>
+                
+            <TextEquiv><Unicode>quanto importa mas que ellas la hazienda que ha</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_8d91cbfb-092e-4ddf-8c84-4c6b0b571401" HPOS="469" VPOS="614" WIDTH="817" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="469 614 1286 614 1286 662 469 662"/>
-                        </Shape>
-                        <String CONTENT="gastado a su padre, y por ser menor de veinte y cin"/>
-                    </TextLine>
+            
+            <TextLine id="_999ae3ce-2b98-45a5-94a5-ae4fb6765a5d">
+                <Coords points="469,614 1286,614 1286,662 469,662"/>
+                
+            <TextEquiv><Unicode>gastado a su padre, y por ser menor de veinte y cin</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b7948f07-b14e-4e1d-bc73-a903143fbef5" HPOS="469" VPOS="660" WIDTH="818" HEIGHT="52">
-                        <Shape>
-                            <Polygon POINTS="469 660 1287 660 1287 712 469 712"/>
-                        </Shape>
-                        <String CONTENT="co años jura la relacion de esta escritura, y estar, y"/>
-                    </TextLine>
+            
+            <TextLine id="_aa8bfb30-db65-40ae-b5e3-6acdf6709590">
+                <Coords points="469,660 1287,660 1287,712 469,712"/>
+                
+            <TextEquiv><Unicode>co años jura la relacion de esta escritura, y estar, y</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_c14f11b3-efcc-482f-8cd3-155c124ec9f8" HPOS="468" VPOS="707" WIDTH="814" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="468 707 1282 707 1282 757 468 757"/>
-                        </Shape>
-                        <String CONTENT="passar por ella."/>
-                    </TextLine>
+            
+            <TextLine id="_a5a854bc-cca2-4a0c-a141-9c7845e82058">
+                <Coords points="468,707 1282,707 1282,757 468,757"/>
+                
+            <TextEquiv><Unicode>passar por ella.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_93bf78b8-109a-4716-a41f-03e7f5b6d15d" HPOS="466" VPOS="755" WIDTH="819" HEIGHT="49">
-                        <Shape>
-                            <Polygon POINTS="466 755 1285 755 1285 804 466 804"/>
-                        </Shape>
-                        <String CONTENT="15&#9;Otra escritura otorgada en 18. de Octu-"/>
-                    </TextLine>
+            
+            <TextLine id="_a29303be-f989-40e2-8d5c-fba7c45873e1">
+                <Coords points="466,755 1285,755 1285,804 466,804"/>
+                
+            <TextEquiv><Unicode>15	Otra escritura otorgada en 18. de Octu-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_bce9f3cd-6ec2-41e0-a32a-5027ac9cf596" HPOS="465" VPOS="800" WIDTH="254" HEIGHT="46">
-                        <Shape>
-                            <Polygon POINTS="465 800 719 800 719 846 465 846"/>
-                        </Shape>
-                        <String CONTENT="bre de 1644. en esta Villa, ante Iuan Bautista San-"/>
-                    </TextLine>
+            
+            <TextLine id="_364a071e-9579-49b5-917d-c4a430ca0ebe">
+                <Coords points="465,800 719,800 719,846 465,846"/>
+                
+            <TextEquiv><Unicode>bre de 1644. en esta Villa, ante Iuan Bautista San-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_51c32378-cf5d-4e2c-af5c-4a19152dc62f" HPOS="468" VPOS="843" WIDTH="818" HEIGHT="61">
-                        <Shape>
-                            <Polygon POINTS="468 843 1286 843 1286 904 468 904"/>
-                        </Shape>
-                        <String CONTENT="chez Brauo Escriuano, por Iacinto Gomez Pimen"/>
-                    </TextLine>
+            
+            <TextLine id="_e4479633-e7d0-4cd3-b3db-27d306bf5e46">
+                <Coords points="468,843 1286,843 1286,904 468,904"/>
+                
+            <TextEquiv><Unicode>chez Brauo Escriuano, por Iacinto Gomez Pimen</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0c5c014c-731a-4d4d-95aa-f9576131d6f3" HPOS="463" VPOS="894" WIDTH="821" HEIGHT="57">
-                        <Shape>
-                            <Polygon POINTS="463 894 1284 894 1284 951 463 951"/>
-                        </Shape>
-                        <String CONTENT="tel, en que declara, que es mayor de 25. años, y que"/>
-                    </TextLine>
+            
+            <TextLine id="_ff1ef1bb-a7fd-46c7-836d-1ac5a96431b1">
+                <Coords points="463,894 1284,894 1284,951 463,951"/>
+                
+            <TextEquiv><Unicode>tel, en que declara, que es mayor de 25. años, y que</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_b638b129-e700-4fde-857e-d47730b75df4" HPOS="464" VPOS="944" WIDTH="816" HEIGHT="54">
-                        <Shape>
-                            <Polygon POINTS="464 944 1280 944 1280 998 464 998"/>
-                        </Shape>
-                        <String CONTENT="siendo menor otorgó en fauor de su padre dos car"/>
-                    </TextLine>
+            
+            <TextLine id="_bdc140aa-87ef-4594-a7ae-42aaa3112664">
+                <Coords points="464,944 1280,944 1280,998 464,998"/>
+                
+            <TextEquiv><Unicode>siendo menor otorgó en fauor de su padre dos car</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_5c625769-7469-4eae-863d-e0c21e51ad44" HPOS="463" VPOS="992" WIDTH="820" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="463 992 1283 992 1283 1048 463 1048"/>
-                        </Shape>
-                        <String CONTENT="tas de pago, que montan 32?646 reales, por cuen"/>
-                    </TextLine>
+            
+            <TextLine id="_ff24121a-72d0-4728-b481-9a578f6f792e">
+                <Coords points="463,992 1283,992 1283,1048 463,1048"/>
+                
+            <TextEquiv><Unicode>tas de pago, que montan 32?646 reales, por cuen</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_0c4558af-14f1-48b7-ac98-16312c78dc54" HPOS="462" VPOS="1039" WIDTH="820" HEIGHT="47">
-                        <Shape>
-                            <Polygon POINTS="462 1039 1282 1039 1282 1086 462 1086"/>
-                        </Shape>
-                        <String CONTENT="ta de la parte que le toca de bienes gananciales, y"/>
-                    </TextLine>
+            
+            <TextLine id="_a1850648-74be-4724-912e-bf3177cd8628">
+                <Coords points="462,1039 1282,1039 1282,1086 462,1086"/>
+                
+            <TextEquiv><Unicode>ta de la parte que le toca de bienes gananciales, y</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_92a38c9c-2ce0-4095-b062-172e3bf767fe" HPOS="461" VPOS="1089" WIDTH="820" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="461 1089 1281 1089 1281 1139 461 1139"/>
-                        </Shape>
-                        <String CONTENT="arras de su madre, á mayor abundamiento las aprue-"/>
-                    </TextLine>
+            
+            <TextLine id="_ae59bc8d-1c96-496a-b21c-3fd9905cfe2b">
+                <Coords points="461,1089 1281,1089 1281,1139 461,1139"/>
+                
+            <TextEquiv><Unicode>arras de su madre, á mayor abundamiento las aprue-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_a03e3afa-6ff1-457e-b55c-ebf7736eb651" HPOS="461" VPOS="1135" WIDTH="826" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="461 1135 1287 1135 1287 1183 461 1183"/>
-                        </Shape>
-                        <String CONTENT="ua, y ratifica. Y ansimismo declara, que tiene otor"/>
-                    </TextLine>
+            
+            <TextLine id="_eef978dd-7b6e-4382-837a-3ba9c1960ff9">
+                <Coords points="461,1135 1287,1135 1287,1183 461,1183"/>
+                
+            <TextEquiv><Unicode>ua, y ratifica. Y ansimismo declara, que tiene otor</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_41aa604d-dbf0-494a-b797-8a4b9df63668" HPOS="459" VPOS="1182" WIDTH="827" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="459 1182 1286 1182 1286 1232 459 1232"/>
-                        </Shape>
-                        <String CONTENT="gada otra carta de pago de 9?333. reales, por la"/>
-                    </TextLine>
+            
+            <TextLine id="_5a0d509f-d9cb-4c7f-a6ed-59bb5aa29585">
+                <Coords points="459,1182 1286,1182 1286,1232 459,1232"/>
+                
+            <TextEquiv><Unicode>gada otra carta de pago de 9?333. reales, por la</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_c57127e0-f89b-4239-a78e-5cc1733e455f" HPOS="460" VPOS="1231" WIDTH="827" HEIGHT="52">
-                        <Shape>
-                            <Polygon POINTS="460 1231 1287 1231 1287 1283 460 1283"/>
-                        </Shape>
-                        <String CONTENT="parte que le toca de la dote de su madre, y tambien"/>
-                    </TextLine>
+            
+            <TextLine id="_216af9e0-7feb-4510-a7c2-b151cc82b9eb">
+                <Coords points="460,1231 1287,1231 1287,1283 460,1283"/>
+                
+            <TextEquiv><Unicode>parte que le toca de la dote de su madre, y tambien</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_aab01d6d-c24b-44c4-974e-acc569c24630" HPOS="457" VPOS="1280" WIDTH="831" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="457 1280 1288 1280 1288 1336 457 1336"/>
-                        </Shape>
-                        <String CONTENT="la ratifica: y dize, que de los diez y seis mil setecien"/>
-                    </TextLine>
+            
+            <TextLine id="_1179aa13-f5c4-475b-817e-1ab21e640de4">
+                <Coords points="457,1280 1288,1280 1288,1336 457,1336"/>
+                
+            <TextEquiv><Unicode>la ratifica: y dize, que de los diez y seis mil setecien</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_9c7005eb-a833-4ef9-9074-02625e028e6c" HPOS="456" VPOS="1330" WIDTH="829" HEIGHT="47">
-                        <Shape>
-                            <Polygon POINTS="456 1330 1285 1330 1285 1377 456 1377"/>
-                        </Shape>
-                        <String CONTENT="tos setenta y dos reales que montó la tienda que"/>
-                    </TextLine>
+            
+            <TextLine id="_cf80fd41-b44b-4b03-aad9-85661ca55f32">
+                <Coords points="456,1330 1285,1330 1285,1377 456,1377"/>
+                
+            <TextEquiv><Unicode>tos setenta y dos reales que montó la tienda que</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_29d96d8e-b95b-4a9e-bc6a-7b813d99eb12" HPOS="457" VPOS="1379" WIDTH="829" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="457 1379 1286 1379 1286 1429 457 1429"/>
-                        </Shape>
-                        <String CONTENT="le entregó su padre, le ha perdonado los 8?672."/>
-                    </TextLine>
+            
+            <TextLine id="_a96c4a7d-82de-4af9-aaf9-5c972e27aeb6">
+                <Coords points="457,1379 1286,1379 1286,1429 457,1429"/>
+                
+            <TextEquiv><Unicode>le entregó su padre, le ha perdonado los 8?672.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_020afce4-4c42-4e1e-9333-d1c933477c6d" HPOS="458" VPOS="1427" WIDTH="831" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="458 1427 1289 1427 1289 1475 458 1475"/>
-                        </Shape>
-                        <String CONTENT="teales el dicho su padre, y que assi declara tiene re"/>
-                    </TextLine>
+            
+            <TextLine id="_0935741e-01e9-4e94-a955-f3b94040ddf6">
+                <Coords points="458,1427 1289,1427 1289,1475 458,1475"/>
+                
+            <TextEquiv><Unicode>teales el dicho su padre, y que assi declara tiene re</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_3c40d8b4-de52-4aa7-b9b3-40358b53773f" HPOS="454" VPOS="1475" WIDTH="833" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="454 1475 1287 1475 1287 1523 454 1523"/>
-                        </Shape>
-                        <String CONTENT="cibido por cuenta de su legitima 8?000. reales por"/>
-                    </TextLine>
+            
+            <TextLine id="_d1e577a8-36c4-4f3f-89f5-f57423adcafa">
+                <Coords points="454,1475 1287,1475 1287,1523 454,1523"/>
+                
+            <TextEquiv><Unicode>cibido por cuenta de su legitima 8?000. reales por</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_995e487e-4cb5-4b5d-b433-a2d2d4b085d6" HPOS="459" VPOS="1525" WIDTH="832" HEIGHT="50">
-                        <Shape>
-                            <Polygon POINTS="459 1525 1291 1525 1291 1575 459 1575"/>
-                        </Shape>
-                        <String CONTENT="el valor de la dicha tienda. Y nueuamente confies-"/>
-                    </TextLine>
+            
+            <TextLine id="_0f5b3ffc-aace-4ba9-8700-9f168f093441">
+                <Coords points="459,1525 1291,1525 1291,1575 459,1575"/>
+                
+            <TextEquiv><Unicode>el valor de la dicha tienda. Y nueuamente confies-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_317c5dd1-b4c0-4d61-b1ef-706e182de584" HPOS="455" VPOS="1575" WIDTH="840" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="455 1575 1295 1575 1295 1623 455 1623"/>
-                        </Shape>
-                        <String CONTENT="sa auer recibido del dicho su padre, otros 75?00."/>
-                    </TextLine>
+            
+            <TextLine id="_b09c296c-1dc8-4a2f-bf3a-2f2f4ebf2852">
+                <Coords points="455,1575 1295,1575 1295,1623 455,1623"/>
+                
+            <TextEquiv><Unicode>sa auer recibido del dicho su padre, otros 75?00.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_539b6d72-cc47-4404-85ab-fa422d4d5a14" HPOS="453" VPOS="1625" WIDTH="847" HEIGHT="48">
-                        <Shape>
-                            <Polygon POINTS="453 1625 1300 1625 1300 1673 453 1673"/>
-                        </Shape>
-                        <String CONTENT="reales mas, en dos partidas, y dellos le otorga car-"/>
-                    </TextLine>
+            
+            <TextLine id="_fa4ff845-7765-41a6-9927-df00562072d9">
+                <Coords points="453,1625 1300,1625 1300,1673 453,1673"/>
+                
+            <TextEquiv><Unicode>reales mas, en dos partidas, y dellos le otorga car-</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_98853b1d-abd0-4f2f-9394-ab9a2a102413" HPOS="452" VPOS="1675" WIDTH="854" HEIGHT="52">
-                        <Shape>
-                            <Polygon POINTS="452 1675 1306 1675 1306 1727 452 1727"/>
-                        </Shape>
-                        <String CONTENT="ta de pago."/>
-                    </TextLine>
+            
+            <TextLine id="_78ef5072-126b-45fb-8c58-2de77192c473">
+                <Coords points="452,1675 1306,1675 1306,1727 452,1727"/>
+                
+            <TextEquiv><Unicode>ta de pago.</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_f5e1cae1-18e4-47cf-9982-447b0f239352" HPOS="448" VPOS="1729" WIDTH="856" HEIGHT="56">
-                        <Shape>
-                            <Polygon POINTS="448 1729 1304 1729 1304 1785 448 1785"/>
-                        </Shape>
-                        <String CONTENT="Y"/>
-                    </TextLine>
+            
+            <TextLine id="_29926d90-c7c7-44ba-8338-eec14bc32244">
+                <Coords points="448,1729 1304,1729 1304,1785 448,1785"/>
+                
+            <TextEquiv><Unicode>Y</Unicode></TextEquiv></TextLine>
 
-                    
-                    <TextLine ID="_8ce37de3-bd9d-416a-8dec-399346e118b2" HPOS="447" VPOS="1788" WIDTH="265" HEIGHT="44">
-                        <Shape>
-                            <Polygon POINTS="447 1788 712 1788 712 1832 447 1832"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_ab3ca1c6-e40c-494d-9b95-b2c5eb60113c">
+                <Coords points="447,1788 712,1788 712,1832 447,1832"/>
+                
+            </TextLine>
 
-                    
-                    <TextLine ID="_1b92a37c-05ea-49fe-b912-928381495a2f" HPOS="1254" VPOS="1821" WIDTH="52" HEIGHT="38">
-                        <Shape>
-                            <Polygon POINTS="1254 1821 1306 1821 1306 1859 1254 1859"/>
-                        </Shape>
-                        <String CONTENT=""/>
-                    </TextLine>
+            
+            <TextLine id="_fd28eb13-9fc8-4b1a-a380-79d9768883f6">
+                <Coords points="1254,1821 1306,1821 1306,1859 1254,1859"/>
+                
+            </TextLine>
 
-                </TextBlock>
-            </PrintSpace>
-        </Page>
-    </Layout>
-</alto>
+        </TextRegion>
+    </Page>
+</PcGts>
