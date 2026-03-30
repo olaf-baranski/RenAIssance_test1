@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>None</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR__1bc793a6-2ba5-42ad-bb59-36eac844c4ed">
+            <processingCategory>preOperation</processingCategory>
+            <processingStepDescription>Image binarization</processingStepDescription>
+            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+        <Processing ID="OCR__b2e06d30-ebb7-405f-9950-7f720c2e99c4">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>bounding box segmentation</processingStepDescription>
+            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+    </Tags>
+    <Layout>
+        <Page WIDTH="1500" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="1500" HEIGHT="2000">
+                <TextBlock ID="textblock_1">
+                    
+                    <TextLine ID="_0c2b53c1-d74c-466c-b7d7-3c0735f5d4da" HPOS="59" VPOS="569" WIDTH="50" HEIGHT="59">
+                        <Shape>
+                            <Polygon POINTS="59 569 109 569 109 628 59 628"/>
+                        </Shape>
+                        <String CONTENT="POR"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_9ee9fe6c-e20e-41e6-b729-253b93af8844" HPOS="51" VPOS="1388" WIDTH="68" HEIGHT="71">
+                        <Shape>
+                            <Polygon POINTS="51 1388 119 1388 119 1459 51 1459"/>
+                        </Shape>
+                        <String CONTENT="DOÑA CATALINA DE"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_f9e15253-1c5e-48b5-8219-08aa7ca7d3e9" HPOS="33" VPOS="1620" WIDTH="52" HEIGHT="63">
+                        <Shape>
+                            <Polygon POINTS="33 1620 85 1620 85 1683 33 1683"/>
+                        </Shape>
+                        <String CONTENT="Laçarraga y Zarate, viuda de Marco"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_2a1d3cc9-9e9b-408b-a81f-e26793b7c893" HPOS="494" VPOS="573" WIDTH="142" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="494 573 636 573 636 620 494 620"/>
+                        </Shape>
+                        <String CONTENT="Antonio de Caycedo, y el señor"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ba3fa161-ea7c-4163-8459-b87202cb356d" HPOS="490" VPOS="581" WIDTH="261" HEIGHT="84">
+                        <Shape>
+                            <Polygon POINTS="490 581 751 581 751 665 490 665"/>
+                        </Shape>
+                        <String CONTENT="Fiscal."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_70e83735-0699-4153-8cfd-fe4667d7762f" HPOS="495" VPOS="660" WIDTH="230" HEIGHT="52">
+                        <Shape>
+                            <Polygon POINTS="495 660 725 660 725 712 495 712"/>
+                        </Shape>
+                        <String CONTENT="C O N"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_4edda466-d002-4698-a961-2f4d559f9e4d" HPOS="647" VPOS="704" WIDTH="107" HEIGHT="42">
+                        <Shape>
+                            <Polygon POINTS="647 704 754 704 754 746 647 746"/>
+                        </Shape>
+                        <String CONTENT="Don Antonio del Barco y Recalde,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_4eff853b-484d-45c8-b24b-80b954c0613c" HPOS="356" VPOS="704" WIDTH="836" HEIGHT="103">
+                        <Shape>
+                            <Polygon POINTS="356 704 1192 704 1192 807 356 807"/>
+                        </Shape>
+                        <String CONTENT="Cavallero de la Orden de"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_e06a4d75-419d-46b5-8c76-808acfa26907" HPOS="390" VPOS="790" WIDTH="800" HEIGHT="75">
+                        <Shape>
+                            <Polygon POINTS="390 790 1190 790 1190 865 390 865"/>
+                        </Shape>
+                        <String CONTENT="Santiago."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_111e598f-b262-4c11-8038-c3ae1b02c6fa" HPOS="374" VPOS="859" WIDTH="815" HEIGHT="84">
+                        <Shape>
+                            <Polygon POINTS="374 859 1189 859 1189 943 374 943"/>
+                        </Shape>
+                        <String CONTENT="Pretende doña Catalina, que don An-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_2f66da8f-4455-4feb-8e3f-c6b02fa137f9" HPOS="602" VPOS="924" WIDTH="318" HEIGHT="64">
+                        <Shape>
+                            <Polygon POINTS="602 924 920 924 920 988 602 988"/>
+                        </Shape>
+                        <String CONTENT="tonio ha de ser condenado a q avien"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_89725500-bc60-40b5-a05c-bd59276fc812" HPOS="516" VPOS="1026" WIDTH="534" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="516 1026 1050 1026 1050 1073 516 1073"/>
+                        </Shape>
+                        <String CONTENT="dosele quitado el habito, e insignias"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_c9587171-68c3-442a-8eb0-b0191ae26dc3" HPOS="393" VPOS="1127" WIDTH="804" HEIGHT="82">
+                        <Shape>
+                            <Polygon POINTS="393 1127 1197 1127 1197 1209 393 1209"/>
+                        </Shape>
+                        <String CONTENT="de la Orden, sea entregado a la justi-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_3c5f28aa-84b1-4291-987b-a2f6ac90c70b" HPOS="374" VPOS="1196" WIDTH="811" HEIGHT="75">
+                        <Shape>
+                            <Polygon POINTS="374 1196 1185 1196 1185 1271 374 1271"/>
+                        </Shape>
+                        <String CONTENT="cia seglar, para que se execute en el"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_5b4d85dd-7099-422d-8499-1a58be301768" HPOS="671" VPOS="1267" WIDTH="206" HEIGHT="65">
+                        <Shape>
+                            <Polygon POINTS="671 1267 877 1267 877 1332 671 1332"/>
+                        </Shape>
+                        <String CONTENT="la pena de muerte, por los delitos q"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_8dd4d098-fcae-4fb7-bba0-e56b7071a546" HPOS="320" VPOS="1364" WIDTH="59" HEIGHT="37">
+                        <Shape>
+                            <Polygon POINTS="320 1364 379 1364 379 1401 320 1401"/>
+                        </Shape>
+                        <String CONTENT="cometio de aver con malos medios,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_37868d85-a970-4e97-9a54-21eff04c0ed0" HPOS="579" VPOS="1362" WIDTH="626" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="579 1362 1205 1362 1205 1411 579 1411"/>
+                        </Shape>
+                        <String CONTENT="y tercerias, y promessas, y alagos engañado a D. Francis-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_1ba7d3af-d034-4891-b526-d0c7f0d0838f" HPOS="538" VPOS="1408" WIDTH="668" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="538 1408 1206 1408 1206 1457 538 1457"/>
+                        </Shape>
+                        <String CONTENT="ca"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_c1e4d6a7-6da5-48e9-8b4e-5f45a11a7087" HPOS="512" VPOS="1452" WIDTH="736" HEIGHT="55">
+                        <Shape>
+                            <Polygon POINTS="512 1452 1248 1452 1248 1507 512 1507"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_03358c2d-faac-49a6-bfc9-e1c78b0bab1e" HPOS="451" VPOS="1488" WIDTH="759" HEIGHT="65">
+                        <Shape>
+                            <Polygon POINTS="451 1488 1210 1488 1210 1553 451 1553"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ae9b20c1-fd0a-4848-b7fa-b213b4022b8f" HPOS="381" VPOS="1538" WIDTH="831" HEIGHT="58">
+                        <Shape>
+                            <Polygon POINTS="381 1538 1212 1538 1212 1596 381 1596"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_b0113753-e9d6-491c-8cac-ecbd08b29e56" HPOS="551" VPOS="1592" WIDTH="662" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="551 1592 1213 1592 1213 1641 551 1641"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_6bbfdb6b-deeb-4a7d-95da-6dd7e27e88fc" HPOS="580" VPOS="1641" WIDTH="632" HEIGHT="39">
+                        <Shape>
+                            <Polygon POINTS="580 1641 1212 1641 1212 1680 580 1680"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_dc90e0a7-398c-457f-8869-233786dd5b2d" HPOS="318" VPOS="1688" WIDTH="892" HEIGHT="52">
+                        <Shape>
+                            <Polygon POINTS="318 1688 1210 1688 1210 1740 318 1740"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                </TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

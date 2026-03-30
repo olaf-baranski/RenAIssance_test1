@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>None</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR__401543ec-8599-4081-9633-c462ec727c3e">
+            <processingCategory>preOperation</processingCategory>
+            <processingStepDescription>Image binarization</processingStepDescription>
+            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+        <Processing ID="OCR__399dbde3-d9b1-4c0e-9917-dd4ce73f94a5">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>bounding box segmentation</processingStepDescription>
+            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+    </Tags>
+    <Layout>
+        <Page WIDTH="1500" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="1500" HEIGHT="2000">
+                <TextBlock ID="textblock_1">
+                    
+                    <TextLine ID="_1f16cd76-114e-4864-9da6-80d231231bdc" HPOS="344" VPOS="48" WIDTH="972" HEIGHT="74">
+                        <Shape>
+                            <Polygon POINTS="344 48 1316 48 1316 122 344 122"/>
+                        </Shape>
+                        <String CONTENT="platillos si no nos gobernamos con prudencia. Jacome y,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_b24f9b6d-ce7b-4817-bdca-d666a9ebed34" HPOS="352" VPOS="104" WIDTH="962" HEIGHT="60">
+                        <Shape>
+                            <Polygon POINTS="352 104 1314 104 1314 164 352 164"/>
+                        </Shape>
+                        <String CONTENT="el cocinero hablan siempre en su lengua, con parientes"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_a61da08c-fb65-4f61-b5c9-bd997c121a23" HPOS="347" VPOS="160" WIDTH="969" HEIGHT="64">
+                        <Shape>
+                            <Polygon POINTS="347 160 1316 160 1316 224 347 224"/>
+                        </Shape>
+                        <String CONTENT="de Matias; y plega a Dios, que una vez u otra no de-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_876bf4ca-e51a-45bc-a4f0-5f15b550d4cf" HPOS="354" VPOS="213" WIDTH="964" HEIGHT="71">
+                        <Shape>
+                            <Polygon POINTS="354 213 1318 213 1318 284 354 284"/>
+                        </Shape>
+                        <String CONTENT="mos en la trampa. Bien sé que estas mis palabras se echa-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_48c28324-65e0-4f13-9dff-65c7ed49440f" HPOS="353" VPOS="268" WIDTH="964" HEIGHT="63">
+                        <Shape>
+                            <Polygon POINTS="353 268 1317 268 1317 331 353 331"/>
+                        </Shape>
+                        <String CONTENT="rán al aire porque vos joya mía no queréis hacer ca-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_1b861ea2-541c-4523-be76-e4544e693fc8" HPOS="350" VPOS="325" WIDTH="967" HEIGHT="71">
+                        <Shape>
+                            <Polygon POINTS="350 325 1317 325 1317 396 350 396"/>
+                        </Shape>
+                        <String CONTENT="so: porque si….. temor de lo que yo digo, no os hu-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_39588a4b-5f17-4174-9f2e-64be784c060a" HPOS="349" VPOS="382" WIDTH="968" HEIGHT="58">
+                        <Shape>
+                            <Polygon POINTS="349 382 1317 382 1317 440 349 440"/>
+                        </Shape>
+                        <String CONTENT="biera despuesto dos veces en tanto peligro, como es ve-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_d69e0811-e5ca-4050-9051-8cc95bf56192" HPOS="354" VPOS="435" WIDTH="960" HEIGHT="60">
+                        <Shape>
+                            <Polygon POINTS="354 435 1314 435 1314 495 354 495"/>
+                        </Shape>
+                        <String CONTENT="nir a casa de día, particularmente la noche que vinis-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_769a183f-1ce0-46a5-b307-bbf998a3fa29" HPOS="344" VPOS="488" WIDTH="964" HEIGHT="60">
+                        <Shape>
+                            <Polygon POINTS="344 488 1308 488 1308 548 344 548"/>
+                        </Shape>
+                        <String CONTENT="te con el criado que el cocinero ha dicho libremente que"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_83b65a9d-23a5-43d6-b749-cdd66f470277" HPOS="351" VPOS="541" WIDTH="956" HEIGHT="62">
+                        <Shape>
+                            <Polygon POINTS="351 541 1307 541 1307 603 351 603"/>
+                        </Shape>
+                        <String CONTENT="os ha visto. Ay Dios, si este hablase como hizo de las"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_44c94425-43cf-4d99-9d6d-5804c4a68cb3" HPOS="352" VPOS="597" WIDTH="953" HEIGHT="56">
+                        <Shape>
+                            <Polygon POINTS="352 597 1305 597 1305 653 352 653"/>
+                        </Shape>
+                        <String CONTENT="Rotulas, que sería de mí, o mi g. Estáis vos fuera de ca-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_98dee61f-8ec1-48c5-842a-f8ddfe5fffd5" HPOS="346" VPOS="647" WIDTH="959" HEIGHT="64">
+                        <Shape>
+                            <Polygon POINTS="346 647 1305 647 1305 711 346 711"/>
+                        </Shape>
+                        <String CONTENT="sa, yo estoy en manos de canalla, que pueden ser causa"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_69f36c7e-e661-4fcd-b5e6-0a1a2781e672" HPOS="355" VPOS="702" WIDTH="948" HEIGHT="63">
+                        <Shape>
+                            <Polygon POINTS="355 702 1303 702 1303 765 355 765"/>
+                        </Shape>
+                        <String CONTENT="de mi muerte, y no la huyera por escapar con la seguir-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_dd583c58-59c9-45a9-b889-16c1b3402fe0" HPOS="358" VPOS="755" WIDTH="943" HEIGHT="60">
+                        <Shape>
+                            <Polygon POINTS="358 755 1301 755 1301 815 358 815"/>
+                        </Shape>
+                        <String CONTENT="dad de la vida una mancha eterna de infamia: hablo"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_2661bcfc-b8ee-47f0-ac3d-fd457620ec17" HPOS="352" VPOS="809" WIDTH="946" HEIGHT="58">
+                        <Shape>
+                            <Polygon POINTS="352 809 1298 809 1298 867 352 867"/>
+                        </Shape>
+                        <String CONTENT="con vos corazón mío, que en mi se haya enfriado el amor,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_88757293-13c8-4125-abf0-849a8cfb9298" HPOS="357" VPOS="861" WIDTH="936" HEIGHT="58">
+                        <Shape>
+                            <Polygon POINTS="357 861 1293 861 1293 919 357 919"/>
+                        </Shape>
+                        <String CONTENT="mas si consideraseis mis trabajos, no habalriades así,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_d91cd214-da94-4b12-a0dc-280b909ee089" HPOS="357" VPOS="915" WIDTH="1032" HEIGHT="56">
+                        <Shape>
+                            <Polygon POINTS="357 915 1389 915 1389 971 357 971"/>
+                        </Shape>
+                        <String CONTENT="antes deviades aseguraos, que si yo no os amara de"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_20f80588-362c-4365-9420-3f3bc924df8a" HPOS="358" VPOS="968" WIDTH="934" HEIGHT="55">
+                        <Shape>
+                            <Polygon POINTS="358 968 1292 968 1292 1023 358 1023"/>
+                        </Shape>
+                        <String CONTENT="veras, no hubiera sido constante a golpe de muerte, como"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_290a94b4-448b-4606-be06-fe0663ebefba" HPOS="358" VPOS="1019" WIDTH="934" HEIGHT="54">
+                        <Shape>
+                            <Polygon POINTS="358 1019 1292 1019 1292 1073 358 1073"/>
+                        </Shape>
+                        <String CONTENT="lo he pasado. Juzgo también, que el dejaros ver todas"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_91a74217-be75-43f3-a86e-b4ff7f22b040" HPOS="348" VPOS="1070" WIDTH="945" HEIGHT="53">
+                        <Shape>
+                            <Polygon POINTS="348 1070 1293 1070 1293 1123 348 1123"/>
+                        </Shape>
+                        <String CONTENT="las noches cuando vengo de casa de mi madre, no esté"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_fbde7951-366b-4ae8-8435-6fa63628632c" HPOS="351" VPOS="1120" WIDTH="946" HEIGHT="57">
+                        <Shape>
+                            <Polygon POINTS="351 1120 1297 1120 1297 1177 351 1177"/>
+                        </Shape>
+                        <String CONTENT="bien porque este mal viejo del gentilhombre no se quie-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_32a50851-7448-4c63-89e3-4a697a2f47fe" HPOS="346" VPOS="1174" WIDTH="952" HEIGHT="56">
+                        <Shape>
+                            <Polygon POINTS="346 1174 1298 1174 1298 1230 346 1230"/>
+                        </Shape>
+                        <String CONTENT="re apartar de mí, y después con la venida del amigo, el"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_1bd54ade-e32c-463e-a1e0-5584dac53321" HPOS="347" VPOS="1228" WIDTH="950" HEIGHT="55">
+                        <Shape>
+                            <Polygon POINTS="347 1228 1297 1228 1297 1283 347 1283"/>
+                        </Shape>
+                        <String CONTENT="cual vendrá esta noche, puede ser que venga acaso con-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_6b822b07-e4ad-4d7c-b1ad-e4ef8e3bb9a8" HPOS="338" VPOS="1278" WIDTH="964" HEIGHT="61">
+                        <Shape>
+                            <Polygon POINTS="338 1278 1302 1278 1302 1339 338 1339"/>
+                        </Shape>
+                        <String CONTENT="migo. Todo os sirva por bien, y aquí con desentrañable"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_be1c06cf-f18f-4c0d-8bb4-ec75280b68ab" HPOS="348" VPOS="1330" WIDTH="946" HEIGHT="62">
+                        <Shape>
+                            <Polygon POINTS="348 1330 1294 1330 1294 1392 348 1392"/>
+                        </Shape>
+                        <String CONTENT="amor os beso infinitas veces, a Dios. Vuestra fiel."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_bad96e70-2839-412b-82d5-9a8e8dd0db66" HPOS="347" VPOS="1382" WIDTH="956" HEIGHT="65">
+                        <Shape>
+                            <Polygon POINTS="347 1382 1303 1382 1303 1447 347 1447"/>
+                        </Shape>
+                        <String CONTENT="6. Et in alia espistola, his verbis: Tesoro mío, sois"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_b9d706e4-5487-420d-b422-5ab5933d7d8d" HPOS="346" VPOS="1442" WIDTH="958" HEIGHT="59">
+                        <Shape>
+                            <Polygon POINTS="346 1442 1304 1442 1304 1501 346 1501"/>
+                        </Shape>
+                        <String CONTENT="embustero mío, un luchador en la empresa de amor,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_c4904b38-7dbd-43a7-bc0b-a04d74053415" HPOS="345" VPOS="1497" WIDTH="962" HEIGHT="58">
+                        <Shape>
+                            <Polygon POINTS="345 1497 1307 1497 1307 1555 345 1555"/>
+                        </Shape>
+                        <String CONTENT="de los mayores que pueden haber nacido, y que nace-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_0b37de2f-ad76-47ad-909e-3be107944962" HPOS="333" VPOS="1549" WIDTH="973" HEIGHT="61">
+                        <Shape>
+                            <Polygon POINTS="333 1549 1306 1549 1306 1610 333 1610"/>
+                        </Shape>
+                        <String CONTENT="rán al mundo, de suerte que cualquier dama se da"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_a159ab2f-732c-422f-9685-e289ccff9868" HPOS="342" VPOS="1602" WIDTH="966" HEIGHT="71">
+                        <Shape>
+                            <Polygon POINTS="342 1602 1308 1602 1308 1673 342 1673"/>
+                        </Shape>
+                        <String CONTENT="por rendida, y yo como tal me echo a tues pies, su-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_58d234b3-c1f8-476e-95fd-65d9ac9f31b5" HPOS="335" VPOS="1659" WIDTH="974" HEIGHT="68">
+                        <Shape>
+                            <Polygon POINTS="335 1659 1309 1659 1309 1727 335 1727"/>
+                        </Shape>
+                        <String CONTENT="plicándote el que me tengas compasión, si no pu-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_9855d13c-db11-4882-91b1-304e9ca19ca8" HPOS="332" VPOS="1710" WIDTH="972" HEIGHT="75">
+                        <Shape>
+                            <Polygon POINTS="332 1710 1304 1710 1304 1785 332 1785"/>
+                        </Shape>
+                        <String CONTENT="diese estos días recibirte de nuevo en mis brazos, atenta"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_3e23c941-5898-490e-bb5b-e59b7c729500" HPOS="338" VPOS="1762" WIDTH="974" HEIGHT="69">
+                        <Shape>
+                            <Polygon POINTS="338 1762 1312 1762 1312 1831 338 1831"/>
+                        </Shape>
+                        <String CONTENT="que me siento flaquísima, y muy dolorida de vuestros"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_1ceed5fb-9e1a-4a14-abf5-9a71e214de2f" HPOS="343" VPOS="1818" WIDTH="969" HEIGHT="63">
+                        <Shape>
+                            <Polygon POINTS="343 1818 1312 1818 1312 1881 343 1881"/>
+                        </Shape>
+                        <String CONTENT="golpes, que me hieren con tan dulce furia. No quisiera"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_4169e73b-07ca-40da-9fea-de77cc4ddd97" HPOS="340" VPOS="1867" WIDTH="962" HEIGHT="73">
+                        <Shape>
+                            <Polygon POINTS="340 1867 1302 1867 1302 1940 340 1940"/>
+                        </Shape>
+                        <String CONTENT="después, o mi caro bien reysedes que el no quereros"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_65a5a767-6f1e-4807-8d7e-3b68ad8892b5" HPOS="1163" VPOS="1929" WIDTH="138" HEIGHT="31">
+                        <Shape>
+                            <Polygon POINTS="1163 1929 1301 1929 1301 1960 1163 1960"/>
+                        </Shape>
+                        <String CONTENT="te-"/>
+                    </TextLine>
+
+                </TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

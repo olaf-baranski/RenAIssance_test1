@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>None</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR__6746fb8e-ac5e-43d0-ae8e-73ddbad5685c">
+            <processingCategory>preOperation</processingCategory>
+            <processingStepDescription>Image binarization</processingStepDescription>
+            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+        <Processing ID="OCR__8c2d28af-c046-4da5-af9a-18efe16c066c">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>bounding box segmentation</processingStepDescription>
+            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+    </Tags>
+    <Layout>
+        <Page WIDTH="1516" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="1516" HEIGHT="2000">
+                <TextBlock ID="textblock_1">
+                    
+                    <TextLine ID="_0540ead8-11cc-4959-8ba9-f14c99fcecad" HPOS="409" VPOS="331" WIDTH="812" HEIGHT="92">
+                        <Shape>
+                            <Polygon POINTS="409 331 1221 331 1221 423 409 423"/>
+                        </Shape>
+                        <String CONTENT="Al"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_da8cf05c-cdc6-4013-ab50-906eeeaa03f7" HPOS="508" VPOS="439" WIDTH="191" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="508 439 699 439 699 486 508 486"/>
+                        </Shape>
+                        <String CONTENT="INFINITAMENTE AMABLE"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ed39130b-b3a1-43bb-bffd-f2c45a55ac62" HPOS="837" VPOS="433" WIDTH="279" HEIGHT="68">
+                        <Shape>
+                            <Polygon POINTS="837 433 1116 433 1116 501 837 501"/>
+                        </Shape>
+                        <String CONTENT="NIÑO JESUS."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_413c405f-6450-4797-b29c-775cf4cda128" HPOS="561" VPOS="468" WIDTH="581" HEIGHT="99">
+                        <Shape>
+                            <Polygon POINTS="561 468 1142 468 1142 567 561 567"/>
+                        </Shape>
+                        <String CONTENT="A Vos, Dulcissimo Niño"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_2a29ff42-f119-4198-a6be-a4480556432a" HPOS="545" VPOS="648" WIDTH="681" HEIGHT="66">
+                        <Shape>
+                            <Polygon POINTS="545 648 1226 648 1226 714 545 714"/>
+                        </Shape>
+                        <String CONTENT="JESUS, que no solo os"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_008e3b29-f102-4d9c-a599-4ef211e74c28" HPOS="413" VPOS="697" WIDTH="810" HEIGHT="142">
+                        <Shape>
+                            <Polygon POINTS="413 697 1223 697 1223 839 413 839"/>
+                        </Shape>
+                        <String CONTENT="dignasteis de llamaros"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_becb8fbc-4f96-4b96-8217-1e53f28607c9" HPOS="549" VPOS="824" WIDTH="672" HEIGHT="80">
+                        <Shape>
+                            <Polygon POINTS="549 824 1221 824 1221 904 549 904"/>
+                        </Shape>
+                        <String CONTENT="Doctor de los Niños,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_e9203daf-950c-4a31-afbd-4a6bd8e5d8e9" HPOS="575" VPOS="897" WIDTH="648" HEIGHT="51">
+                        <Shape>
+                            <Polygon POINTS="575 897 1223 897 1223 948 575 948"/>
+                        </Shape>
+                        <String CONTENT="sino también de assis-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_9e6a5d50-31a5-41b7-b830-a6f8b6b0bbe3" HPOS="409" VPOS="961" WIDTH="817" HEIGHT="54">
+                        <Shape>
+                            <Polygon POINTS="409 961 1226 961 1226 1015 409 1015"/>
+                        </Shape>
+                        <String CONTENT="tir como Niño entre los Doctores,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_9153f248-6794-4703-ba36-17cdcd545126" HPOS="407" VPOS="1023" WIDTH="819" HEIGHT="64">
+                        <Shape>
+                            <Polygon POINTS="407 1023 1226 1023 1226 1087 407 1087"/>
+                        </Shape>
+                        <String CONTENT="se consagra humilde esta pequeña"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_a89560bd-cd98-4784-b3bf-02363c36a2ac" HPOS="406" VPOS="1083" WIDTH="821" HEIGHT="64">
+                        <Shape>
+                            <Polygon POINTS="406 1083 1227 1083 1227 1147 406 1147"/>
+                        </Shape>
+                        <String CONTENT="Instrucción de los Niños. Es assi,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_70c92122-e4ab-4cea-9c02-45079fa0bff5" HPOS="408" VPOS="1146" WIDTH="820" HEIGHT="65">
+                        <Shape>
+                            <Polygon POINTS="408 1146 1228 1146 1228 1211 408 1211"/>
+                        </Shape>
+                        <String CONTENT="que ella también se dirige a la ju-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_b5749a87-392a-4898-8947-0f4814248be3" HPOS="404" VPOS="1210" WIDTH="825" HEIGHT="62">
+                        <Shape>
+                            <Polygon POINTS="404 1210 1229 1210 1229 1272 404 1272"/>
+                        </Shape>
+                        <String CONTENT="ventud; pero a esta, como recuer-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_43132ad3-80d9-41c7-84c4-704ce26e9471" HPOS="395" VPOS="1268" WIDTH="834" HEIGHT="66">
+                        <Shape>
+                            <Polygon POINTS="395 1268 1229 1268 1229 1334 395 1334"/>
+                        </Shape>
+                        <String CONTENT="do de lo que aprendió, a los Ni-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_0b31bca0-dfa3-428c-908e-6fbb3a55caad" HPOS="407" VPOS="1329" WIDTH="822" HEIGHT="65">
+                        <Shape>
+                            <Polygon POINTS="407 1329 1229 1329 1229 1394 407 1394"/>
+                        </Shape>
+                        <String CONTENT="ños, como precisa explicacion de"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_043ca095-ee94-4c6b-b503-cbf3ed441c73" HPOS="404" VPOS="1390" WIDTH="826" HEIGHT="68">
+                        <Shape>
+                            <Polygon POINTS="404 1390 1230 1390 1230 1458 404 1458"/>
+                        </Shape>
+                        <String CONTENT="lo que deben estudiar. Por este so-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ff38e05a-becc-48e0-ae03-d5a3e2ff3937" HPOS="407" VPOS="1455" WIDTH="820" HEIGHT="68">
+                        <Shape>
+                            <Polygon POINTS="407 1455 1227 1455 1227 1523 407 1523"/>
+                        </Shape>
+                        <String CONTENT="lo titulo es muy vuestra; y por"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_474828a8-436a-4959-bdbb-10245e0ae149" HPOS="409" VPOS="1515" WIDTH="820" HEIGHT="68">
+                        <Shape>
+                            <Polygon POINTS="409 1515 1229 1515 1229 1583 409 1583"/>
+                        </Shape>
+                        <String CONTENT="ser para Niños, que confiais a la"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_b4c7a9cf-b598-47ee-a9db-360013d70493" HPOS="409" VPOS="1578" WIDTH="819" HEIGHT="64">
+                        <Shape>
+                            <Polygon POINTS="409 1578 1228 1578 1228 1642 409 1642"/>
+                        </Shape>
+                        <String CONTENT="educacion de vuestra Compañia,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_41c8d571-55de-47f0-8ca2-d3a3fd564ff6" HPOS="407" VPOS="1638" WIDTH="823" HEIGHT="69">
+                        <Shape>
+                            <Polygon POINTS="407 1638 1230 1638 1230 1707 407 1707"/>
+                        </Shape>
+                        <String CONTENT="lo es mucho mas. En Vos, (Divi-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_dc32db84-5d6d-4a17-83f2-9084a4c2439f" HPOS="410" VPOS="1701" WIDTH="821" HEIGHT="68">
+                        <Shape>
+                            <Polygon POINTS="410 1701 1231 1701 1231 1769 410 1769"/>
+                        </Shape>
+                        <String CONTENT="no Exemplar de todas las virtu-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_f3ed599c-6a71-42f1-a945-444287748233" HPOS="413" VPOS="1762" WIDTH="819" HEIGHT="70">
+                        <Shape>
+                            <Polygon POINTS="413 1762 1232 1762 1232 1832 413 1832"/>
+                        </Shape>
+                        <String CONTENT="des) tienen abreviado el mas se-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_995bcb15-93b2-4d87-b1a1-80e65d128635" HPOS="1062" VPOS="1836" WIDTH="111" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="1062 1836 1173 1836 1173 1883 1062 1883"/>
+                        </Shape>
+                        <String CONTENT="guro"/>
+                    </TextLine>
+
+                </TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

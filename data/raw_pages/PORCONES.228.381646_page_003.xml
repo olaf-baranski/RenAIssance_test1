@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>None</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR__8c5bcdd6-fcf6-41bf-b13a-f2b6b387829b">
+            <processingCategory>preOperation</processingCategory>
+            <processingStepDescription>Image binarization</processingStepDescription>
+            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+        <Processing ID="OCR__48b86d94-089c-4db0-88a6-7f50989486ec">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>bounding box segmentation</processingStepDescription>
+            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+    </Tags>
+    <Layout>
+        <Page WIDTH="1500" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="1500" HEIGHT="2000">
+                <TextBlock ID="textblock_1">
+                    
+                    <TextLine ID="_3308a228-0135-4cd2-87ca-46ac3b10fb00" HPOS="124" VPOS="507" WIDTH="68" HEIGHT="36">
+                        <Shape>
+                            <Polygon POINTS="124 507 192 507 192 543 124 543"/>
+                        </Shape>
+                        <String CONTENT="der seis mil ducados, que auian tocado a su hijo Ia-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_88ebc360-4627-4297-b985-41d3458011ef" HPOS="116" VPOS="1914" WIDTH="45" HEIGHT="41">
+                        <Shape>
+                            <Polygon POINTS="116 1914 161 1914 161 1955 116 1955"/>
+                        </Shape>
+                        <String CONTENT="cinto Gomez por su legitima materna: y para que"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_1d21295d-d47c-4089-815c-253768b41ad7" HPOS="422" VPOS="91" WIDTH="843" HEIGHT="62">
+                        <Shape>
+                            <Polygon POINTS="422 91 1265 91 1265 153 422 153"/>
+                        </Shape>
+                        <String CONTENT="dello constasse pidio compulsorio, para que Anto"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_804df085-4341-4f22-b831-14f59756f298" HPOS="420" VPOS="153" WIDTH="846" HEIGHT="56">
+                        <Shape>
+                            <Polygon POINTS="420 153 1266 153 1266 209 420 209"/>
+                        </Shape>
+                        <String CONTENT="nio Cadenas Escriuano de Prouincia, le diesse vn"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_a0f060af-5dcd-45ea-b25e-f3f8b58fa67f" HPOS="422" VPOS="197" WIDTH="843" HEIGHT="61">
+                        <Shape>
+                            <Polygon POINTS="422 197 1265 197 1265 258 422 258"/>
+                        </Shape>
+                        <String CONTENT="testimonio de la particion, que se auia hecho de"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_da9709b8-81a1-449d-b467-ca0637dac498" HPOS="422" VPOS="246" WIDTH="840" HEIGHT="61">
+                        <Shape>
+                            <Polygon POINTS="422 246 1262 246 1262 307 422 307"/>
+                        </Shape>
+                        <String CONTENT="los bienes de doña Beatriz de Silua, entre Atonio"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_37e07e15-cf20-420e-85cd-1d7ac545dc92" HPOS="423" VPOS="299" WIDTH="837" HEIGHT="61">
+                        <Shape>
+                            <Polygon POINTS="423 299 1260 299 1260 360 423 360"/>
+                        </Shape>
+                        <String CONTENT="Gomez Pimentel, y sus hijos."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_cc37cc40-9d59-49a7-b32b-46dd3eb75a13" HPOS="423" VPOS="351" WIDTH="835" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="423 351 1258 351 1258 400 423 400"/>
+                        </Shape>
+                        <String CONTENT="6&#9;Por testimonio de Antonio Cadenas Escri-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_e1d0c555-a275-41b2-9b74-4f96ff50dca6" HPOS="424" VPOS="413" WIDTH="504" HEIGHT="46">
+                        <Shape>
+                            <Polygon POINTS="424 413 928 413 928 459 424 459"/>
+                        </Shape>
+                        <String CONTENT="uano de Prouincia consta, que ante el como tal Es-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_71568f00-89cd-433b-897d-9929aab33116" HPOS="473" VPOS="453" WIDTH="781" HEIGHT="43">
+                        <Shape>
+                            <Polygon POINTS="473 453 1254 453 1254 496 473 496"/>
+                        </Shape>
+                        <String CONTENT="criuano, se presentó la dicha cuenta, y particion,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_399fd1c4-76c0-43fb-8a2f-d082c2bad2d1" HPOS="422" VPOS="502" WIDTH="835" HEIGHT="56">
+                        <Shape>
+                            <Polygon POINTS="422 502 1257 502 1257 558 422 558"/>
+                        </Shape>
+                        <String CONTENT="y que se pidio su aprouacion, y que se auia dado"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_5f50216c-a2ff-47ba-a931-e55c59c66296" HPOS="424" VPOS="558" WIDTH="822" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="424 558 1246 558 1246 607 424 607"/>
+                        </Shape>
+                        <String CONTENT="traslado dellas a las partes, y que Antonio Gomez"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_9f24ff96-c5b5-4ac2-8809-0899ed10f80b" HPOS="424" VPOS="606" WIDTH="823" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="424 606 1247 606 1247 655 424 655"/>
+                        </Shape>
+                        <String CONTENT="auia dicho de agrauios contra ellas, pretendiendo"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_d81e4d3a-ec87-4206-8493-780869c57634" HPOS="422" VPOS="655" WIDTH="820" HEIGHT="48">
+                        <Shape>
+                            <Polygon POINTS="422 655 1242 655 1242 703 422 703"/>
+                        </Shape>
+                        <String CONTENT="se le auian de hazer buenos, y pagar seis mil duca-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_eacc5185-01e1-4eba-8c0d-b3aa7c63c04a" HPOS="422" VPOS="703" WIDTH="822" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="422 703 1244 703 1244 750 422 750"/>
+                        </Shape>
+                        <String CONTENT="dos por el capital, que auia lleuado al matrimonio"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_c71a1732-84bd-4ea5-80c7-050f386cf01b" HPOS="421" VPOS="751" WIDTH="827" HEIGHT="48">
+                        <Shape>
+                            <Polygon POINTS="421 751 1248 751 1248 799 421 799"/>
+                        </Shape>
+                        <String CONTENT="con doña Beatriz de Silua, y trecientos ducados que"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_dd8a6f37-4226-420a-9fc0-82395a133b67" HPOS="421" VPOS="799" WIDTH="863" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="421 799 1284 799 1284 848 421 848"/>
+                        </Shape>
+                        <String CONTENT="auia gastado en su funeral."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_e53a4a80-bd93-4451-8e34-934645f4ac7c" HPOS="421" VPOS="848" WIDTH="825" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="421 848 1246 848 1246 897 421 897"/>
+                        </Shape>
+                        <String CONTENT="7&#9;Tambien consta por dicho testimonio, que"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_164dca6c-c446-45a4-aea6-eff7c187edca" HPOS="422" VPOS="896" WIDTH="428" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="422 896 850 896 850 945 422 945"/>
+                        </Shape>
+                        <String CONTENT="Iacinto Gomez Pimentel huuo de auer por su le-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_d921c5b2-10b5-4d6c-ba8a-09f0bfd89b6c" HPOS="432" VPOS="944" WIDTH="811" HEIGHT="45">
+                        <Shape>
+                            <Polygon POINTS="432 944 1243 944 1243 989 432 989"/>
+                        </Shape>
+                        <String CONTENT="gitima materna 51?681. reales, y que se le adju-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_a1e18bc9-b933-446c-9929-a2a8294495ad" HPOS="422" VPOS="992" WIDTH="820" HEIGHT="44">
+                        <Shape>
+                            <Polygon POINTS="422 992 1242 992 1242 1036 422 1036"/>
+                        </Shape>
+                        <String CONTENT="dicaron, y pagaron en diferentes deuitos que se que-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_a9a17b68-0827-4bc0-a9ce-333816be0998" HPOS="422" VPOS="1039" WIDTH="818" HEIGHT="52">
+                        <Shape>
+                            <Polygon POINTS="422 1039 1240 1039 1240 1091 422 1091"/>
+                        </Shape>
+                        <String CONTENT="daron deuiendo, quando murio doña Beatriz"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_3d461efa-5b63-4edb-9041-6bc790e440da" HPOS="421" VPOS="1085" WIDTH="816" HEIGHT="48">
+                        <Shape>
+                            <Polygon POINTS="421 1085 1237 1085 1237 1133 421 1133"/>
+                        </Shape>
+                        <String CONTENT="de Silua, y en otros efectos, que se auian de co-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_8690cd4d-86b5-4558-b066-cac2fc939264" HPOS="419" VPOS="1134" WIDTH="823" HEIGHT="46">
+                        <Shape>
+                            <Polygon POINTS="419 1134 1242 1134 1242 1180 419 1180"/>
+                        </Shape>
+                        <String CONTENT="brar."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_67195fb8-9aed-469c-829e-b38c0cd9e74e" HPOS="419" VPOS="1181" WIDTH="823" HEIGHT="50">
+                        <Shape>
+                            <Polygon POINTS="419 1181 1242 1181 1242 1231 419 1231"/>
+                        </Shape>
+                        <String CONTENT="8&#9;Al fin de este testimonio, dize, que los Con-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_51786cd5-7664-4c0e-a7a3-b1b10813c7f6" HPOS="421" VPOS="1241" WIDTH="75" HEIGHT="32">
+                        <Shape>
+                            <Polygon POINTS="421 1241 496 1241 496 1273 421 1273"/>
+                        </Shape>
+                        <String CONTENT="tadores hizieron la dicha particion con declara-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_0b72cbbc-b154-4dfd-81b0-876e52b55b43" HPOS="462" VPOS="1279" WIDTH="785" HEIGHT="48">
+                        <Shape>
+                            <Polygon POINTS="462 1279 1247 1279 1247 1327 462 1327"/>
+                        </Shape>
+                        <String CONTENT="cion, que si Antionio Gomez Pimentel se quisiesse"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_0c8296da-e437-482b-bc5d-4c8868bc0812" HPOS="418" VPOS="1329" WIDTH="827" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="418 1329 1245 1329 1245 1376 418 1376"/>
+                        </Shape>
+                        <String CONTENT="encargar de la cobranza de los 115?840. reales, que"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ee250c78-81b8-4344-b38c-eb3098cd6ec3" HPOS="419" VPOS="1375" WIDTH="827" HEIGHT="54">
+                        <Shape>
+                            <Polygon POINTS="419 1375 1246 1375 1246 1429 419 1429"/>
+                        </Shape>
+                        <String CONTENT="montan las deudas que van partidas, entre los he"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_bb0802fc-4af4-44c5-b424-3939a2647b39" HPOS="416" VPOS="1424" WIDTH="831" HEIGHT="52">
+                        <Shape>
+                            <Polygon POINTS="416 1424 1247 1424 1247 1476 416 1476"/>
+                        </Shape>
+                        <String CONTENT="rederos contenidas en la relacion jurada, que dio,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_015f3bf2-24b7-402f-bb36-8fb4fb7f922c" HPOS="370" VPOS="1473" WIDTH="877" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="370 1473 1247 1473 1247 1520 370 1520"/>
+                        </Shape>
+                        <String CONTENT="se le ha de satisfacer por los tres herederos, cada v-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_cac096be-12f0-4359-9856-e8342d1f9767" HPOS="420" VPOS="1521" WIDTH="829" HEIGHT="52">
+                        <Shape>
+                            <Polygon POINTS="420 1521 1249 1521 1249 1573 420 1573"/>
+                        </Shape>
+                        <String CONTENT="no la tercia parte de lo que en la cobranza se gasta-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_73c532eb-7d21-476f-9178-35a47806d475" HPOS="420" VPOS="1570" WIDTH="879" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="420 1570 1299 1570 1299 1617 420 1617"/>
+                        </Shape>
+                        <String CONTENT="re."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_3d41456b-1fa3-4bf7-945c-e1397c491a5d" HPOS="417" VPOS="1619" WIDTH="878" HEIGHT="60">
+                        <Shape>
+                            <Polygon POINTS="417 1619 1295 1619 1295 1679 417 1679"/>
+                        </Shape>
+                        <String CONTENT="9&#9;Tambien declaran que ay 38?298. rea-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_d5f506c5-35e0-4333-b816-fa6500f0bf96" HPOS="420" VPOS="1697" WIDTH="40" HEIGHT="22">
+                        <Shape>
+                            <Polygon POINTS="420 1697 460 1697 460 1719 420 1719"/>
+                        </Shape>
+                        <String CONTENT="les de deudas perdidas, y que si en algun tiempo se"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_e0851c05-8f81-494e-a9cf-02750873048d" HPOS="468" VPOS="1722" WIDTH="793" HEIGHT="54">
+                        <Shape>
+                            <Polygon POINTS="468 1722 1261 1722 1261 1776 468 1776"/>
+                        </Shape>
+                        <String CONTENT="co-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_7bef685c-65c3-4d6f-9110-0dde696b57b5" HPOS="416" VPOS="1774" WIDTH="842" HEIGHT="55">
+                        <Shape>
+                            <Polygon POINTS="416 1774 1258 1774 1258 1829 416 1829"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_89062760-15e9-47c3-b312-c0b6f90de919" HPOS="1196" VPOS="1841" WIDTH="62" HEIGHT="31">
+                        <Shape>
+                            <Polygon POINTS="1196 1841 1258 1841 1258 1872 1196 1872"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                </TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

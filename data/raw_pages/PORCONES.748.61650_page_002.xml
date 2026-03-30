@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>None</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR__b6d74d8b-1a47-4cdc-a80c-2f5d8e61f8d4">
+            <processingCategory>preOperation</processingCategory>
+            <processingStepDescription>Image binarization</processingStepDescription>
+            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+        <Processing ID="OCR__1304016d-ac30-4d2c-8290-5adbbc1a3965">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>bounding box segmentation</processingStepDescription>
+            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+    </Tags>
+    <Layout>
+        <Page WIDTH="1500" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="1500" HEIGHT="2000">
+                <TextBlock ID="textblock_1">
+                    
+                    <TextLine ID="_3e3e512f-8b90-43aa-b38f-cd3e9a7aa476" HPOS="408" VPOS="34" WIDTH="593" HEIGHT="79">
+                        <Shape>
+                            <Polygon POINTS="408 34 1001 34 1001 113 408 113"/>
+                        </Shape>
+                        <String CONTENT="Artículo primero"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_bd555ebb-33ae-4be3-8793-1be2259bddce" HPOS="466" VPOS="36" WIDTH="219" HEIGHT="38">
+                        <Shape>
+                            <Polygon POINTS="466 36 685 36 685 74 466 74"/>
+                        </Shape>
+                        <String CONTENT="3. Aunque es regular en estos delitos venéreos la"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_b80ec3b5-a14e-4b26-969d-08dbcf054e5c" HPOS="249" VPOS="140" WIDTH="986" HEIGHT="79">
+                        <Shape>
+                            <Polygon POINTS="249 140 1235 140 1235 219 249 219"/>
+                        </Shape>
+                        <String CONTENT="prueba por presunciones, ex responso Pontifi-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_a9c22923-bd56-46d0-a402-d961b0c83b0d" HPOS="310" VPOS="205" WIDTH="922" HEIGHT="61">
+                        <Shape>
+                            <Polygon POINTS="310 205 1232 205 1232 266 310 266"/>
+                        </Shape>
+                        <String CONTENT="cis in cap. literis 12. de presumpt. … incap. Proterea de"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_6bc02ad5-a8e1-4236-bc27-a1664ac53c80" HPOS="255" VPOS="255" WIDTH="977" HEIGHT="69">
+                        <Shape>
+                            <Polygon POINTS="255 255 1232 255 1232 324 255 324"/>
+                        </Shape>
+                        <String CONTENT="testib us cum notatis ibidem per Canonitas, …Bart in"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_1f6055fc-d06d-42f5-9895-6580eca06dc4" HPOS="258" VPOS="316" WIDTH="974" HEIGHT="61">
+                        <Shape>
+                            <Polygon POINTS="258 316 1232 316 1232 377 258 377"/>
+                        </Shape>
+                        <String CONTENT="1.2…num.3.ff.ad l Iul de adult. Está sin embargo"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_a6b5cc86-4df1-4b8f-94bb-bd709cee6257" HPOS="257" VPOS="371" WIDTH="975" HEIGHT="62">
+                        <Shape>
+                            <Polygon POINTS="257 371 1232 371 1232 433 257 433"/>
+                        </Shape>
+                        <String CONTENT="la adultera tan convencida de su delito, que más se pue"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_63cd8d22-4fc6-48aa-9ff9-819573717a5a" HPOS="262" VPOS="426" WIDTH="965" HEIGHT="59">
+                        <Shape>
+                            <Polygon POINTS="262 426 1227 426 1227 485 262 485"/>
+                        </Shape>
+                        <String CONTENT="de decir (vt evidens aparebit) que consta del phisica y"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_21516230-dcb0-471f-b440-6fde6392639a" HPOS="259" VPOS="481" WIDTH="965" HEIGHT="59">
+                        <Shape>
+                            <Polygon POINTS="259 481 1224 481 1224 540 259 540"/>
+                        </Shape>
+                        <String CONTENT="realmente, que no por presunciones, y tan sin tergi-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_43b5f4ca-2ee3-4079-a134-157b0fb9fe13" HPOS="268" VPOS="538" WIDTH="956" HEIGHT="55">
+                        <Shape>
+                            <Polygon POINTS="268 538 1224 538 1224 593 268 593"/>
+                        </Shape>
+                        <String CONTENT="versación, que cualquiera de esta prueba es suficiente"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_9041e774-7bf2-4947-9584-9aebf94d7c01" HPOS="262" VPOS="591" WIDTH="961" HEIGHT="55">
+                        <Shape>
+                            <Polygon POINTS="262 591 1223 591 1223 646 262 646"/>
+                        </Shape>
+                        <String CONTENT="para la condenación de ambos efectos ordinarios civil,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_4a6f5d29-acb1-404d-8a97-41fb286b8714" HPOS="267" VPOS="642" WIDTH="954" HEIGHT="63">
+                        <Shape>
+                            <Polygon POINTS="267 642 1221 642 1221 705 267 705"/>
+                        </Shape>
+                        <String CONTENT="y criminal."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_f87e5493-570c-4c3e-892a-930d83a641f7" HPOS="267" VPOS="695" WIDTH="258" HEIGHT="62">
+                        <Shape>
+                            <Polygon POINTS="267 695 525 695 525 757 267 757"/>
+                        </Shape>
+                        <String CONTENT="4. Comenzando por la phisica, y verdadera, no pa-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ee2d10ac-9b33-4a41-89c1-518c804848ea" HPOS="273" VPOS="747" WIDTH="944" HEIGHT="59">
+                        <Shape>
+                            <Polygon POINTS="273 747 1217 747 1217 806 273 806"/>
+                        </Shape>
+                        <String CONTENT="rece se puede poner duda en ella: porque consta por su"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_cf1b1afb-02d5-414c-b8d2-be18730e6ab3" HPOS="265" VPOS="801" WIDTH="951" HEIGHT="57">
+                        <Shape>
+                            <Polygon POINTS="265 801 1216 801 1216 858 265 858"/>
+                        </Shape>
+                        <String CONTENT="propia confesión de la adultera, ad text. in cap penult."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_f7c45ace-0703-40f3-b477-92c9357b9799" HPOS="270" VPOS="854" WIDTH="945" HEIGHT="53">
+                        <Shape>
+                            <Polygon POINTS="270 854 1215 854 1215 907 270 907"/>
+                        </Shape>
+                        <String CONTENT="de adult. in eis verbis: Vel per evidentiamrei, vel per"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_2e674550-8925-42ae-8f54-faf0f91acf47" HPOS="274" VPOS="906" WIDTH="942" HEIGHT="55">
+                        <Shape>
+                            <Polygon POINTS="274 906 1216 906 1216 961 274 961"/>
+                        </Shape>
+                        <String CONTENT="confesionem legitimam mulieris plur a per Farinac de"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_90d82bf2-0492-44b4-9340-560cca3678ad" HPOS="267" VPOS="957" WIDTH="950" HEIGHT="61">
+                        <Shape>
+                            <Polygon POINTS="267 957 1217 957 1217 1018 267 1018"/>
+                        </Shape>
+                        <String CONTENT="confes quest. 81. cap 1. num.28."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_82c977e0-2848-4a08-97ff-4ea29c622522" HPOS="267" VPOS="1009" WIDTH="603" HEIGHT="54">
+                        <Shape>
+                            <Polygon POINTS="267 1009 870 1009 870 1063 267 1063"/>
+                        </Shape>
+                        <String CONTENT="5. Está reiterada esta confesión en muchas cartas"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_45366ba8-0c1f-40b8-afc8-6a89a150ed5f" HPOS="268" VPOS="1057" WIDTH="944" HEIGHT="58">
+                        <Shape>
+                            <Polygon POINTS="268 1057 1212 1057 1212 1115 268 1115"/>
+                        </Shape>
+                        <String CONTENT="que escribió la adultera a su amante de quibus in proces-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_fc9c1d2a-d39d-469e-a53a-ba3d5d1e343b" HPOS="267" VPOS="1110" WIDTH="943" HEIGHT="53">
+                        <Shape>
+                            <Polygon POINTS="267 1110 1210 1110 1210 1163 267 1163"/>
+                        </Shape>
+                        <String CONTENT="su. En las cuales manifiesta el trato ilícito que con él"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ce038e2e-60b6-488f-81cb-4c9b0e25e6ae" HPOS="264" VPOS="1162" WIDTH="944" HEIGHT="58">
+                        <Shape>
+                            <Polygon POINTS="264 1162 1208 1162 1208 1220 264 1220"/>
+                        </Shape>
+                        <String CONTENT="había tenido, y tenía, significándole la perseverancia de"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_aedfbdc7-4122-4c11-b70f-a9917ff44cfd" HPOS="259" VPOS="1213" WIDTH="952" HEIGHT="53">
+                        <Shape>
+                            <Polygon POINTS="259 1213 1211 1213 1211 1266 259 1266"/>
+                        </Shape>
+                        <String CONTENT="su torpe afecto, y la fineza con que le amaba, y el temor"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_58739f32-91b6-453a-a49b-8f43a6927208" HPOS="270" VPOS="1264" WIDTH="945" HEIGHT="53">
+                        <Shape>
+                            <Polygon POINTS="270 1264 1215 1264 1215 1317 270 1317"/>
+                        </Shape>
+                        <String CONTENT="que tenia de que se descubriese este delito, por haberse"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_882efe1d-77ab-4353-a8b5-421045c14b55" HPOS="272" VPOS="1313" WIDTH="943" HEIGHT="58">
+                        <Shape>
+                            <Polygon POINTS="272 1313 1215 1313 1215 1371 272 1371"/>
+                        </Shape>
+                        <String CONTENT="conocido señales de sospecha en algunos criados con o"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_18420d62-194e-48c4-b25f-7f47c6547050" HPOS="269" VPOS="1367" WIDTH="948" HEIGHT="59">
+                        <Shape>
+                            <Polygon POINTS="269 1367 1217 1367 1217 1426 269 1426"/>
+                        </Shape>
+                        <String CONTENT="parece de sus palabras, que traducidas en castellano so-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_99f55ebb-2e47-4ab0-b577-63edfd90d04b" HPOS="271" VPOS="1419" WIDTH="948" HEIGHT="60">
+                        <Shape>
+                            <Polygon POINTS="271 1419 1219 1419 1219 1479 271 1479"/>
+                        </Shape>
+                        <String CONTENT="nan en frecuencia: Querido mío, por las señas que me hi-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ca0f4c34-bbb2-4107-a829-278e58d90cda" HPOS="268" VPOS="1473" WIDTH="950" HEIGHT="59">
+                        <Shape>
+                            <Polygon POINTS="268 1473 1218 1473 1218 1532 268 1532"/>
+                        </Shape>
+                        <String CONTENT="ciste ayer por la mañana, como también por dar cobro"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_5ec17bad-59d6-4c81-bdfd-d212311ac989" HPOS="584" VPOS="1512" WIDTH="93" HEIGHT="22">
+                        <Shape>
+                            <Polygon POINTS="584 1512 677 1512 677 1534 584 1534"/>
+                        </Shape>
+                        <String CONTENT="al que va con este, envié a la fiel al puesto al las cuatro,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_33e82304-dc86-4a94-a841-44c5f2efd59e" HPOS="269" VPOS="1525" WIDTH="950" HEIGHT="63">
+                        <Shape>
+                            <Polygon POINTS="269 1525 1219 1525 1219 1588 269 1588"/>
+                        </Shape>
+                        <String CONTENT="y allí estuvo hasta las cinco, y después la dicha fiel me"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_dcaacc79-3642-458f-9eb3-3a85afbad1b5" HPOS="266" VPOS="1577" WIDTH="953" HEIGHT="64">
+                        <Shape>
+                            <Polygon POINTS="266 1577 1219 1577 1219 1641 266 1641"/>
+                        </Shape>
+                        <String CONTENT="refirió al tiro que hizo Jacome, que luego que dieron las"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_e61f4136-a51d-4203-98af-3253cc93255b" HPOS="264" VPOS="1631" WIDTH="960" HEIGHT="66">
+                        <Shape>
+                            <Polygon POINTS="264 1631 1224 1631 1224 1697 264 1697"/>
+                        </Shape>
+                        <String CONTENT="cuatro abrieron una ventana en el dicho aposento de"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_125180db-cd63-49ec-a1ae-05cf5806904b" HPOS="261" VPOS="1685" WIDTH="964" HEIGHT="72">
+                        <Shape>
+                            <Polygon POINTS="261 1685 1225 1685 1225 1757 261 1757"/>
+                        </Shape>
+                        <String CONTENT="Jacome, y estuvo abierta hasta las cinco, y después la oyó"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ffc0e768-a43b-4281-bc75-d154fc1d4a0f" HPOS="258" VPOS="1739" WIDTH="969" HEIGHT="74">
+                        <Shape>
+                            <Polygon POINTS="258 1739 1227 1739 1227 1813 258 1813"/>
+                        </Shape>
+                        <String CONTENT="cerrar. Digo mi bien, que estos quieren hacer nuevos"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_a61d54a9-5230-40fe-b1ab-fa1f920a049b" HPOS="258" VPOS="1792" WIDTH="967" HEIGHT="74">
+                        <Shape>
+                            <Polygon POINTS="258 1792 1225 1792 1225 1866 258 1866"/>
+                        </Shape>
+                        <String CONTENT="pla-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_215674f7-2b92-4744-b78b-15052326e553" HPOS="258" VPOS="1849" WIDTH="966" HEIGHT="79">
+                        <Shape>
+                            <Polygon POINTS="258 1849 1224 1849 1224 1928 258 1928"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_b4ff37bd-61d4-4b6f-b668-f3ebc4bbfa52" HPOS="1157" VPOS="1912" WIDTH="68" HEIGHT="48">
+                        <Shape>
+                            <Polygon POINTS="1157 1912 1225 1912 1225 1960 1157 1960"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                </TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

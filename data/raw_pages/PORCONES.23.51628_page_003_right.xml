@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>None</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR__9cccd583-1d3c-4da8-8653-da15e6231390">
+            <processingCategory>preOperation</processingCategory>
+            <processingStepDescription>Image binarization</processingStepDescription>
+            <processingStepSettings>threshold: 0.5; zoom: 0.5; escale: 1.0; border: 0.1; perc: 80; range: 20; low: 5; high: 90</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+        <Processing ID="OCR__87736e90-65c2-41be-974d-881c1b8b4929">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>bounding box segmentation</processingStepDescription>
+            <processingStepSettings>text_direction: horizontal-lr; scale: None; maxcolseps: 2; black_colseps: False; remove_hlines: True; pad: (0, 0)</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>6.0.3</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+    </Tags>
+    <Layout>
+        <Page WIDTH="1145" HEIGHT="2000" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="1145" HEIGHT="2000">
+                <TextBlock ID="textblock_1">
+                    
+                    <TextLine ID="_31a1ab9d-3625-4ccd-b795-c736bbcf1b64" HPOS="17" VPOS="185" WIDTH="850" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="17 185 867 185 867 234 17 234"/>
+                        </Shape>
+                        <String CONTENT="admitio concurso de acosadores de la muerte con la viu-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_d609703e-b174-440e-b863-515acc13bbf6" HPOS="16" VPOS="230" WIDTH="828" HEIGHT="48">
+                        <Shape>
+                            <Polygon POINTS="16 230 844 230 844 278 16 278"/>
+                        </Shape>
+                        <String CONTENT="da del muerto, eo magis fiendo persona calificada, y tal"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_eda86c16-5a55-4a51-98ca-bb612b170e6d" HPOS="17" VPOS="274" WIDTH="832" HEIGHT="55">
+                        <Shape>
+                            <Polygon POINTS="17 274 849 274 849 329 17 329"/>
+                        </Shape>
+                        <String CONTENT="lexos de colusion, como lo muestra la diligencia, y per-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_9d0c2d42-9e4b-4f28-8bc1-542aaee08baf" HPOS="17" VPOS="320" WIDTH="829" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="17 320 846 320 846 369 17 369"/>
+                        </Shape>
+                        <String CONTENT="severancia con que ha seguido, y sigue este pleyto: y la"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_0dbccbc9-3006-42c1-9caa-b34d4190feba" HPOS="19" VPOS="366" WIDTH="884" HEIGHT="46">
+                        <Shape>
+                            <Polygon POINTS="19 366 903 366 903 412 19 412"/>
+                        </Shape>
+                        <String CONTENT="colusion esta en la hija casada oy con el matador de su"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_64576533-7bf8-4efa-91f9-ea70c70d02ad" HPOS="17" VPOS="412" WIDTH="842" HEIGHT="52">
+                        <Shape>
+                            <Polygon POINTS="17 412 859 412 859 464 17 464"/>
+                        </Shape>
+                        <String CONTENT="padre, cuyo perdon (quando lo huviera) no se admite,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_278d119e-f2bc-4b66-b5cf-0c03b1c98d74" HPOS="17" VPOS="456" WIDTH="828" HEIGHT="50">
+                        <Shape>
+                            <Polygon POINTS="17 456 845 456 845 506 17 506"/>
+                        </Shape>
+                        <String CONTENT="como luego se dira: y teniendo como tiene la viuda el"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_978691b5-6ca7-4af2-aadb-6968f4fc2494" HPOS="18" VPOS="503" WIDTH="839" HEIGHT="50">
+                        <Shape>
+                            <Polygon POINTS="18 503 857 503 857 553 18 553"/>
+                        </Shape>
+                        <String CONTENT="primer lugar en acusar, le tiene priuative en perdonar,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_eb44c39f-1ed5-40fc-9f34-4a00b0e7c3dd" HPOS="16" VPOS="545" WIDTH="827" HEIGHT="49">
+                        <Shape>
+                            <Polygon POINTS="16 545 843 545 843 594 16 594"/>
+                        </Shape>
+                        <String CONTENT="vt cum Angel. &amp; alijs per text. ibi. in I. si. plures, ff. de ac-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_323fce5a-121e-44b3-86b9-3d4e8abad2b9" HPOS="14" VPOS="593" WIDTH="849" HEIGHT="39">
+                        <Shape>
+                            <Polygon POINTS="14 593 863 593 863 632 14 632"/>
+                        </Shape>
+                        <String CONTENT="cusationibus, resoluit Flores de Mena d. lib. I. q. 7. nu. 5."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_5c1709e1-c4c9-4bd8-9e70-d1524e62097c" HPOS="58" VPOS="638" WIDTH="787" HEIGHT="46">
+                        <Shape>
+                            <Polygon POINTS="58 638 845 638 845 684 58 684"/>
+                        </Shape>
+                        <String CONTENT="Pero es tiempo perdido el que gasta la otra parte en"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_b85cdadd-5b7a-4c79-9dda-d96dcd78a8d9" HPOS="16" VPOS="680" WIDTH="823" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="16 680 839 680 839 727 16 727"/>
+                        </Shape>
+                        <String CONTENT="dezir, que por ser dos los hijos de Marco Antonio, y el"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_eed269cc-01d3-463c-908e-4671eaeb48a2" HPOS="15" VPOS="726" WIDTH="822" HEIGHT="46">
+                        <Shape>
+                            <Polygon POINTS="15 726 837 726 837 772 15 772"/>
+                        </Shape>
+                        <String CONTENT="varon ausente no aver acusado, y la hija no perdir a su ma-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_51d4d523-6886-4586-b366-3ed34a5ad75c" HPOS="16" VPOS="770" WIDTH="816" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="16 770 832 770 832 817 16 817"/>
+                        </Shape>
+                        <String CONTENT="rido hazen mayor numero en concurso con la madre,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_7f889598-629d-443e-b064-28dc7d5ea40b" HPOS="15" VPOS="813" WIDTH="815" HEIGHT="47">
+                        <Shape>
+                            <Polygon POINTS="15 813 830 813 830 860 15 860"/>
+                        </Shape>
+                        <String CONTENT="y han de prevalecer. Lo primero, porque la pretension"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_db2a837a-6975-4b90-af0d-8839d6656f2a" HPOS="15" VPOS="854" WIDTH="809" HEIGHT="48">
+                        <Shape>
+                            <Polygon POINTS="15 854 824 854 824 902 15 902"/>
+                        </Shape>
+                        <String CONTENT="de concurso de los hijos con la viuda, no es admissible,"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_2d9949ef-fada-48f5-8872-2376bc46a0c9" HPOS="15" VPOS="898" WIDTH="803" HEIGHT="44">
+                        <Shape>
+                            <Polygon POINTS="15 898 818 898 818 942 15 942"/>
+                        </Shape>
+                        <String CONTENT="como queda fundado, nu. 4. Lo segundo, porque el hijo"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_513cf82b-feee-47fe-abf2-735fe50cb843" HPOS="13" VPOS="941" WIDTH="854" HEIGHT="42">
+                        <Shape>
+                            <Polygon POINTS="13 941 867 941 867 983 13 983"/>
+                        </Shape>
+                        <String CONTENT="ausente en servicio del Rey, y de la Republica, quando"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_055be09e-7de2-4ce9-b989-eb628c25151e" HPOS="15" VPOS="983" WIDTH="804" HEIGHT="44">
+                        <Shape>
+                            <Polygon POINTS="15 983 819 983 819 1027 15 1027"/>
+                        </Shape>
+                        <String CONTENT="tuviera algun derecho de acusar esta ileso y entero, y"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_d9fd6fee-60b4-4cdc-b092-52f576d26a06" HPOS="15" VPOS="1025" WIDTH="803" HEIGHT="41">
+                        <Shape>
+                            <Polygon POINTS="15 1025 818 1025 818 1066 15 1066"/>
+                        </Shape>
+                        <String CONTENT="no remitido, I. t. &amp; L. item his, ff. ex quibus caus. maior."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_d95aa556-1ff4-4c9f-a44f-75002e77aa82" HPOS="15" VPOS="1070" WIDTH="805" HEIGHT="42">
+                        <Shape>
+                            <Polygon POINTS="15 1070 820 1070 820 1112 15 1112"/>
+                        </Shape>
+                        <String CONTENT="Y lo cierto es, que si sabe la muerte de su padre recono-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_67886ef5-b6ec-4c21-aa78-55b0d29258be" HPOS="15" VPOS="1112" WIDTH="814" HEIGHT="42">
+                        <Shape>
+                            <Polygon POINTS="15 1112 829 1112 829 1154 15 1154"/>
+                        </Shape>
+                        <String CONTENT="ce el primer lugar que tiene su madre para acusar, y las"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_6af30dcf-a0e9-4ae9-8fd7-c89bcc5591b6" HPOS="16" VPOS="1155" WIDTH="805" HEIGHT="43">
+                        <Shape>
+                            <Polygon POINTS="16 1155 821 1155 821 1198 16 1198"/>
+                        </Shape>
+                        <String CONTENT="veras con que lo haze, y lo fia todo de su deligencia: y el"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_78c470df-f1ae-46fe-881c-a49054b63e74" HPOS="14" VPOS="1197" WIDTH="807" HEIGHT="42">
+                        <Shape>
+                            <Polygon POINTS="14 1197 821 1197 821 1239 14 1239"/>
+                        </Shape>
+                        <String CONTENT="hijo esta tan lexos de remitir, que es una de las causas"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_15d7d442-e7d5-473d-9e18-7d574f6c7c55" HPOS="15" VPOS="1239" WIDTH="808" HEIGHT="45">
+                        <Shape>
+                            <Polygon POINTS="15 1239 823 1239 823 1284 15 1284"/>
+                        </Shape>
+                        <String CONTENT="que mas obliga a su madre a insistir en el castigo por la"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_4ad87b63-e8bb-480b-aa16-36fb635a8541" HPOS="15" VPOS="1283" WIDTH="808" HEIGHT="43">
+                        <Shape>
+                            <Polygon POINTS="15 1283 823 1283 823 1326 15 1326"/>
+                        </Shape>
+                        <String CONTENT="mano de la justicia, el temor no se le pierda este hijo"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_93d27c4b-05f4-4e36-9569-e3169cb0e5da" HPOS="15" VPOS="1325" WIDTH="810" HEIGHT="44">
+                        <Shape>
+                            <Polygon POINTS="15 1325 825 1325 825 1369 15 1369"/>
+                        </Shape>
+                        <String CONTENT="varon, unico sucessor en el mayorazdo de su padre, mo-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_82440e1a-6932-4b5d-8e80-cd6800b0bfe6" HPOS="13" VPOS="1366" WIDTH="734" HEIGHT="46">
+                        <Shape>
+                            <Polygon POINTS="13 1366 747 1366 747 1412 13 1412"/>
+                        </Shape>
+                        <String CONTENT="ço alentado, y con tantos agravios a los ojos."/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_2a37d0c8-5d51-464f-b7c8-8ab0ec41789a" HPOS="26" VPOS="1409" WIDTH="799" HEIGHT="45">
+                        <Shape>
+                            <Polygon POINTS="26 1409 825 1409 825 1454 26 1454"/>
+                        </Shape>
+                        <String CONTENT="Y en quanto a la hija, que primero represento tan"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ecc5850b-224d-4980-9be4-70936f448a0f" HPOS="12" VPOS="1455" WIDTH="812" HEIGHT="43">
+                        <Shape>
+                            <Polygon POINTS="12 1455 824 1455 824 1498 12 1498"/>
+                        </Shape>
+                        <String CONTENT="encarecidamente la muerte de su padre, y en casando-"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_7de43bfe-1367-4ce2-82a0-93ad9c71c463" HPOS="12" VPOS="1497" WIDTH="806" HEIGHT="36">
+                        <Shape>
+                            <Polygon POINTS="12 1497 818 1497 818 1533 12 1533"/>
+                        </Shape>
+                        <String CONTENT="se con el matador solicita su causa, no es de momento;"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_da0df3f3-12fb-4fcf-8c31-43b479d6fb57" HPOS="12" VPOS="1542" WIDTH="806" HEIGHT="42">
+                        <Shape>
+                            <Polygon POINTS="12 1542 818 1542 818 1584 12 1584"/>
+                        </Shape>
+                        <String CONTENT="tam, por no poder concurrir con la viuda, como por"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_d87658ed-9dc8-49ae-962d-0860b13fd228" HPOS="15" VPOS="1583" WIDTH="805" HEIGHT="42">
+                        <Shape>
+                            <Polygon POINTS="15 1583 820 1583 820 1625 15 1625"/>
+                        </Shape>
+                        <String CONTENT="hallarse subdita de su marido, y prohibida a acusalle: y"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_f226a9b1-d5c4-4435-b499-0a4800228ea7" HPOS="11" VPOS="1628" WIDTH="808" HEIGHT="44">
+                        <Shape>
+                            <Polygon POINTS="11 1628 819 1628 819 1672 11 1672"/>
+                        </Shape>
+                        <String CONTENT="assi aun enn el caso que no huviera la viuda, no fuera de"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_ceb480d0-d6e0-43bf-84ae-174777b7cc4e" HPOS="10" VPOS="1672" WIDTH="805" HEIGHT="38">
+                        <Shape>
+                            <Polygon POINTS="10 1672 815 1672 815 1710 10 1710"/>
+                        </Shape>
+                        <String CONTENT="momento su remission, vt fere in terminis resoluune"/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="_954a6d21-5543-41d6-ba61-c5420d85febe" HPOS="741" VPOS="1711" WIDTH="74" HEIGHT="32">
+                        <Shape>
+                            <Polygon POINTS="741 1711 815 1711 815 1743 741 1743"/>
+                        </Shape>
+                        <String CONTENT="Bosi."/>
+                    </TextLine>
+
+                </TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

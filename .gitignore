@@ -1,7 +1,12 @@
-data/
+data/**/*.png
+data/**/*.pdf
+data/**/*.txt
+data/**/*.docx
+
 *.pt
 *.pth
 *.onnx
+*.mlmodel
 __pycache__/
 *.py[cod]
 *$py.class
@@ -15,3 +20,4 @@ env/
 Thumbs.db
 .DS_Store
 .env
+venv_wsl/
