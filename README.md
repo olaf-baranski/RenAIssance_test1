@@ -26,21 +26,21 @@ Focus: early modern Spanish printed texts with noisy typography and OCR challeng
 
 
 PDF
-↓
+-
 PNG pages
-↓
+-
 (optional) split spreads
-↓
+-
 clean transcripts (GT)
-↓
+-
 Kraken segmentation → PAGE XML
-↓
+-
 line extraction (dataset)
-↓
+-
 Kraken OCR
-↓
+-
 Gemini cleanup (image + OCR)
-↓
+-
 Evaluation (CER/WER)
 
 
