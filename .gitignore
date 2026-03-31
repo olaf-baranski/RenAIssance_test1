@@ -1,23 +1,44 @@
-data/**/*.png
-data/**/*.pdf
-data/**/*.txt
-data/**/*.docx
-
-*.pt
-*.pth
-*.onnx
-*.mlmodel
+# --- Python / caches ---
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
+
+# --- Environments ---
 venv/
 env/
 .venv/
+venv_wsl/
+
+# --- Editors / OS ---
 .ipynb_checkpoints/
 .vscode/
 .idea/
 Thumbs.db
 .DS_Store
+
+# --- Secrets ---
 .env
-venv_wsl/
+
+# --- Model / binary artifacts ---
+*.pt
+*.pth
+*.onnx
+*.mlmodel
+
+# --- Temporary Gemini API files ---
+.tmp_gemini/
+
+# --- Logs ---
+logs/
+
+# --- data large subfolders ---
+data/**
+!data/line_dataset/
+!data/line_dataset/**
+!data/train_pages_clean/
+!data/train_pages_clean/**
+
+# --- Extra document formats just in case ---
+*.pdf
+*.docx

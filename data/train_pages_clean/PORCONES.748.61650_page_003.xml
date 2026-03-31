@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:20:24.090346+00:00</Created>
+        <LastChange>2026-03-30T18:20:24.090346+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="PORCONES.748.61650_page_003.png" imageWidth="1500" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1500,2000 1500,0"/>
+            
+            <TextLine id="_de7c19d7-7d25-43e0-bc64-3c62a342ffc4">
+                <Coords points="344,48 1316,48 1316,122 344,122"/>
+                
+            <TextEquiv><Unicode>platillos si no nos gobernamos con prudencia. Jacome y,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_b82ce64d-46e6-4a82-a93e-e1f661af66a7">
+                <Coords points="352,104 1314,104 1314,164 352,164"/>
+                
+            <TextEquiv><Unicode>el cocinero hablan siempre en su lengua, con parientes</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_638bf0a2-efd6-4e6e-8ba5-4ebab9e9c132">
+                <Coords points="347,160 1316,160 1316,224 347,224"/>
+                
+            <TextEquiv><Unicode>de Matias; y plega a Dios, que una vez u otra no de-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_eec22bfe-3e2f-4ba7-959c-ae1bd1221e28">
+                <Coords points="354,213 1318,213 1318,284 354,284"/>
+                
+            <TextEquiv><Unicode>mos en la trampa. Bien sé que estas mis palabras se echa-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_21093594-cd7e-4c24-8480-be08bb33dc58">
+                <Coords points="353,268 1317,268 1317,331 353,331"/>
+                
+            <TextEquiv><Unicode>rán al aire porque vos joya mía no queréis hacer ca-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_beb049c8-dc9b-4d7d-82aa-cf374656bf9c">
+                <Coords points="350,325 1317,325 1317,396 350,396"/>
+                
+            <TextEquiv><Unicode>so: porque si….. temor de lo que yo digo, no os hu-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ed140131-5b32-49f3-9fbd-ef097afeec46">
+                <Coords points="349,382 1317,382 1317,440 349,440"/>
+                
+            <TextEquiv><Unicode>biera despuesto dos veces en tanto peligro, como es ve-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_56e42f38-080a-4638-888d-e73f9506cbeb">
+                <Coords points="354,435 1314,435 1314,495 354,495"/>
+                
+            <TextEquiv><Unicode>nir a casa de día, particularmente la noche que vinis-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_34272464-f630-4f0f-b5cc-fd69de388979">
+                <Coords points="344,488 1308,488 1308,548 344,548"/>
+                
+            <TextEquiv><Unicode>te con el criado que el cocinero ha dicho libremente que</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_fd0efa49-012c-441b-8739-3e00d0148bf6">
+                <Coords points="351,541 1307,541 1307,603 351,603"/>
+                
+            <TextEquiv><Unicode>os ha visto. Ay Dios, si este hablase como hizo de las</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e786170a-8f3b-46df-a941-2a45883c332f">
+                <Coords points="352,597 1305,597 1305,653 352,653"/>
+                
+            <TextEquiv><Unicode>Rotulas, que sería de mí, o mi g. Estáis vos fuera de ca-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_3047f2f9-c87c-4264-ac70-39354f8ef005">
+                <Coords points="346,647 1305,647 1305,711 346,711"/>
+                
+            <TextEquiv><Unicode>sa, yo estoy en manos de canalla, que pueden ser causa</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_0a531466-790d-4eb1-9e4c-6c65cf338071">
+                <Coords points="355,702 1303,702 1303,765 355,765"/>
+                
+            <TextEquiv><Unicode>de mi muerte, y no la huyera por escapar con la seguir-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a215db64-335e-4abc-ac9d-f29460a0aa50">
+                <Coords points="358,755 1301,755 1301,815 358,815"/>
+                
+            <TextEquiv><Unicode>dad de la vida una mancha eterna de infamia: hablo</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ece87068-14b2-4159-ad14-ff1bea52a4e7">
+                <Coords points="352,809 1298,809 1298,867 352,867"/>
+                
+            <TextEquiv><Unicode>con vos corazón mío, que en mi se haya enfriado el amor,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a8e5e384-4991-4421-b04a-f78ca9cf6bb3">
+                <Coords points="357,861 1293,861 1293,919 357,919"/>
+                
+            <TextEquiv><Unicode>mas si consideraseis mis trabajos, no habalriades así,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_b0d2a9d6-9a31-4197-a03e-b891a2907ea9">
+                <Coords points="357,915 1389,915 1389,971 357,971"/>
+                
+            <TextEquiv><Unicode>antes deviades aseguraos, que si yo no os amara de</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_dad02a22-d238-4a22-8a29-5d34d1f4e3ac">
+                <Coords points="358,968 1292,968 1292,1023 358,1023"/>
+                
+            <TextEquiv><Unicode>veras, no hubiera sido constante a golpe de muerte, como</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d3aa085d-52e5-4cb2-bffb-ee10984d2d5e">
+                <Coords points="358,1019 1292,1019 1292,1073 358,1073"/>
+                
+            <TextEquiv><Unicode>lo he pasado. Juzgo también, que el dejaros ver todas</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_292c5723-6793-4723-b1c1-acce28c689a5">
+                <Coords points="348,1070 1293,1070 1293,1123 348,1123"/>
+                
+            <TextEquiv><Unicode>las noches cuando vengo de casa de mi madre, no esté</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_90a0d875-8b7c-4b4d-9ace-ce33636e25fb">
+                <Coords points="351,1120 1297,1120 1297,1177 351,1177"/>
+                
+            <TextEquiv><Unicode>bien porque este mal viejo del gentilhombre no se quie-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_fd9a5e53-95a5-4690-9d68-3431a484a7a5">
+                <Coords points="346,1174 1298,1174 1298,1230 346,1230"/>
+                
+            <TextEquiv><Unicode>re apartar de mí, y después con la venida del amigo, el</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_99e904b8-3ae6-4a2c-ad0c-b19fd1e99aeb">
+                <Coords points="347,1228 1297,1228 1297,1283 347,1283"/>
+                
+            <TextEquiv><Unicode>cual vendrá esta noche, puede ser que venga acaso con-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_601180c7-11ed-449b-ab93-8edbcde22e89">
+                <Coords points="338,1278 1302,1278 1302,1339 338,1339"/>
+                
+            <TextEquiv><Unicode>migo. Todo os sirva por bien, y aquí con desentrañable</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1d73caa8-5a77-4a62-9e48-f3a47c3a0cee">
+                <Coords points="348,1330 1294,1330 1294,1392 348,1392"/>
+                
+            <TextEquiv><Unicode>amor os beso infinitas veces, a Dios. Vuestra fiel.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c76dd8e9-329f-416f-8191-fa58cb3a15d2">
+                <Coords points="347,1382 1303,1382 1303,1447 347,1447"/>
+                
+            <TextEquiv><Unicode>6. Et in alia espistola, his verbis: Tesoro mío, sois</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_b6c14568-9a3d-48aa-8994-8c5add821668">
+                <Coords points="346,1442 1304,1442 1304,1501 346,1501"/>
+                
+            <TextEquiv><Unicode>embustero mío, un luchador en la empresa de amor,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_65ef1ca4-200c-48e1-9cdf-fb48d67a48f2">
+                <Coords points="345,1497 1307,1497 1307,1555 345,1555"/>
+                
+            <TextEquiv><Unicode>de los mayores que pueden haber nacido, y que nace-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_99a54785-5d97-42c2-ada5-a319335b070e">
+                <Coords points="333,1549 1306,1549 1306,1610 333,1610"/>
+                
+            <TextEquiv><Unicode>rán al mundo, de suerte que cualquier dama se da</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_0804c7b8-0369-41a2-8ede-d65f22df85a6">
+                <Coords points="342,1602 1308,1602 1308,1673 342,1673"/>
+                
+            <TextEquiv><Unicode>por rendida, y yo como tal me echo a tues pies, su-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9db94ece-f2ba-4277-9948-fe2ffea0775f">
+                <Coords points="335,1659 1309,1659 1309,1727 335,1727"/>
+                
+            <TextEquiv><Unicode>plicándote el que me tengas compasión, si no pu-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_525a774f-d5f1-4913-8caf-5d2ce384eb97">
+                <Coords points="332,1710 1304,1710 1304,1785 332,1785"/>
+                
+            <TextEquiv><Unicode>diese estos días recibirte de nuevo en mis brazos, atenta</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_5a5ba998-e318-47bc-ba87-908f13f2fff3">
+                <Coords points="338,1762 1312,1762 1312,1831 338,1831"/>
+                
+            <TextEquiv><Unicode>que me siento flaquísima, y muy dolorida de vuestros</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e2ae8473-2472-428b-a5c9-86cf89fab8ed">
+                <Coords points="343,1818 1312,1818 1312,1881 343,1881"/>
+                
+            <TextEquiv><Unicode>golpes, que me hieren con tan dulce furia. No quisiera</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_57bd8b72-0d69-4a07-b0f8-406c5323f097">
+                <Coords points="340,1867 1302,1867 1302,1940 340,1940"/>
+                
+            <TextEquiv><Unicode>después, o mi caro bien reysedes que el no quereros</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_2a912eea-d14b-460a-93fc-7b7da74f30fb">
+                <Coords points="1163,1929 1301,1929 1301,1960 1163,1960"/>
+                
+            <TextEquiv><Unicode>te-</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

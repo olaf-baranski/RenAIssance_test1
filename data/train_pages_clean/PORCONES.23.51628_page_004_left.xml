@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:20:11.133094+00:00</Created>
+        <LastChange>2026-03-30T18:20:11.133094+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="PORCONES.23.51628_page_004_left.png" imageWidth="1239" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1239,2000 1239,0"/>
+            
+            <TextLine id="_7ff50740-ccc2-48c0-b801-5dc8662aab55">
+                <Coords points="214,169 1132,169 1132,225 214,225"/>
+                
+            <TextEquiv><Unicode>Bosi. tit. de pace, vers. Quando vxor occiditur a viro,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9003c2b6-0cfc-4f9d-ae72-967082eb5a91">
+                <Coords points="212,220 1129,220 1129,275 212,275"/>
+                
+            <TextEquiv><Unicode>Iulius Clar. q. 58. num. 31. vers. contingit etiam. Bona-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_3ec52720-ef18-494f-b063-a5e4a1f6e5c3">
+                <Coords points="213,270 1128,270 1128,320 213,320"/>
+                
+            <TextEquiv><Unicode>cosa in suis communibus, vers. pax vxoricidae, lib. I. Pe-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_f3c1e868-0e8d-49d9-a0b9-47f5a887791e">
+                <Coords points="217,320 1124,320 1124,373 217,373"/>
+                
+            <TextEquiv><Unicode>trus Cabal. in. resolut. in resolut. crimina. casu 58. an. 10.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_27c50f01-c6f9-4b45-b3a6-a75881e99148">
+                <Coords points="237,371 1123,371 1123,420 237,420"/>
+                
+            <TextEquiv><Unicode>Et tandem, los delitos sobre que es este pleyto son</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_7354e886-0117-4d21-a70f-a721f03cd3ba">
+                <Coords points="216,420 1122,420 1122,471 216,471"/>
+                
+            <TextEquiv><Unicode>tan atroces que bastara la acusacion del señor Fiscal, y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_db356b54-1dfd-4013-95d5-86584287915f">
+                <Coords points="217,466 1122,466 1122,517 217,517"/>
+                
+            <TextEquiv><Unicode>de la Orden, y aun de qualquiera del pueblo, para que</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c857faa8-ba4f-4f03-938b-fe253ddf5b50">
+                <Coords points="214,513 1118,513 1118,567 214,567"/>
+                
+            <TextEquiv><Unicode>fueran castigados, vt in principio, &amp; in §. item Iex Cor-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_dfd60067-2316-4613-bd2e-7b6f19d587ce">
+                <Coords points="216,562 1067,562 1067,614 216,614"/>
+                
+            <TextEquiv><Unicode>nelia, &amp; §. item lex Iulia, int. de publicis iudicijs.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_2b2c454f-78e4-48d0-9e33-0f4b95e92de2">
+                <Coords points="227,613 1118,613 1118,661 227,661"/>
+                
+            <TextEquiv><Unicode>Lo mismo que esta dicho en la acusacion de la muer-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6db6e40f-30bd-4e44-b8b1-41c8ed4f8ee3">
+                <Coords points="217,660 1108,660 1108,713 217,713"/>
+                
+            <TextEquiv><Unicode>te procede en los demas delitos de que es acusado don</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_42266f30-09c4-432e-b055-627c3f932eb3">
+                <Coords points="216,705 1116,705 1116,765 216,765"/>
+                
+            <TextEquiv><Unicode>Antonio, sobre la fuerça y engaño, y quebrantamien-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ec490c10-33af-45f7-a058-6ebe82a0211b">
+                <Coords points="215,755 1114,755 1114,811 215,811"/>
+                
+            <TextEquiv><Unicode>to de casa, y aver entrado en ella denoche, estando ce-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e20a5305-2009-4e24-8762-6e4e6323e198">
+                <Coords points="212,803 1114,803 1114,861 212,861"/>
+                
+            <TextEquiv><Unicode>rradas las puertas con llaves, y usado de otras falsas, y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d1472664-7f20-46f0-bda0-1cca0e872509">
+                <Coords points="208,850 1113,850 1113,907 208,907"/>
+                
+            <TextEquiv><Unicode>por las ventanas y texados, y el rapto, sacando la hija</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_05608c36-041f-48d2-b6ce-3e1da4413317">
+                <Coords points="207,897 1111,897 1111,955 207,955"/>
+                
+            <TextEquiv><Unicode>de la casa, y llevandola a otras partes para usar mal de</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_b36a7587-22a2-476e-9a5e-1f0bb752828d">
+                <Coords points="206,944 1109,944 1109,1005 206,1005"/>
+                
+            <TextEquiv><Unicode>ella: porque aunque viviendo Marco Antonio, como</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_3912743f-1671-4338-89dd-31d2d3953552">
+                <Coords points="201,994 1108,994 1108,1050 201,1050"/>
+                
+            <TextEquiv><Unicode>cabeça de la familia ofendida, tenia la voz en su nom-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_15e3bf3b-546f-43e0-9461-42195f23dadd">
+                <Coords points="202,1041 1105,1041 1105,1101 202,1101"/>
+                
+            <TextEquiv><Unicode>bre, y de su muger, para querellarse; aviendole quita-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9f2d8ff2-6a85-4a39-804b-dd347b863aaf">
+                <Coords points="206,1089 1106,1089 1106,1149 206,1149"/>
+                
+            <TextEquiv><Unicode>do la vida el mismo delinquente, queda toda la accion</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_02bd7a3a-99bc-4ffc-89f5-cbc0007d30bc">
+                <Coords points="207,1138 759,1138 759,1184 207,1184"/>
+                
+            <TextEquiv><Unicode>en su muger, por dos razones.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c235e675-3549-4ac2-b015-b053cdde6539">
+                <Coords points="212,1187 1105,1187 1105,1245 212,1245"/>
+                
+            <TextEquiv><Unicode>La primera, porque el dolor de la dicha deshonra</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_8c867516-5a98-43b9-a3cb-7c62d74df22c">
+                <Coords points="206,1233 1105,1233 1105,1295 206,1295"/>
+                
+            <TextEquiv><Unicode>toco igualmente a la madre de familias, como al pa-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_82b99aa1-32f4-407c-bcb0-233ab548acff">
+                <Coords points="207,1282 1105,1282 1105,1339 207,1339"/>
+                
+            <TextEquiv><Unicode>dre, y aun mas propiamente a la madre, como mas assis-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_0291a3ff-8555-4c22-8645-5944f0b9e152">
+                <Coords points="206,1335 1101,1335 1101,1392 206,1392"/>
+                
+            <TextEquiv><Unicode>tente, y encargada de la guarda de casa, y de la hija, y a</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_038e0687-5ded-45b3-aecd-1edecb51e6b6">
+                <Coords points="203,1379 1102,1379 1102,1443 203,1443"/>
+                
+            <TextEquiv><Unicode>quien toca assimismo ex justa causa su remedio, como</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_70e34ea9-6443-4515-9e26-dfe943be95fa">
+                <Coords points="193,1432 1102,1432 1102,1490 193,1490"/>
+                
+            <TextEquiv><Unicode>carga comun del matrimonio, I. neque mater, C. de iure</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c05c7612-557f-4579-ac27-ee6ae6d91c2c">
+                <Coords points="200,1476 1101,1476 1101,1542 200,1542"/>
+                
+            <TextEquiv><Unicode>dotium, &amp; quae post antiquos tradit Menoch. de arbitra-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_14149963-5fdf-43b5-a896-494d8a371f03">
+                <Coords points="192,1526 1135,1526 1135,1588 192,1588"/>
+                
+            <TextEquiv><Unicode>rijs, casu 460, n. I. &amp; sequentibus: y bastarale ser confor-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_24b03c2a-4c8f-4703-a7fb-d1b5554f3f15">
+                <Coords points="185,1577 1100,1577 1100,1636 185,1636"/>
+                
+            <TextEquiv><Unicode>te, &amp; socia divinae, &amp; humanae domus, para poder acu-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d5224338-a5e6-463d-a17e-63ba483af744">
+                <Coords points="184,1623 1100,1623 1100,1679 184,1679"/>
+                
+            <TextEquiv><Unicode>sar la injuria hecha a su casa, ex Alex. ad Bart. in I. I. §.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e38b57e0-5dc3-45ef-9a92-ce8c7878e8f0">
+                <Coords points="184,1673 1098,1673 1098,1733 184,1733"/>
+                
+            <TextEquiv><Unicode>item ait, ff. de iniurijs: vbi vero, la ofensa es comun a</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e818a986-347a-4ce5-a675-24cdb3e8b796">
+                <Coords points="183,1725 1099,1725 1099,1778 183,1778"/>
+                
+            <TextEquiv><Unicode>marido y muger, lo es tambien el derecho de acusar, y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d67e0b03-40b1-4e21-ab41-29ec718b82b6">
+                <Coords points="179,1774 1097,1774 1097,1825 179,1825"/>
+                
+            <TextEquiv><Unicode>puede la muger suplir la omission del marido, ex Fa-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_66ade803-a3c8-4d16-b3d6-8c6eeaa28524">
+                <Coords points="176,1822 1097,1822 1097,1880 176,1880"/>
+                
+            <TextEquiv><Unicode>bro in §. patitur, nu. 4. inst. de iniurijs, Farinac. 3. tom.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_bebfcab2-26ef-490e-896e-d84645f6040f">
+                <Coords points="989,1879 1092,1879 1092,1927 989,1927"/>
+                
+            <TextEquiv><Unicode>quaest.</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

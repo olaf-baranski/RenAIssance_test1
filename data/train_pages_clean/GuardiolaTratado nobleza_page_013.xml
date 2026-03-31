@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:19:15.016059+00:00</Created>
+        <LastChange>2026-03-30T18:19:15.016059+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="GuardiolaTratado nobleza_page_013.png" imageWidth="1324" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1324,2000 1324,0"/>
+            
+            <TextLine id="_0eb8f205-cee7-4436-b1de-0527002c0b3b">
+                <Coords points="153,80 1177,80 1177,148 153,148"/>
+                
+            <TextEquiv><Unicode>dia de la fecha desta nuestra cedula podais</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9e66cfae-90a3-4761-9c77-b931dedfe5c0">
+                <Coords points="158,146 1173,146 1173,214 158,214"/>
+                
+            <TextEquiv><Unicode>imprimir el dicho libro que de suso se ha-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_07a77cf3-abd0-4d7f-b0f9-6154858e87c5">
+                <Coords points="153,212 1172,212 1172,276 153,276"/>
+                
+            <TextEquiv><Unicode>ze mencion por el original que en el nuestro</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_4431104d-29e3-45ee-93ec-36f3f16667fa">
+                <Coords points="153,275 1166,275 1166,340 153,340"/>
+                
+            <TextEquiv><Unicode>Consejo se vio que va rubricado y firmado</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_28be54a9-fe1a-45fe-8634-f5e29b2ee6ec">
+                <Coords points="154,339 1168,339 1168,388 154,388"/>
+                
+            <TextEquiv><Unicode>al fin de Pedro del Marmol nuestro escri-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_cb68c9f5-5a79-416e-8e52-73027075614b">
+                <Coords points="153,401 1166,401 1166,469 153,469"/>
+                
+            <TextEquiv><Unicode>vano de camara de los que residen en el </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_56c42b88-dafd-44f7-b4cb-ccb39d28fb3b">
+                <Coords points="151,470 1169,470 1169,533 151,533"/>
+                
+            <TextEquiv><Unicode>nuestro Consejo, con que antes que se ven-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6998c73e-8a2c-49d4-9705-d813b41ce4ad">
+                <Coords points="155,532 1165,532 1165,597 155,597"/>
+                
+            <TextEquiv><Unicode>da le traygays ante ellos jusntamente con</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_60ce8e2b-6e2d-474b-b880-c466d20784c1">
+                <Coords points="157,595 1168,595 1168,663 157,663"/>
+                
+            <TextEquiv><Unicode>el dicho original para q se vea si la dicha</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_53334988-110f-411b-a42c-a155e64556aa">
+                <Coords points="154,660 1181,660 1181,734 154,734"/>
+                
+            <TextEquiv><Unicode>impression esta conforme a el, y traygays</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_b0d4b420-5fff-41df-bdd8-d42c734471fd">
+                <Coords points="153,725 1169,725 1169,791 153,791"/>
+                
+            <TextEquiv><Unicode>fee en publica forma como por corrector</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_4b13e97c-0ebf-4e08-ade0-8ae4917920fb">
+                <Coords points="154,789 1169,789 1169,855 154,855"/>
+                
+            <TextEquiv><Unicode>nombrado por nuestro mandado se vio y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9c47ce66-6c47-4243-8b6f-2851d537d3ec">
+                <Coords points="153,854 1168,854 1168,921 153,921"/>
+                
+            <TextEquiv><Unicode>corrigio la dicha impression por el origi-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_daab3158-4dd5-4801-bd7e-22f09c37e156">
+                <Coords points="153,916 1182,916 1182,983 153,983"/>
+                
+            <TextEquiv><Unicode>nal: y mandamos al impressor que ansi im-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a861a78e-998b-49f7-a882-f5627c3260e5">
+                <Coords points="154,982 1181,982 1181,1048 154,1048"/>
+                
+            <TextEquiv><Unicode>primiere el dicho libro no imprima el prin</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_63f67f5a-4796-436f-a003-6d737dcf6e54">
+                <Coords points="158,1046 1183,1046 1183,1112 158,1112"/>
+                
+            <TextEquiv><Unicode>cipio ni el primero pliego del, ni entregue</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e6ad96ac-d75f-4919-bd67-0d9592b33e09">
+                <Coords points="155,1110 1166,1110 1166,1175 155,1175"/>
+                
+            <TextEquiv><Unicode>mas de un sol olibro con el original al au-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ca6301e3-0e26-4478-b1c7-be15a7dd8ece">
+                <Coords points="155,1175 1185,1175 1185,1239 155,1239"/>
+                
+            <TextEquiv><Unicode>tor, o persona a cuya costa le imprimie-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c3fe1855-82ab-4f91-be77-678fba8a7590">
+                <Coords points="152,1238 1182,1238 1182,1304 152,1304"/>
+                
+            <TextEquiv><Unicode>re, ni a otra alguna para efecto de la di-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_7dfab553-5631-47fd-b479-e047616b0115">
+                <Coords points="156,1301 1164,1301 1164,1373 156,1373"/>
+                
+            <TextEquiv><Unicode>cha correccion y tassa cierta que antes</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_430bcaaa-838e-4756-b54a-1ebd441a8918">
+                <Coords points="150,1368 1180,1368 1180,1431 150,1431"/>
+                
+            <TextEquiv><Unicode>y primero el dicho libro este corregido y </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_04b68bd4-e804-4c4e-b530-e9bb088c3019">
+                <Coords points="151,1431 1182,1431 1182,1497 151,1497"/>
+                
+            <TextEquiv><Unicode>tassado por los del nuestro Consejo, y es-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_5ddddd70-55b4-40a9-982b-8560b1246a6f">
+                <Coords points="153,1494 1183,1494 1183,1561 153,1561"/>
+                
+            <TextEquiv><Unicode>tando fecho y no de otra manera pueda</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_934b26a5-f1d4-4cfd-81cd-2fbe4a4d7ebe">
+                <Coords points="151,1559 1161,1559 1161,1626 151,1626"/>
+                
+            <TextEquiv><Unicode>imprimir el dicho principio y primer plie</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e0f0f595-4fb9-4c17-acfe-0abd0f4c666b">
+                <Coords points="153,1622 1156,1622 1156,1690 153,1690"/>
+                
+            <TextEquiv><Unicode>go, en el qual seguidamente ponga esta</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6e36da02-4d41-406c-a70b-4e5b4232b8d9">
+                <Coords points="147,1688 1156,1688 1156,1753 147,1753"/>
+                
+            <TextEquiv><Unicode>nuestra cedula, licencia y privilegio, y la</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6960d4d4-6ce0-466b-8082-eefefe8392d6">
+                <Coords points="151,1755 1157,1755 1157,1824 151,1824"/>
+                
+            <TextEquiv><Unicode>aprovacion, tassa y erratas, so pena de</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_4212a4a1-a57d-434a-961d-d8e91610b268">
+                <Coords points="965,1823 1163,1823 1163,1879 965,1879"/>
+                
+            <TextEquiv><Unicode>caer</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

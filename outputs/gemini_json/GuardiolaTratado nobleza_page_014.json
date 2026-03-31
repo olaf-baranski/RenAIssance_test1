@@ -1,0 +1,11 @@
+{
+  "cleaned_text": "caer e incurrir en las penas contenidas en\nla dicha pragmatica e leyes de nuestros\nReynos. Y mandamos que durante el di-\ncho tiempo persona alguna sin vuestra li-\ncencia no lo pueda imprimir ni vender so\npena que el que lo imprimiere aya perdido\ny pierda todos y qualesquier libros, mol-\ndes y aparejos que de los dichos libros tu\nuiere, y mas incurra en pena de cinquenta\nmil maraue dis por cada vez que lo contra-\nrio hiziere, la qual dicha pena se a la tercia\nparte para el juez que lo sentenciare, y la\notra tercia parte para la persona que lo\ndenunciare, y la otra tercia parte para la\nnuestra camara. Y mandamos a los del nue\nstro Consejo Presidentes y Oydores de las\nnras Audiencias Alcaldes, alguaziles de la\nnuestra casa, Corte Chancillerias, y a todos\nlos Corregidores, Assistente, Gouernado-\nres, Alcaldes mayores y ordinarios, y otros\njuezes y justicias qualesquier de todas las\nciudades, villas y lugares de los nros Rey-\nnos y Señorios, ansi a los que agora son, co-\nmo a los que seran de aqui adelante q̃ vos\nguarden y cumplan esta nuestra cedula\ny merced que ansi vos hazemos, y contra\neltenor y forma della, y de lo en ella conte\nnido",
+  "removed_noise": [
+    "--"
+  ],
+  "uncertain_cases": [
+    "nras (left as abbreviation, not expanded to nuestras)",
+    "Assistente (left as singular, not corrected to plural Assistentes)",
+    "nros (left as abbreviation, not expanded to nuestros)"
+  ]
+}

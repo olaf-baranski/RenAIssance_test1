@@ -1,0 +1,11 @@
+{
+  "cleaned_text": "CENSURA DEL R. P. ANTONIO COA\ndorniu de la Compañia de Jesus, Maestro\nque fué de Theologia, Examinador\nSynodal de los Obispados de Gerona, Urgel,\ny Barcelona, &c.\nDe orden del Ilustre Señor Don Francisco\nde Bastero y de Vilana, Dr. en\nambos Drechos, Canonigo, y Sacristan\nDignidad de la Santa Iglesia de Gerona, y\nVicario General por el Ilustrissimo Señor\nD. Balthasar de Bastero y Lledo, Obispo\nde Gerona, del Consejo de su Magestad, &c.\nHe visto un Librito, cuyo titulo es: Instruccion\nde Christiana, y Politica Cortesania,\n&c. Su Author D. Fausto Agustin de\nBuendia, Colegial que fue en el Imperial\nde Cordellas, &c. Y brevemente digo,\nno solo que nada contiene contra la Fe, y\nbuenas costumbres, sino que muy atento\nel Author con entrambas, describe, y enseña\ntan culta, y discreta la Virtud, como\nsanta la Policia, y Urbanidad. Los\nSeñoritos, que se criaren con estos documentos,\nmereceran, quando hombres,\naver nacido Señores. Porque no solo sabran\nser Caballeros, sino tambien a lo",
+  "removed_noise": [
+    "12",
+    "Caba"
+  ],
+  "uncertain_cases": [
+    "Changed 'CO,' to 'COA' as it appears to be a broken 'A' in the name 'Antonio Coa'.",
+    "Kept 'dorniu' as per OCR, though it might be an abbreviation or typo for 'Domini' or 'Doctor'."
+  ]
+}

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:18:35.106812+00:00</Created>
+        <LastChange>2026-03-30T18:18:35.106812+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BuendiaInstruccion_page_002_right.png" imageWidth="1516" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1516,2000 1516,0"/>
+            
+            <TextLine id="_6eb488f8-1630-4952-80f3-35e71e9d7132">
+                <Coords points="409,331 1221,331 1221,423 409,423"/>
+                
+            <TextEquiv><Unicode>Al</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_b1f8abb9-0522-400b-93ef-da4174b82c85">
+                <Coords points="508,439 699,439 699,486 508,486"/>
+                
+            <TextEquiv><Unicode>INFINITAMENTE AMABLE</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e0ac5d74-ea7b-4d4a-a529-f83d002ec96b">
+                <Coords points="837,433 1116,433 1116,501 837,501"/>
+                
+            <TextEquiv><Unicode>NIÑO JESUS.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_7d122cc2-8855-4b43-b715-6d2286b90731">
+                <Coords points="561,468 1142,468 1142,567 561,567"/>
+                
+            <TextEquiv><Unicode>A Vos, Dulcissimo Niño</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_85d5f1d6-183f-4873-9000-e1b013d0c40b">
+                <Coords points="545,648 1226,648 1226,714 545,714"/>
+                
+            <TextEquiv><Unicode>JESUS, que no solo os</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_8112d132-5a5f-407e-b249-a6be8447f84c">
+                <Coords points="413,697 1223,697 1223,839 413,839"/>
+                
+            <TextEquiv><Unicode>dignasteis de llamaros</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_7452bd01-f6b4-41a3-adf6-2f6eab9927b2">
+                <Coords points="549,824 1221,824 1221,904 549,904"/>
+                
+            <TextEquiv><Unicode>Doctor de los Niños, </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_2be1b5ae-db0a-4782-b66c-8827c4a2b10d">
+                <Coords points="575,897 1223,897 1223,948 575,948"/>
+                
+            <TextEquiv><Unicode>sino también de assis-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9cd9cbe4-e83e-4df2-a5b6-43267c88db04">
+                <Coords points="409,961 1226,961 1226,1015 409,1015"/>
+                
+            <TextEquiv><Unicode>tir como Niño entre los Doctores, </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_def2ba95-a9df-4056-acea-97fea497479a">
+                <Coords points="407,1023 1226,1023 1226,1087 407,1087"/>
+                
+            <TextEquiv><Unicode>se consagra humilde esta pequeña</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9b197928-e774-4175-bf72-e45e8ad8b685">
+                <Coords points="406,1083 1227,1083 1227,1147 406,1147"/>
+                
+            <TextEquiv><Unicode>Instrucción de los Niños. Es assi, </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c37b7c7f-e79c-41c6-b529-b9655532835b">
+                <Coords points="408,1146 1228,1146 1228,1211 408,1211"/>
+                
+            <TextEquiv><Unicode>que ella también se dirige a la ju-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1dacde09-e2e0-436e-8229-c8af8e6f9eab">
+                <Coords points="404,1210 1229,1210 1229,1272 404,1272"/>
+                
+            <TextEquiv><Unicode>ventud; pero a esta, como recuer-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_5a1fed85-6274-4aab-b9a6-e7ffb75b7889">
+                <Coords points="395,1268 1229,1268 1229,1334 395,1334"/>
+                
+            <TextEquiv><Unicode>do de lo que aprendió, a los Ni-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9c6f3d69-e198-42ac-8888-3912cae2538e">
+                <Coords points="407,1329 1229,1329 1229,1394 407,1394"/>
+                
+            <TextEquiv><Unicode>ños, como precisa explicacion de </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_7dd17d75-03e4-4be1-a443-2a0e52d6f685">
+                <Coords points="404,1390 1230,1390 1230,1458 404,1458"/>
+                
+            <TextEquiv><Unicode>lo que deben estudiar. Por este so-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9144afe4-67fb-4c06-aefb-fa0a9a73aa43">
+                <Coords points="407,1455 1227,1455 1227,1523 407,1523"/>
+                
+            <TextEquiv><Unicode>lo titulo es muy vuestra; y por</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_fd9d258d-c374-41fe-bf9e-84e42b76568b">
+                <Coords points="409,1515 1229,1515 1229,1583 409,1583"/>
+                
+            <TextEquiv><Unicode>ser para Niños, que confiais a la</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1466aabe-e638-438f-9e4e-76475fcb735a">
+                <Coords points="409,1578 1228,1578 1228,1642 409,1642"/>
+                
+            <TextEquiv><Unicode>educacion de vuestra Compañia, </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_94a5d865-e123-468c-be48-ccdf5dd67e20">
+                <Coords points="407,1638 1230,1638 1230,1707 407,1707"/>
+                
+            <TextEquiv><Unicode>lo es mucho mas. En Vos, (Divi-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_946765e0-7177-4835-bd0a-9ced760cfd9a">
+                <Coords points="410,1701 1231,1701 1231,1769 410,1769"/>
+                
+            <TextEquiv><Unicode>no Exemplar de todas las virtu-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_83faa951-c968-4282-b4c7-8a64d5e4b583">
+                <Coords points="413,1762 1232,1762 1232,1832 413,1832"/>
+                
+            <TextEquiv><Unicode>des) tienen abreviado el mas se-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_11ee0ba9-dd80-4698-828a-506d20a8876b">
+                <Coords points="1062,1836 1173,1836 1173,1883 1062,1883"/>
+                
+            <TextEquiv><Unicode>guro</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:20:07.051831+00:00</Created>
+        <LastChange>2026-03-30T18:20:07.051831+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="PORCONES.23.51628_page_003_right.png" imageWidth="1145" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1145,2000 1145,0"/>
+            
+            <TextLine id="_c95dc9c7-eb97-495b-8c57-d2e07bfe8a61">
+                <Coords points="17,185 867,185 867,234 17,234"/>
+                
+            <TextEquiv><Unicode>admitio concurso de acosadores de la muerte con la viu-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_2bdfdf57-f05d-4a5e-b300-5ecc4d7d826f">
+                <Coords points="16,230 844,230 844,278 16,278"/>
+                
+            <TextEquiv><Unicode>da del muerto, eo magis fiendo persona calificada, y tal</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_fd110862-7a4f-4ce0-904a-c0a9e4043ca7">
+                <Coords points="17,274 849,274 849,329 17,329"/>
+                
+            <TextEquiv><Unicode>lexos de colusion, como lo muestra la diligencia, y per-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_db17dacb-a610-4a2f-903a-801fc786851d">
+                <Coords points="17,320 846,320 846,369 17,369"/>
+                
+            <TextEquiv><Unicode>severancia con que ha seguido, y sigue este pleyto: y la</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_f4f2ef05-4557-4fcf-be18-16467496edc7">
+                <Coords points="19,366 903,366 903,412 19,412"/>
+                
+            <TextEquiv><Unicode>colusion esta en la hija casada oy con el matador de su</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6a463367-dfd9-417e-93f7-3ce3fc476220">
+                <Coords points="17,412 859,412 859,464 17,464"/>
+                
+            <TextEquiv><Unicode>padre, cuyo perdon (quando lo huviera) no se admite,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c443bbe0-45f6-48cb-9485-f5d97cc49123">
+                <Coords points="17,456 845,456 845,506 17,506"/>
+                
+            <TextEquiv><Unicode>como luego se dira: y teniendo como tiene la viuda el</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_967a1b52-96c9-4a53-bbe8-3e3e4f8073ea">
+                <Coords points="18,503 857,503 857,553 18,553"/>
+                
+            <TextEquiv><Unicode>primer lugar en acusar, le tiene priuative en perdonar,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ec836111-dde7-4ef3-a5ff-795b8bda1b95">
+                <Coords points="16,545 843,545 843,594 16,594"/>
+                
+            <TextEquiv><Unicode>vt cum Angel. &amp; alijs per text. ibi. in I. si. plures, ff. de ac-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a77d7d61-9f88-45ef-85fe-ad6da24769e5">
+                <Coords points="14,593 863,593 863,632 14,632"/>
+                
+            <TextEquiv><Unicode>cusationibus, resoluit Flores de Mena d. lib. I. q. 7. nu. 5.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1cfe16a2-d2e7-4cdd-b3bf-7b67a49dab75">
+                <Coords points="58,638 845,638 845,684 58,684"/>
+                
+            <TextEquiv><Unicode>Pero es tiempo perdido el que gasta la otra parte en</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ded8775b-6dbb-4dac-923c-f3d15b085edf">
+                <Coords points="16,680 839,680 839,727 16,727"/>
+                
+            <TextEquiv><Unicode>dezir, que por ser dos los hijos de Marco Antonio, y el</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_8cd918e3-1ec9-47e2-85a4-5b1b9ea09e8d">
+                <Coords points="15,726 837,726 837,772 15,772"/>
+                
+            <TextEquiv><Unicode>varon ausente no aver acusado, y la hija no perdir a su ma-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_00ab35a7-ddd3-4d61-af3a-396185656e38">
+                <Coords points="16,770 832,770 832,817 16,817"/>
+                
+            <TextEquiv><Unicode>rido hazen mayor numero en concurso con la madre,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_29196b35-4bf9-4872-8db5-3b18b5d11646">
+                <Coords points="15,813 830,813 830,860 15,860"/>
+                
+            <TextEquiv><Unicode>y han de prevalecer. Lo primero, porque la pretension</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_f5de2da0-ea88-48ef-afb3-1a58277ca9a7">
+                <Coords points="15,854 824,854 824,902 15,902"/>
+                
+            <TextEquiv><Unicode>de concurso de los hijos con la viuda, no es admissible,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6ab6f166-95bf-4acb-8d5d-88acfa376f0d">
+                <Coords points="15,898 818,898 818,942 15,942"/>
+                
+            <TextEquiv><Unicode>como queda fundado, nu. 4. Lo segundo, porque el hijo</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_141af824-bf56-411e-836f-fed52e1fb676">
+                <Coords points="13,941 867,941 867,983 13,983"/>
+                
+            <TextEquiv><Unicode>ausente en servicio del Rey, y de la Republica, quando</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_52077f21-5857-472a-b51e-ef2be1db0404">
+                <Coords points="15,983 819,983 819,1027 15,1027"/>
+                
+            <TextEquiv><Unicode>tuviera algun derecho de acusar esta ileso y entero, y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_7bd40c72-5ee5-4792-87c6-7114d4580794">
+                <Coords points="15,1025 818,1025 818,1066 15,1066"/>
+                
+            <TextEquiv><Unicode>no remitido, I. t. &amp; L. item his, ff. ex quibus caus. maior.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_f17771f2-ff1e-49e4-accd-9a6911d6a429">
+                <Coords points="15,1070 820,1070 820,1112 15,1112"/>
+                
+            <TextEquiv><Unicode>Y lo cierto es, que si sabe la muerte de su padre recono-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ed59808a-8ef8-4265-bc06-8cacc2a36980">
+                <Coords points="15,1112 829,1112 829,1154 15,1154"/>
+                
+            <TextEquiv><Unicode>ce el primer lugar que tiene su madre para acusar, y las</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_de22c905-3913-4476-a340-7a50477edd9d">
+                <Coords points="16,1155 821,1155 821,1198 16,1198"/>
+                
+            <TextEquiv><Unicode>veras con que lo haze, y lo fia todo de su deligencia: y el</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_cdd19074-b9f5-4151-9cc4-c5736c3a5710">
+                <Coords points="14,1197 821,1197 821,1239 14,1239"/>
+                
+            <TextEquiv><Unicode>hijo esta tan lexos de remitir, que es una de las causas</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_5718c81d-8413-4b1c-9927-e7f50543111a">
+                <Coords points="15,1239 823,1239 823,1284 15,1284"/>
+                
+            <TextEquiv><Unicode>que mas obliga a su madre a insistir en el castigo por la</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a3a1a356-47d3-4067-b3e1-bfcc46cdf46e">
+                <Coords points="15,1283 823,1283 823,1326 15,1326"/>
+                
+            <TextEquiv><Unicode>mano de la justicia, el temor no se le pierda este hijo</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_2649354a-3815-4079-8d6c-1b6b915586c5">
+                <Coords points="15,1325 825,1325 825,1369 15,1369"/>
+                
+            <TextEquiv><Unicode>varon, unico sucessor en el mayorazdo de su padre, mo-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9770b40c-19a3-4987-b680-2e4053ae1bc8">
+                <Coords points="13,1366 747,1366 747,1412 13,1412"/>
+                
+            <TextEquiv><Unicode>ço alentado, y con tantos agravios a los ojos.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_348dd5a5-3d47-4808-8226-e9661704d5c1">
+                <Coords points="26,1409 825,1409 825,1454 26,1454"/>
+                
+            <TextEquiv><Unicode>Y en quanto a la hija, que primero represento tan</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_2274c673-fde5-471f-8079-e0bebb4306b3">
+                <Coords points="12,1455 824,1455 824,1498 12,1498"/>
+                
+            <TextEquiv><Unicode>encarecidamente la muerte de su padre, y en casando-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1c883488-9746-4523-9d98-624cfb3e63c8">
+                <Coords points="12,1497 818,1497 818,1533 12,1533"/>
+                
+            <TextEquiv><Unicode>se con el matador solicita su causa, no es de momento;</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1b80569a-93ab-448a-a700-4005ebde1ab3">
+                <Coords points="12,1542 818,1542 818,1584 12,1584"/>
+                
+            <TextEquiv><Unicode>tam, por no poder concurrir con la viuda, como por</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_801e3bf3-82f7-411a-b1d7-6c5d68004df8">
+                <Coords points="15,1583 820,1583 820,1625 15,1625"/>
+                
+            <TextEquiv><Unicode>hallarse subdita de su marido, y prohibida a acusalle: y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_b4ef9240-7c3b-48c6-a2ed-5111bf6e089f">
+                <Coords points="11,1628 819,1628 819,1672 11,1672"/>
+                
+            <TextEquiv><Unicode>assi aun enn el caso que no huviera la viuda, no fuera de</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_f583b75a-b39f-4f13-b2bc-c845aaade54f">
+                <Coords points="10,1672 815,1672 815,1710 10,1710"/>
+                
+            <TextEquiv><Unicode>momento su remission, vt fere in terminis resoluune</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_41a3bfe0-ca66-4718-9b40-ac48af485a28">
+                <Coords points="741,1711 815,1711 815,1743 741,1743"/>
+                
+            <TextEquiv><Unicode>Bosi.</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

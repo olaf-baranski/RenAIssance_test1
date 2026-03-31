@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"cleaned_text\": \"cobraren, se ayan de partir entre todos.\\n10 Antonio Gomez Pimentel, respondiò, q̃\\nse auia de declarar no auer lugar la pretẽsiõ de do\\nña Leonor Rauasco, porque el tenia pagadoa\\nsu hijo todo loque montaua su legitima materna,\\ny mucha cantidad mas. Y que tenia pretension en\\nel juizio de particion, se le auian de hazer buenos\\nseis mil ducados por su capital, y en prueua desto\\npresentò las cartas de pago siguientes.\\n11° Vna escritura otorgada en 26. de Mayo\\nde 1636. antc Francisco de Morales, Escriuano\\ndel Numero desta villa, entre Iacinto Gomez Pi¬\\nmẽtel, y AntonioGomez supadre, porla qual cõsta\\nrecibiò todas las mercadutias de vna tienda, que\\nen ella se refieren por menor, tassadas, y aprecia¬\\ndas por personas nombradas por las partes, en dife\\nrentes precios: que sumaron, y montarõ 160772\\nreales, las quales se obliga de administrar, y dar\\nbuena cuenta a su padre dellas, ò pagar el precio\\nen que van tassadas, y en esta escritura dize, que\\nya està casado.\\n12 Otra carta de pago, otorgada en esta Vi¬\\nIla en 12. de Diziembre de 1637. ante Antonio de\\nLeon Escriuano, en la qual confiessa Iacinto Go¬\\nmez Pimentel, ha recibido de Antonio Gomez su\\npadre para sustẽto de su persona, y la de su muger\\nyotros gastos 22yoz 2.reales en diferentes vezes, y\\npartidas, que refiere por menor, por cuenta de lo\\nque ha de auer por su legitima materna.\\n13 Otra carta de pago otorgada en esta Villa\\nen quatro de Agosto de 163 8.por IacintoGomez,\\nen que confiessa auer recibido del dicho su padre\\n109624 reales, para en cuenta de pago de su legi\\ntima en diferentes vezes, que refiere ante Diego\\nFernandez Escriuan.\"\n,\n  \"removed_noise\": [\n    \"4\",\n    \"Otra\"\n  ],\n  \"uncertain_cases\": [\n    \"q̃ (kept as is, likely 'que')\",\n    \"pretẽsiõ (kept as is, likely 'pretension')\",\n    \"do (kept as is, likely 'doña')\",\n    \"ña (kept as is, likely 'doña')\",\n    \"pagadoa (kept as is, likely 'pagado a')\",\n    \"juizio (kept as is, likely 'juicio')\",\n    \"prueua (kept as is, likely 'prueba')\",\n    \"antc (kept as is, likely 'ante')\",\n    \"desta (kept as is, likely 'de esta')\",\n    \"mẽtel (kept as is, likely 'Pimentel')\",\n    \"cõsta (kept as is, likely 'consta')\",\n    \"mercadutias (kept as is, likely 'mercaderías')\",\n    \"vna (kept as is, likely 'una')\",\n    \"tassadas (kept as is, likely 'tasadas')\",\n    \"montarõ (kept as is, likely 'montaron')\",\n    \"quales (kept as is, likely 'cuales')\",\n    \"dize (kept as is, likely 'dice')\",\n    \"Ila (kept as is, likely 'Villa')\",\n    \"Diziembre (kept as is, likely 'Diciembre')\",\n    \"confiessa (kept as is, likely 'confiesa')\",\n    \"sustẽto (kept as is, likely 'sustento')\",\n    \"muger (kept as is, likely 'mujer')\",\n    \"22yoz 2 (kept as is, likely a numerical value like '22022')\",\n    \"vezes (kept as is, likely 'veces')\",\n    \"quatro (kept as is, likely 'cuatro')\",\n    \"Escriuan (kept as is, likely 'Escriuano')\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1141,
+    "candidatesTokenCount": 985,
+    "totalTokenCount": 4599,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 883
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 2473
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "0bjLaYy1D4nvvdIPqbWLgAU"
+}

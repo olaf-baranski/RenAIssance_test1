@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"cleaned_text\": \"dia dela fecha desta nuestra cedula podais\\nimprimir el dicho libro que de suso se ha-\\nze mencion por el original que en el nuestro\\nConsejo se vio queva rubricado y firmado\\nal fin de Pedro del Marmol nuestro escri-\\nuano de camara de los que refiden en el\\nnuestro Consejo, con que antes que se ve-\\nda le traygays ante ellos juntamente con\\nel dicho original para que se vea si la dicha\\nimpression esta conforme a el, y traygays\\nfee en publica forma como por corrector\\nnombrado por nuestro mandado se vio y\\ncorrigio la dicha impression por el origi-\\nnal: y mandamos al impressor que ansi im-\\nprimiere el dicho libro noimprima el prin\\ncipio ni el primer pliego del, ni entregue\\nmas de vn solo libro con el original al au-\\ntor, o persona a cuya costa le imprimie-\\nre, ni a otra alguna para efecto de la di-\\ncha correccion y tassa cierta que antes\\ny primero el dicho libro esté corregido y\\ntassado por los del nuestro Consejo, y es-\\ntando fecho y no de otra manera pueda\\nimprimir el dicho principio y primer plie\\ngo, en el qual seguidamente ponga esta\\nnuestra cedula, licencia y priuilegio, y la\\naprouacion, tassa y erratas, so pena de\",\n  \"removed_noise\": [\n    \"T-*\",\n    \"—\",\n    \"cacx\"\n  ],\n  \"uncertain_cases\": [\n    \"Kept \\\"noimprima\\\" as a single word, though \\\"no imprima\\\" is more common.\",\n    \"Kept \\\"esté\\\" with accent as OCR provided it.\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 948,
+    "candidatesTokenCount": 405,
+    "totalTokenCount": 2699,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 690
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 1346
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "SLfLaYPFJMmsvdIP-pL_-AQ"
+}

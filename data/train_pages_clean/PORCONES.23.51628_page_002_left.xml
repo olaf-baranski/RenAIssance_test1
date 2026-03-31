@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:19:51.821552+00:00</Created>
+        <LastChange>2026-03-30T18:19:51.821552+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="PORCONES.23.51628_page_002_left.png" imageWidth="1337" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1337,2000 1337,0"/>
+            
+            <TextLine id="_84023fbf-28d1-4d08-97ce-c4592c0079c9">
+                <Coords points="284,154 1154,154 1154,217 284,217"/>
+                
+            <TextEquiv><Unicode>ca de Caycedo su hija, donzella noble y honesta, a</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c3133e42-fba1-43a3-b0a2-00ef63554a77">
+                <Coords points="285,204 1146,204 1146,259 285,259"/>
+                
+            <TextEquiv><Unicode>que concedielle en su voluntad, y para esto, y violar su</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d352af75-1beb-4e69-be0f-28baf43fd12e">
+                <Coords points="284,252 1141,252 1141,308 284,308"/>
+                
+            <TextEquiv><Unicode>castidad, aver quebrantado su casa, siendo de muy luci-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_8e594bbc-c096-4501-8255-3a91d5a66ce4">
+                <Coords points="283,299 1142,299 1142,356 283,356"/>
+                
+            <TextEquiv><Unicode>da nobleza y calidad, entrando en ella denoche a des-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_693a9001-057b-46fa-aa31-550c72ae8620">
+                <Coords points="285,346 1142,346 1142,407 285,407"/>
+                
+            <TextEquiv><Unicode>hora con llaves falsas, y otras vezes por las ventanas, y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ff5395d1-2b10-49ca-9db8-f61aa695e709">
+                <Coords points="286,389 1143,389 1143,450 286,450"/>
+                
+            <TextEquiv><Unicode>texados, y otras sacandola de su casa, y llevandola a o-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_2df9b659-a04f-4a03-a8a5-7d76beb8622b">
+                <Coords points="285,445 1140,445 1140,496 285,496"/>
+                
+            <TextEquiv><Unicode>tras para el mismo efeto, y sintiendola preñada dadole</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_f9263bc5-7e13-4d80-8a21-532406c5858c">
+                <Coords points="287,492 1139,492 1139,544 287,544"/>
+                
+            <TextEquiv><Unicode>recetas de bevidas para q abortasse. Y sobre todo, avien</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_030f0ded-8571-41df-84c5-dbf371733e6d">
+                <Coords points="285,537 1136,537 1136,591 285,591"/>
+                
+            <TextEquiv><Unicode>do llegado a noticia de doña Catalina y su marido la</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_7401f551-a7b5-41c1-b874-00746dcd771f">
+                <Coords points="284,583 1134,583 1134,640 284,640"/>
+                
+            <TextEquiv><Unicode>dicha deshonra, y tratando de remedialla con secreto,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_688c5a92-1c6d-44ba-b107-23d01646118a">
+                <Coords points="281,631 1131,631 1131,694 281,694"/>
+                
+            <TextEquiv><Unicode>el dicho don Antonio por mas injurialles dixo por un</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_23b232a1-8144-4611-b5b2-0f3df35e9c21">
+                <Coords points="280,677 1133,677 1133,735 280,735"/>
+                
+            <TextEquiv><Unicode>villete al mismo Marco Antonio, que no queria casar-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_2b5c6410-5e87-4f49-b7ba-43c3b1424ff1">
+                <Coords points="278,725 1131,725 1131,783 278,783"/>
+                
+            <TextEquiv><Unicode>se con su hija, y que estava arrepentido de auello dicho.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ddae0e14-5d0a-430e-8d97-2b50bc2a9e34">
+                <Coords points="277,770 1138,770 1138,835 277,835"/>
+                
+            <TextEquiv><Unicode>Y ultimamente para impedille el reparo de tantos a-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9fc06bda-7ab0-4484-9d48-9ed20cb3182d">
+                <Coords points="272,816 1127,816 1127,889 272,889"/>
+                
+            <TextEquiv><Unicode>gravios le quito la vida, passandole de una estocada, de</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1dc7f914-11ad-4a17-a3c3-05e1b38c2464">
+                <Coords points="1099,827 1136,827 1136,846 1099,846"/>
+                
+            <TextEquiv><Unicode>que murio luego sin consession en la calle.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_17e47fd7-edcb-46fe-8eed-06e01a17945d">
+                <Coords points="270,863 1024,863 1024,922 270,922"/>
+                
+            <TextEquiv><Unicode>Y por aver pocos dias que se vio este pleyto, y estar</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_854e2229-078f-438c-998f-90a85d109358">
+                <Coords points="307,910 1125,910 1125,975 307,975"/>
+                
+            <TextEquiv><Unicode>fresca la memoria de la provança de los dichos delitos,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c180dee0-bb0a-4db2-868e-79f414bbf5f4">
+                <Coords points="258,956 1124,956 1124,1014 258,1014"/>
+                
+            <TextEquiv><Unicode>en que no quedo duda, se tratara solamente en este pa-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_07130b45-481a-4b24-9097-c4061a8ffc6e">
+                <Coords points="257,1006 1121,1006 1121,1067 257,1067"/>
+                
+            <TextEquiv><Unicode>pel.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_64fd100f-d4fb-43e4-ad71-35b21c14661c">
+                <Coords points="258,1049 320,1049 320,1092 258,1092"/>
+                
+            <TextEquiv><Unicode>Que doña Catalina es parte legitima para lo que</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_52c6e1fc-bb0f-4a74-bcf8-49a54906f1d5">
+                <Coords points="284,1092 1118,1092 1118,1156 284,1156"/>
+                
+            <TextEquiv><Unicode>pide, demas del señor Fiscal.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_3e2fe95d-fac4-46db-8b38-d8d17d269080">
+                <Coords points="259,1142 750,1142 750,1192 259,1192"/>
+                
+            <TextEquiv><Unicode>Y de la pena que se deve imponer por los dichos de-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d0175ed7-79de-4b52-b7e7-a2478729f624">
+                <Coords points="301,1187 1116,1187 1116,1250 301,1250"/>
+                
+            <TextEquiv><Unicode>litos.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_384b307a-3c5b-430e-981a-5d2988b1e5dd">
+                <Coords points="259,1232 369,1232 369,1265 259,1265"/>
+                
+            <TextEquiv><Unicode>Y que no son ciertas las escusas con que el reo se pre</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_007a6c43-c42f-4df9-b204-a8df8dfaf61b">
+                <Coords points="306,1274 1111,1274 1111,1334 306,1334"/>
+                
+            <TextEquiv><Unicode>tende evadir.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1b170020-2327-4aff-80bb-bf4c5f9a1070">
+                <Coords points="206,1326 467,1326 467,1359 206,1359"/>
+                
+            <TextEquiv><Unicode>Legitimacion de la persona de doña Catalina.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_5e57db05-6e12-48e0-9575-4e57b2abae43">
+                <Coords points="256,1419 1111,1419 1111,1473 256,1473"/>
+                
+            <TextEquiv><Unicode>En primer lugar hizo fuerça el Abogado contrario</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_b3011bd9-5f83-49ce-9a4e-b0bf5d43919b">
+                <Coords points="253,1494 1110,1494 1110,1559 253,1559"/>
+                
+            <TextEquiv><Unicode>a la vista en querer fundar, que para acusar la muer-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_cba65fb2-cbe6-4c75-9da0-de622f79a389">
+                <Coords points="250,1554 1107,1554 1107,1603 250,1603"/>
+                
+            <TextEquiv><Unicode>te del marido, se han de preferir los hijos a la viuda, o</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ad9a2294-6403-4c48-b33d-0911f32eff1d">
+                <Coords points="253,1599 1103,1599 1103,1650 253,1650"/>
+                
+            <TextEquiv><Unicode>alomenos concurrir con ella: y que de aqui infirio, que pues</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_62042424-0cfd-4423-9050-1be3a755457a">
+                <Coords points="252,1643 1100,1643 1100,1694 252,1694"/>
+                
+            <TextEquiv><Unicode>de los dos hijos que quedaron de Marco – Antonio de</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_67464ab5-275f-4132-bdf6-628c1971c842">
+                <Coords points="251,1688 1098,1688 1098,1737 251,1737"/>
+                
+            <TextEquiv><Unicode>Caycedo el varon (que esta fuera del Reyno sirviendo a</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_7301d6af-8946-475a-9520-8a1cbaecbdc3">
+                <Coords points="242,1736 1097,1736 1097,1787 242,1787"/>
+                
+            <TextEquiv><Unicode>su</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

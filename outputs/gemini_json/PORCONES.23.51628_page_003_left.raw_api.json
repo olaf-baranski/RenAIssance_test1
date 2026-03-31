@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"cleaned_text\": \"para preferir el mas conjunto, l.3. §. si tamen, ff.de libe-\\nro homine exhib. ibi: Et ex coniunctione, l.2. §. si mulier,\\nff. de collus. detegen. ibi: Cuius magis interest.\\nPor estas razones y otras lo assientan por indubita-\\nble,post Bart. & Bald. Nicol.Boer. decis. 233. à num. 2.\\n& 3. ibi: Primo scilicet vxor, secundo pater, tertio liberi\\nsi qui sunt, cruditè Villalpan: ad l. 22. tit. 1. p.7. part. 2.\\n§.40. n.12. & sequentibus, Ant. Gom. de delictis, 3. to.\\ncap.1. num. 32. & clarius dominus Præses Antonio de\\nPadilla in l. transigere, nu.57. C. de transact. his verbis:\\nIn quo illud in praxi notabis, quòd vxor hominis occisi te-\\nnetur propinquior persona ad accusandũ, & transigendũ;\\nquoniam in illa concurrunt maior coniunctio & affectio\\nquam in cæteris, sunt enim duo illi in carne vna, c. gaude-\\nmus de diuortijs, & quoniam ea persona est potius admit-\\ntenda ad accusandum, quam maiori dolore executurã esse,\\ncredimus, l.2. §. fin. ff. ad leg. Iul. de adult. Hæc Padilla, Sua-\\nrez de Paz in praxi, tom.1.p.5.c. 3. nu.14. Zauall. in suis\\ncommunib. q.27. num. 6. in vet. §. Si vero defunctus vxo-\\nrem relinquat illa est omnibus consanguineis, & heredi-\\nbus preferenda, & latè disputans Flores de Mena lib.1.\\nq. 7. à num. 7. Y es la cosa mas recebida que ay en los\\nTribunales deste Reyno, y se prueua ab ordine literæ in\\nl. 1. tit. 8. p.7. dicens: Hacer puede la muger acusacion de\\nmuerte de su marido, y el marido de la muerte de su mu-\\nger, y el padre del hijo, y el hijo del padre, donde se puso en\\nprimer lugar la muger, que los hijos, ni los padres del\\nmuerto: y es conclusion assentada y recebida en pratica\\nsin contradicion.\\nY si algun autor, ò consulente estrangero de los que\\nalego el Abogado contrario puso el punto en contro-\\nuersia, fue, hablando en estatutos particulares de otros\\nReynos, ò tocando el punto depuso sin disputallo, vel\\nquando mater esset vilis persona, vel suspecta de collu-\\nsione, pero en este Reyno nullus (quem ego viderim)\"\n,\n  \"removed_noise\": [\n    \"oyoleom\",\n    \"admi¬\"\n  ],\n  \"uncertain_cases\": [\n    \"depuso (left as is, could be 'dispuso' but not certain enough)\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1334,
+    "candidatesTokenCount": 776,
+    "totalTokenCount": 7015,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1076
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 4905
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "lLfLaZDSDZ69vdIPzqDy0AM"
+}

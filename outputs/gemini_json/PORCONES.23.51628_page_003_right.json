@@ -1,0 +1,14 @@
+{
+  "cleaned_text": "admitio concurso de acusadores de la muerte con la viu-\nda del muerto, con magis siendo persona calificada, y tan\nlexos de colusion, como lo muestra la diligencia, y per-\nseuerancia con que ha seguido, y sigue este pleyto: y la\ncolusion esta en la hija casada oy con el matador de su\npadre, cuyo perdon ( quando lo huuiera) no se admite,\ncomo luego se dira: y teniendo como tiene la viuda el\nprimer lugar en acusar, le tiene priuatiue en perdonar,\nvt cum Angel & alijs per text. ibi in l.si plures, ff. de ac-\ncusationibus, resoluit Flores de Mena d.lib. 1.q.7. nu. 5.\nPero es tiempo perdido el que gasta la otra parte en\ndezir, que por ser dos los hijos de Marco Antonio, y el\nvaron ausente no auer acusado, y la hija no pedir a su ma-\nrido hazen mayor numero en concurso con la madre,\ny han de preualecer. Lo primero, porque la pretension\nde concurso de los hijos con la viuda, no es admissible,\ncomo queda fundado, nu.4.Lo segundo,porque el hijo\nausente en seruicio del Rey, y de la Republica, quando\ntuuiera algun derecho de acusar esta ileso y entero, y\nno remitido, l.1 & l.item his, ff.ex quibus caus. maior.\nY lo cierto es, que si sabe la muerte de su padre recono-\nce el primer lugar que tiene su madre para acusar, y las\nveras con que lo haze, y lo fia todo de su diligencia:y el\nhijo esta tan lexos de remitir, que es vna de las causas\nque mas obliga a su madre a insistir en el castigo por la\nmano de la justicia, el temor no se le pierda este hijo\nvaron, vnico sucessor en el mayorazgo de su padre, mo-\nzo alentado, y con tantos agrauios a los ojos.\nY en quanto a la hija, que primero represento tan\nencarecidamente la muerte de su padre, y en casando-\nse con el matador solicita su causa, no es de momento;\ntam, por no poder concurrir con la viuda, como por\nhallarse subdita de su marido, y prohibida a acusalle: y\nassi aun en el caso que no huuiera la viuda, no fuera de\nmomento su remission, vt fere in terminis resoluunt",
+  "removed_noise": [
+    "4",
+    "no solamente puede la madre",
+    "e",
+    "I",
+    "Bosi."
+  ],
+  "uncertain_cases": [
+    "Kept 'vnico' as historical spelling.",
+    "Kept 'sucessor' as historical spelling."
+  ]
+}

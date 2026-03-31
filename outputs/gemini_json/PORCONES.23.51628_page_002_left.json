@@ -1,0 +1,20 @@
+{
+  "cleaned_text": "ca de Caycedo su hija, donzella noble y honesta, a\nque concediesse en su voluntad, y para esto, y violar su\ncastidad,auer quebrantado su casa, siendo de muy luci-\nda nobleza y calidad, entrando en ella denoche a des-\nhora con llaues falsas, y otras vezes por las ventanas, y\ntexados, y otras sacandola de su casa, y llevandola a o-\ntras para el mismo efecto, y sintiendola preñada dadole\nrecetas de beuidas para que abortasse, y sobre todo, auien-\ndo llegado a noticia de doña Catalina y su marido la\ndicha deshonra, y tratando de remedialla con secreto,\nel dicho don Antonio, por mas injurialles dixo por un\nvillete al mismo Marco Antonio, que no queria casar-\nse con su hija, y que estaba arrepentido de aquello dicho.\nY ultimamente para impedille el reparo de tantos a-\ngrauios le quitó la vida, passandole de una estocada, de\nque murio luego sin confession en la calle.\nY por auer pocos dias que se vio este pleyto, y estar\nfresca la memoria de la prouanza de los dichos delitos,\nen que no quedó duda, se tratará solamente en este pa-\npel.\nQue doña Catalina es parte legitima para lo que\npide, demas del señor Fiscal.\nY de la pena que se deue imponer por los dichos de-\ndelitos.\nY que no son ciertas las escusas con que el reo se pre-\ntende cuadrar.\nEN Primer lugar hizo fuerza el Abogado contrario\na la vista en querer fundar, que para acusar la muer-\nte del marido, se han de preferir los hijos a la viuda, o\na lo menos concurrir con ella: y de aqui infirió, que pues\nde los dos hijos que quedaron de Marco Antonio de\nCaycedo el varon (que esta fuera del Reyno siruiendo a",
+  "removed_noise": [
+    "ogsiente",
+    "A hegitimailonide la persona de doña Catalina.",
+    "nuius ps obecobno ol ob sú olno?",
+    "su"
+  ],
+  "uncertain_cases": [
+    "Corrected 'dona e areliba' to 'doña Catalina' based on clear image evidence.",
+    "Corrected 'prouaçar' to 'prouanza' (applying 'ç' to 'z' rule; image shows 'prouança').",
+    "Corrected 'litôs' to 'delitos' based on clear image evidence.",
+    "Corrected 'escofas' to 'escusas' based on clear image evidence.",
+    "Corrected 'cuadir' to 'cuadrar' based on clear image evidence.",
+    "Corrected 'dutiendola' to 'sintiendola' based on clear image evidence.",
+    "Corrected 'lisobre' to 'y sobre' based on clear image evidence.",
+    "Corrected 'Ywltimamente' to 'Y ultimamente' based on clear image evidence.",
+    "Corrected 'plomenos' to 'a lo menos' based on clear image evidence."
+  ]
+}

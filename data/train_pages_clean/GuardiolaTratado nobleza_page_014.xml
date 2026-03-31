@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:19:19.356735+00:00</Created>
+        <LastChange>2026-03-30T18:19:19.356735+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="GuardiolaTratado nobleza_page_014.png" imageWidth="1351" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1351,2000 1351,0"/>
+            
+            <TextLine id="_48b98f73-dbbe-4396-a722-ef7a947423ef">
+                <Coords points="93,163 1128,163 1128,234 93,234"/>
+                
+            <TextEquiv><Unicode>caer e incurrir en las penas contenidas en</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1a670063-d389-4aac-b9a8-ed8e91b06684">
+                <Coords points="105,234 1130,234 1130,301 105,301"/>
+                
+            <TextEquiv><Unicode>la dicha pragmatica e leyes de nuestros</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_08fa41cf-1fa5-42c2-b8fc-85c2d0b02ad1">
+                <Coords points="91,299 1130,299 1130,365 91,365"/>
+                
+            <TextEquiv><Unicode>Reynos. Y mandamos que durante el di-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9c69d785-2948-4a40-bdc8-740993d54f6d">
+                <Coords points="87,363 1130,363 1130,431 87,431"/>
+                
+            <TextEquiv><Unicode>cho tiempo persona alguna sin vuestra li-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_694e49f0-8f36-4966-b7f1-68fc63576cd2">
+                <Coords points="89,430 1123,430 1123,495 89,495"/>
+                
+            <TextEquiv><Unicode>cencia no lo pueda imprimir ni vender so</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_656dcab0-8505-444a-b7f4-19252f1ecd91">
+                <Coords points="100,494 1123,494 1123,562 100,562"/>
+                
+            <TextEquiv><Unicode>pena que el que lo imprimiere aya perdido</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_de695f61-7894-41bb-b96e-7f7d43b1fed5">
+                <Coords points="102,557 1126,557 1126,626 102,626"/>
+                
+            <TextEquiv><Unicode>y pierda todos y qualesquier libros, mol-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_29e75789-c815-47c0-89f1-0ffc7963be5b">
+                <Coords points="105,622 1124,622 1124,691 105,691"/>
+                
+            <TextEquiv><Unicode>des y aparejos que de los dichos libros tu</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ad9feead-c04f-4be9-abac-a58384a5cbbe">
+                <Coords points="103,687 1124,687 1124,755 103,755"/>
+                
+            <TextEquiv><Unicode>viere, y mas incurra en pena de cinquenta</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1454743b-8809-4435-8b5e-560955b4ca1b">
+                <Coords points="95,752 1124,752 1124,819 95,819"/>
+                
+            <TextEquiv><Unicode>mil maravedis por cada vez aue lo contra-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_4f7b8e39-1918-42c0-8676-1be9d2dd448e">
+                <Coords points="84,816 1124,816 1124,883 84,883"/>
+                
+            <TextEquiv><Unicode>rio hiziere, la qual dicha pena sea la tercia</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d7ebdc7c-1316-4904-993d-1651d2a3ab0a">
+                <Coords points="95,880 1123,880 1123,950 95,950"/>
+                
+            <TextEquiv><Unicode>parte para el juez que lo sentenciare, y la </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_5ed63264-5302-40d9-bb29-e47759938a5a">
+                <Coords points="99,944 1121,944 1121,1011 99,1011"/>
+                
+            <TextEquiv><Unicode>otra tercia parte para la persona que lo</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a1193cb2-2eb6-49b5-ab4f-f2ce22a702bd">
+                <Coords points="101,1009 1116,1009 1116,1075 101,1075"/>
+                
+            <TextEquiv><Unicode>denunciare, y la otra tercia parte para la </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_408f3c09-c1f5-4d58-bdbf-abd0743b3d37">
+                <Coords points="96,1074 1117,1074 1117,1124 96,1124"/>
+                
+            <TextEquiv><Unicode>nuestra camara. Y mandamos a los del nue</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d8a22068-f61d-47c7-95b9-a6ca508852f4">
+                <Coords points="92,1137 1114,1137 1114,1202 92,1202"/>
+                
+            <TextEquiv><Unicode>stro Consejo Presidentes y Oydores de las</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_31845284-bfe0-422e-b5a7-0bb7524f7c4e">
+                <Coords points="90,1202 1136,1202 1136,1267 90,1267"/>
+                
+            <TextEquiv><Unicode>nras Audiencias Alcaldes, alguaziles de la</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_af34c91e-f939-4a1a-b110-9e7874a7372e">
+                <Coords points="91,1267 1112,1267 1112,1332 91,1332"/>
+                
+            <TextEquiv><Unicode>nuestra casa, Corte chancillerias, y a todos</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_dfa74b90-e242-4553-9d52-61fafbdf5535">
+                <Coords points="89,1333 1113,1333 1113,1396 89,1396"/>
+                
+            <TextEquiv><Unicode>los Corregidores, Assistente, Governado-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_5d5fb3ed-4af9-4248-ab1b-ee1a1bdd9e7b">
+                <Coords points="90,1398 1111,1398 1111,1460 90,1460"/>
+                
+            <TextEquiv><Unicode>res, Alcaldes mayores y ordinarios, y otros </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_bd32468f-d436-4cd3-8ce7-09385c693778">
+                <Coords points="94,1461 1111,1461 1111,1527 94,1527"/>
+                
+            <TextEquiv><Unicode>juezes y justicias qualesquier de todas las </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_24dfdc30-b594-4037-ab15-80e44de9b065">
+                <Coords points="95,1523 1110,1523 1110,1593 95,1593"/>
+                
+            <TextEquiv><Unicode>ciudades, villas y lugares de los nros Rey-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_bdc6a4c7-5391-4e18-ad1b-818548d31956">
+                <Coords points="91,1589 1108,1589 1108,1658 91,1658"/>
+                
+            <TextEquiv><Unicode>nos y Señorios, ansi a los q agora son, co-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_2829dc00-8a22-4dad-a4f5-918a0f9682dd">
+                <Coords points="95,1655 1108,1655 1108,1724 95,1724"/>
+                
+            <TextEquiv><Unicode>mo a los que seran de aquí adelante q vos</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_01485371-cf54-4aa8-aeb8-07039b2745d1">
+                <Coords points="98,1720 1109,1720 1109,1786 98,1786"/>
+                
+            <TextEquiv><Unicode>guarden y cumplan esta nuestra cedula</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a62309a4-5ad7-486e-b9a3-0f6b31ef75bc">
+                <Coords points="95,1785 1106,1785 1106,1852 95,1852"/>
+                
+            <TextEquiv><Unicode>y merced que ansi vos hazemos, y contra</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_390de680-63d3-4f5a-a1e1-3285ec12f3ef">
+                <Coords points="95,1849 1105,1849 1105,1920 95,1920"/>
+                
+            <TextEquiv><Unicode>el tenor y forma della, y de lo en ella conte</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_09bd9c30-11f2-4587-b9fa-8ffd8ca96830">
+                <Coords points="999,1918 1109,1918 1109,1978 999,1978"/>
+                
+            <TextEquiv><Unicode>nido</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

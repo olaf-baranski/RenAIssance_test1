@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"cleaned_text\": \"ANTONIO GOMEZ\\nPimentel, mercader, padre de\\nJacinto Gomez Pi¬\\nmentel.\\n\\nDoña Leonor Rabasco; y doña\\nBernarda de Almeyda\\nsu hija.\\nNon occidentur parentes pro filijs, nec filij pro\\nparentibus. Sed vnusquisque pro peccato suo\\nmorietur. Deuteron. Cap.24.\\n\\n\\nRETENDE Antonio Gomez Pi\\nmentel se reuoque el auto de la Sala\\nde los señores Alcaldes, en que man¬\\ndaron, que el mandamiento despacha\\ncontra Jacinto Gomez Pimentel,\\npor ochocientos ducados para la dicha doña Leo¬\\nnor Rabasco, y por setenta mil marauedis para la\\nCamara, se entienda contra Antonio Gomez Pi¬\\nmentel su padre, y se cobren de el las dichas canti\\ndades.\\nConsiste el fundamento principal de la jus¬\\nti¬\",\n  \"removed_noise\": [\n    \"3ese 9do\",\n    \"20\",\n    \"2\"\n  ],\n  \"uncertain_cases\": []\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 861,
+    "candidatesTokenCount": 277,
+    "totalTokenCount": 3635,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 603
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 2497
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "sLjLacYznMa90g-U8ZywAQ"
+}

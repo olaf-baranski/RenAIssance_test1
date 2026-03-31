@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:18:39.393148+00:00</Created>
+        <LastChange>2026-03-30T18:18:39.393148+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BuendiaInstruccion_page_003_left.png" imageWidth="1135" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1135,2000 1135,0"/>
+            
+            <TextLine id="_479e22a0-13ff-4f5c-ab86-ebb68bdade00">
+                <Coords points="332,108 1120,108 1120,187 332,187"/>
+                
+            <TextEquiv><Unicode>guro disseño de su edad: la Reli-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_39a769b6-bd96-42a8-8f40-a63c9cdd5f42">
+                <Coords points="333,179 1120,179 1120,246 333,246"/>
+                
+            <TextEquiv><Unicode>gion para con Dios en la devota</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_bd0ae4f3-1f53-4bbb-bafd-cdfbb89728b1">
+                <Coords points="334,241 1119,241 1119,300 334,300"/>
+                
+            <TextEquiv><Unicode>assistencia a los Templos; la piedad</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_af42fca7-98f3-4fc5-bf38-c6118c95c328">
+                <Coords points="335,303 1123,303 1123,356 335,356"/>
+                
+            <TextEquiv><Unicode>con los Padres en la obediencia</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6a4e97b3-662e-44e3-8ba7-e6e65af4869c">
+                <Coords points="330,365 1128,365 1128,430 330,430"/>
+                
+            <TextEquiv><Unicode>mas rendida; y la modestia, y de-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e5fd27a0-5286-49d1-9441-022227112add">
+                <Coords points="334,428 1119,428 1119,488 334,488"/>
+                
+            <TextEquiv><Unicode>seo de saber, con los mayores, </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6931ed23-668c-4dfb-84a3-2e652ddd07e8">
+                <Coords points="337,490 1116,490 1116,553 337,553"/>
+                
+            <TextEquiv><Unicode>gustando mas de oir, y pregun-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d04a1211-2603-4883-99f5-50381a331cdf">
+                <Coords points="337,551 1119,551 1119,614 337,614"/>
+                
+            <TextEquiv><Unicode>tar, que de definir, y resolver. Bien</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6614d259-cefb-4951-b833-38ec588f3473">
+                <Coords points="338,612 1126,612 1126,679 338,679"/>
+                
+            <TextEquiv><Unicode>que esto en vuestra infinita Sabi-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_3402dd89-08ce-430b-bf0c-0dc4ac13f2a2">
+                <Coords points="339,675 1122,675 1122,735 339,735"/>
+                
+            <TextEquiv><Unicode>duria fue soberana dignacion, y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a2a69cd7-68ec-4d52-9398-a7b670fae6ac">
+                <Coords points="339,737 1122,737 1122,802 339,802"/>
+                
+            <TextEquiv><Unicode>en la natural ignorancia de los</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_94c603ae-6040-4088-bfcf-258dd5d8085d">
+                <Coords points="337,799 1125,799 1125,858 337,858"/>
+                
+            <TextEquiv><Unicode>Niños es indispensable necessi-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d9ac1a79-9e2c-4683-a4ff-aed507b2ab57">
+                <Coords points="337,864 527,864 527,908 337,908"/>
+                
+            <TextEquiv><Unicode>dad. </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_79acde73-6d2c-4cec-8460-4fd6ad0e2716">
+                <Coords points="457,920 1131,920 1131,978 457,978"/>
+                
+            <TextEquiv><Unicode>Ni tienen solamente en Vos </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_0e79fe2a-0cb7-4e65-8ffd-4357e2a5334c">
+                <Coords points="338,983 1126,983 1126,1043 338,1043"/>
+                
+            <TextEquiv><Unicode>el disseño, la luz, y el exemplo, </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_f933209b-bde0-4c69-87e7-29028c1524d4">
+                <Coords points="338,1047 1124,1047 1124,1104 338,1104"/>
+                
+            <TextEquiv><Unicode>sino tambien el amor, y protec-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_23a6224a-864f-4b3d-b897-e3a8f219d0dc">
+                <Coords points="340,1106 1133,1106 1133,1167 340,1167"/>
+                
+            <TextEquiv><Unicode>cion. Vos, como singular Maes-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_2e062cde-04a8-4795-ab6a-2f80389e6f1a">
+                <Coords points="340,1169 1131,1169 1131,1233 340,1233"/>
+                
+            <TextEquiv><Unicode>tro de los Niños, les dais enten-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c02d59ba-fead-4ab2-8b4a-f073d320232a">
+                <Coords points="322,1230 1128,1230 1128,1295 322,1295"/>
+                
+            <TextEquiv><Unicode>dimiento, y comunicais la sabi-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_ed75c7d5-20c0-4a76-ace7-7c963876075a">
+                <Coords points="308,1291 1128,1291 1128,1351 308,1351"/>
+                
+            <TextEquiv><Unicode>duria. Vos les prometeis el Reyno</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9d848f03-b87d-44ae-afbf-ba9085120c43">
+                <Coords points="325,1352 1126,1352 1126,1412 325,1412"/>
+                
+            <TextEquiv><Unicode>de los Cielos, y os indignais con</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_0434aab5-49ca-44e8-9b9f-89ac4b47a88a">
+                <Coords points="343,1413 1131,1413 1131,1479 343,1479"/>
+                
+            <TextEquiv><Unicode>quien les aparta de Vos, y les</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6758c325-2897-412f-a042-6d93a383a192">
+                <Coords points="343,1476 1132,1476 1132,1540 343,1540"/>
+                
+            <TextEquiv><Unicode>proponeis por norma del can-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_cf1d5102-62c5-43fb-b673-faa64c33ba4a">
+                <Coords points="343,1538 1133,1538 1133,1598 343,1598"/>
+                
+            <TextEquiv><Unicode>dor, inocencia, y christiana hu-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_897c567d-cf30-4314-93ad-4919fa4ba120">
+                <Coords points="331,1601 1133,1601 1133,1659 331,1659"/>
+                
+            <TextEquiv><Unicode>mildad. Vuestro amor parece que</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_8cab8a74-fcb0-41f4-ad66-1419885d0938">
+                <Coords points="346,1662 1131,1662 1131,1723 346,1723"/>
+                
+            <TextEquiv><Unicode>no pudo explicarse mas tierno, y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_3c19f8e1-f7c1-4ffa-9f7a-2fd82650d50f">
+                <Coords points="340,1726 1131,1726 1131,1782 340,1782"/>
+                
+            <TextEquiv><Unicode>liberal con los Niños, pues no</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1ff39f74-e832-42b0-9fe2-28fa2fa96452">
+                <Coords points="341,1782 1131,1782 1131,1851 341,1851"/>
+                
+            <TextEquiv><Unicode>contento de echarles vuestras di-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_8a193315-cf48-4f4c-b01c-86d549fbb2f2">
+                <Coords points="951,1845 1067,1845 1067,1899 951,1899"/>
+                
+            <TextEquiv><Unicode>divi-</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

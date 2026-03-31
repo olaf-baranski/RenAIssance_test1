@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"cleaned_text\": \"der seis mil ducados, que auia tocado a su hijo la-\\ncinto Gomez por su legitima materna: y para que\\ndello constasse pidio compulsorio, para que Anto\\nnio Cadenas Escriuano de Prouincia, le diesse vn\\ntestimonio de la particion, que se auia hecho de\\nlos bienes de doña Beatriz de Silua, entre Antonio\\nGomez Pimentel, y sus hijos.\\n6 Por testimonio de Antonio Cadenas Escri\\nuano de Prouincia consta, que ante el como tal Es-\\ncriuano, se presento la dicha cuenta, y particion,\\ny que se pidio su aprouacion, y que se auia dado\\ntraslado dellas a las partes, y que Antonio Gomez\\nauia dicho de agrauios contra ellas, pretendiendo\\nse le auian de hazer buenos, y pagar seis mil duca-\\ndos por el capital, que auia lleuado al matrimonio\\ncon doña Beatriz de Silua, y trecientos ducados que\\nauia gastado en su funeral.\\n7 Tambien consta por dicho testimonio, que\\nIacinto Gomez Pimentel huuo de auer por su le-\\ngitima materna 51081 reales, y que se le adju-\\ndicaron, y pagaron en diferentes deuitos que se que-\\ndaron deuiendo, quando murio doña Beatriz\\nde Silua, y en otros efectos, que se auian de co-\\nbrar.\\n8 Al fin de este testimonio, dize, que los Con-\\ntadores hizieron la dicha particion con declara-\\ncion, que si Antonio Gomez Pimentel se quisiesse\\nencargar de la cobranza de los 1150840 reales, que\\nmontan las deudas que van partidas, entre los he\\nrederos contenidas en la relacion jurada, que dio,\\nse le ha de satisfacer por los tres herederos, cada v-\\nno la tercia parte de lo que en la cobranza se gasta-\\nre.\\n9 Tambien declaran que ay 389298. rea-\\nles de deudas perdidas, y que si en algun tiempo se\",\n  \"removed_noise\": [\n    \"co¬\"\n  ],\n  \"uncertain_cases\": [\n    \"aprouacion\",\n    \"deuitos\",\n    \"deuiendo\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1145,
+    "candidatesTokenCount": 556,
+    "totalTokenCount": 4457,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 887
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 2756
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "wLjLad2rFvepxN8PruKoyAU"
+}

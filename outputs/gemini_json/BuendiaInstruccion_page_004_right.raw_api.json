@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"cleaned_text\": \"CENSURA DEL R. P. ANTONIO COA\\ndorniu de la Compañia de Jesus, Maestro\\nque fué de Theologia, Examinador\\nSynodal de los Obispados de Gerona, Urgel,\\ny Barcelona, &c.\\nDe orden del Ilustre Señor Don Francisco\\nde Bastero y de Vilana, Dr. en\\nambos Drechos, Canonigo, y Sacristan\\nDignidad de la Santa Iglesia de Gerona, y\\nVicario General por el Ilustrissimo Señor\\nD. Balthasar de Bastero y Lledo, Obispo\\nde Gerona, del Consejo de su Magestad, &c.\\nHe visto un Librito, cuyo titulo es: Instruccion\\nde Christiana, y Politica Cortesania,\\n&c. Su Author D. Fausto Agustin de\\nBuendia, Colegial que fue en el Imperial\\nde Cordellas, &c. Y brevemente digo,\\nno solo que nada contiene contra la Fe, y\\nbuenas costumbres, sino que muy atento\\nel Author con entrambas, describe, y enseña\\ntan culta, y discreta la Virtud, como\\nsanta la Policia, y Urbanidad. Los\\nSeñoritos, que se criaren con estos documentos,\\nmereceran, quando hombres,\\naver nacido Señores. Porque no solo sabran\\nser Caballeros, sino tambien a lo\",\n  \"removed_noise\": [\n    \"12\",\n    \"Caba\"\n  ],\n  \"uncertain_cases\": [\n    \"Changed 'CO,' to 'COA' as it appears to be a broken 'A' in the name 'Antonio Coa'.\",\n    \"Kept 'dorniu' as per OCR, though it might be an abbreviation or typo for 'Domini' or 'Doctor'.\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 970,
+    "candidatesTokenCount": 419,
+    "totalTokenCount": 4922,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 712
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 3533
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "BbfLabWoGLL2vdIP6_KD-A0"
+}

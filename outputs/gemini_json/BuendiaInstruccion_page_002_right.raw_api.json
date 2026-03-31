@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"cleaned_text\": \"AL\\nINFINITAMENTE AMABLE\\nNIÑO JESUS.\\nVos, Dulcissimo Niño\\nJESUS, que no solo os\\ndignasteis de llamaros\\nDoctor de los Niños,\\nsino tambien de assistir\\ncomo Niño entre los Doctores,\\nse consagra humilde esta pequeña\\nInstruccion de los Niños. Es assi,\\nque ella tambien se dirige à la juventud;\\npero à esta, como recuerdo\\nde lo que aprendió, à los Niños,\\ncomo precisa explicacion de\\nlo que deben estudiar. Por este solo\\ntitulo es muy vuestra; y por\\nser para Niños, que confiais à la\\neducacion de vuestra Compañia,\\nlo es mucho mas. En Vos, (Divino\\nExemplar de todas las virtudes)\\ntienen abreviado el mas seguro\",\n  \"removed_noise\": [],\n  \"uncertain_cases\": [\n    \"assi (historical spelling)\",\n    \"à (historical accent)\",\n    \"Doctor (capitalization)\",\n    \"Compañia (capitalization)\",\n    \"Exemplar (historical spelling)\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 837,
+    "candidatesTokenCount": 284,
+    "totalTokenCount": 3309,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 579
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 2188
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "ybbLabCsMO-skdUP5a3K-AM"
+}

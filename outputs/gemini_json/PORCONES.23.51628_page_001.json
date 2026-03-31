@@ -1,0 +1,20 @@
+{
+  "cleaned_text": "POR.\nDONA CATALINA DE\nLazarraza y Zarate,viuda de Marco\nAntonio de Cayzedo, y el señor\nFiscal.\nCONSO\nDon Antonio del Barco y Recalde,\nCauallero de la Orden de\nSantiago.\nRetende doña Catalina, que doñ Antonio ha de ser condenado a que auien\ndespues quitado el habito, y insignias\nde la Orden, sea entregado a la justicia seglar, para que se execute en el\nla pena de muerte, por los delitos que\ncometio de auer con malos medios,\ny tercerias, y promessas, y alagos engañado a D. Francisco",
+  "removed_noise": [
+    "«WIMIUHI MUJemtbit AJIMMOMALIF CbigCASeHE-J.L",
+    "CND D SObONU Ia",
+    "odoibollons abobuusgomalo covaspidmpon al",
+    "Coflo er",
+    "conisb consticl",
+    "si odcirometatl dlan",
+    "-29 eftquo sinsolol a ar tobut obatig eu oup da",
+    "MlIenil lat asmeb obig",
+    "ibste sonss",
+    "2",
+    "ca"
+  ],
+  "uncertain_cases": [
+    "auien (kept as is, could be 'auiendo')",
+    "CONSO (kept as is, likely a heading or part of a name)"
+  ]
+}

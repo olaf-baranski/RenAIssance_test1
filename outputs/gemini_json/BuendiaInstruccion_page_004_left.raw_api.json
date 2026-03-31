@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"cleaned_text\": \"crianza de la Niñèz. Assi sea,\\nDivinissimo Niño, por vuestra\\ngracia, assi sea, à vuestra mayor gloria. Amen.\",\n  \"removed_noise\": [\n    \"CENSUE\"\n  ],\n  \"uncertain_cases\": []\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 670,
+    "candidatesTokenCount": 79,
+    "totalTokenCount": 1379,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 412
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 630
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "_7bLaaCEKNf0kdUP4eu8qQI"
+}

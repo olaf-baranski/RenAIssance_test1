@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:19:30.061827+00:00</Created>
+        <LastChange>2026-03-30T18:19:30.061827+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="PORCONES.228.381646_page_002.png" imageWidth="1500" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1500,2000 1500,0"/>
+            
+            <TextLine id="_1e221b4a-cac0-42b2-b5af-81960c63f942">
+                <Coords points="359,131 1189,131 1189,190 359,190"/>
+                
+            <TextEquiv><Unicode>ticia de esta parte en ajuitar con certeza, y claridad</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_83d976dd-5cdd-4d46-8e37-c3e442c4635b">
+                <Coords points="361,182 1191,182 1191,239 361,239"/>
+                
+            <TextEquiv><Unicode>el hecho verdadero de este negocio, que consiste</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_18d30d70-c790-46cc-8678-bbbdb7250512">
+                <Coords points="360,228 1193,228 1193,290 360,290"/>
+                
+            <TextEquiv><Unicode>en que Iacinto Gomez Pimentel fue preso el mes</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_4e364217-e0df-45d6-ab53-6c4e6e60edb7">
+                <Coords points="361,276 1195,276 1195,340 361,340"/>
+                
+            <TextEquiv><Unicode>de Agosto del año passado de 1643. por querella,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_943587f1-61b7-497f-a9cf-7460726a3f91">
+                <Coords points="362,324 1197,324 1197,389 362,389"/>
+                
+            <TextEquiv><Unicode>que de él dio doña Leonor Rauasco, por dezirla</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_3b08be98-b87b-4a26-aa07-132e760e144a">
+                <Coords points="363,376 1198,376 1198,439 363,439"/>
+                
+            <TextEquiv><Unicode>auia estrupado, y queriendole prender vnos Algua</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_78774492-dba5-4b25-990a-1750840c980f">
+                <Coords points="364,423 1198,423 1198,488 364,488"/>
+                
+            <TextEquiv><Unicode>ziles de esta Corte, les hizo resistencia, y sobe ello</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_4f5a57eb-bb93-41e4-a9dd-47c41bc0bd60">
+                <Coords points="365,474 1198,474 1198,534 365,534"/>
+                
+            <TextEquiv><Unicode>se le hizo nueua causa, y por ello fue condenado</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6af2ad3c-5881-438c-866d-537ff9499f1d">
+                <Coords points="367,523 1198,523 1198,585 367,585"/>
+                
+            <TextEquiv><Unicode>en seis años de galeras, y lleuado a la caxa de Tole</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_8e849fed-b2e0-4033-98e5-68cd54db89dd">
+                <Coords points="368,573 1198,573 1198,634 368,634"/>
+                
+            <TextEquiv><Unicode>do, y por sentencia de reuista se le conmutó la di-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a06f7bb5-c059-4de5-a393-306b6f0c15a5">
+                <Coords points="368,623 1198,623 1198,683 368,683"/>
+                
+            <TextEquiv><Unicode>cha pena de galeras, en quatro años del presidio de</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_f30fc440-ba8b-4b12-bbb0-6ec1ed4f41f9">
+                <Coords points="373,691 476,691 476,720 373,720"/>
+                
+            <TextEquiv><Unicode>Oran.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_156736a8-2587-4811-ab36-e93fc65a0d82">
+                <Coords points="418,719 1218,719 1218,783 418,783"/>
+                
+            <TextEquiv><Unicode>3	Estando condenado Iacinto Gomez en la</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_4dc221cb-9597-4528-999b-63e28db51394">
+                <Coords points="373,775 1198,775 1198,830 373,830"/>
+                
+            <TextEquiv><Unicode>pena referida, siguió doña Leonor Rauasco su que</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a0633f37-4c5c-447c-9e3b-efca0abab430">
+                <Coords points="373,823 1200,823 1200,879 373,879"/>
+                
+            <TextEquiv><Unicode>rella de estrupo, contra Iacinto Gomez Pimentel, y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_23e4ee6c-cd6a-4bb8-bcb7-1918f237b56b">
+                <Coords points="381,870 1205,870 1205,923 381,923"/>
+                
+            <TextEquiv><Unicode>conclusa la causa por sentencia de vista, que se dio</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_eb3d54a7-26f1-4efa-bb0d-7e2c0bc40530">
+                <Coords points="378,920 1205,920 1205,968 378,968"/>
+                
+            <TextEquiv><Unicode>en ocho de Febrero de 1645. fue condenado en</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a7c05353-93b2-4c26-b46d-c50f5da0475b">
+                <Coords points="378,966 1212,966 1212,1022 378,1022"/>
+                
+            <TextEquiv><Unicode>quatro años mas del presidio de Oran, y en mil du</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_5d669c02-93c4-4447-be69-c9cc54dd3db4">
+                <Coords points="372,1014 1213,1014 1213,1067 372,1067"/>
+                
+            <TextEquiv><Unicode>cados para la parte querellante, y en cien mil mara</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_725467cd-2bf5-4d7a-9703-59b4ff14104e">
+                <Coords points="370,1059 1216,1059 1216,1113 370,1113"/>
+                
+            <TextEquiv><Unicode>uedis para la Camara, de que suplicó, y por senten-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_8c981dff-841c-406f-a1ec-0459a5b9a841">
+                <Coords points="371,1112 1216,1112 1216,1160 371,1160"/>
+                
+            <TextEquiv><Unicode>cia de reuista, que se dio en diez de Mayo del di-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_8adfd764-2815-41d5-bbea-892d0d1660b0">
+                <Coords points="372,1159 1217,1159 1217,1212 372,1212"/>
+                
+            <TextEquiv><Unicode>cho año de 1645. se confirmó la sentencia de vis-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_65d51138-b6be-4033-b5b5-8c25f00da737">
+                <Coords points="373,1209 1212,1209 1212,1259 373,1259"/>
+                
+            <TextEquiv><Unicode>ta, con que los mil ducados fuessen ochocientos,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_bdc6ec06-7434-4b0b-a1a8-bd5476569536">
+                <Coords points="373,1257 1214,1257 1214,1315 373,1315"/>
+                
+            <TextEquiv><Unicode>y los cien mil marauedis, setenta mil, y los quatro</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a93c09a8-19b7-4544-8f7e-41e6226fad84">
+                <Coords points="372,1308 795,1308 795,1357 372,1357"/>
+                
+            <TextEquiv><Unicode>años de presidio, dos.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e9693e3d-9b1c-4bed-adee-350a383f3381">
+                <Coords points="418,1358 1217,1358 1217,1412 418,1412"/>
+                
+            <TextEquiv><Unicode>4	En execución desta executoria, se despachó</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_f4f29d91-f7a4-4c31-9243-c287fbd6292a">
+                <Coords points="367,1407 1220,1407 1220,1464 367,1464"/>
+                
+            <TextEquiv><Unicode>mandamiento para cobrar las penas pecuniarias, y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_42d3dd58-9d26-4e65-b9c2-4147d824370a">
+                <Coords points="366,1459 1222,1459 1222,1515 366,1515"/>
+                
+            <TextEquiv><Unicode>se requirió con el á Antonio Gomez Pimentel, pa</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1fe91b2a-4542-4269-8490-2bb3e2c8750d">
+                <Coords points="365,1512 1225,1512 1225,1559 365,1559"/>
+                
+            <TextEquiv><Unicode>dre de Iacinto Gomez, para que diesse bienes de su</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_107eedf1-17a9-4cd9-95e7-ee4a4ebb6f21">
+                <Coords points="363,1561 1226,1561 1226,1623 363,1623"/>
+                
+            <TextEquiv><Unicode>hijo, el qual respondio, quela tenia entregada, y pa</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_bb5b4ad8-b79c-4839-bf93-ead960204529">
+                <Coords points="364,1615 1226,1615 1226,1673 364,1673"/>
+                
+            <TextEquiv><Unicode>gada toda su legitima materna, y que no tenia bie</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_8c9c0165-dc54-4fa4-addc-e3e8c56a1810">
+                <Coords points="362,1678 546,1678 546,1728 362,1728"/>
+                
+            <TextEquiv><Unicode>nes suyos.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_cddc4514-2ffa-4cf0-ba95-467514700c87">
+                <Coords points="414,1715 1229,1715 1229,1779 414,1779"/>
+                
+            <TextEquiv><Unicode>5	Doña Leonor Rauasco pidio se mandasse,</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e5f5befa-67a8-42fa-8002-cb51e5327408">
+                <Coords points="364,1768 1231,1768 1231,1831 364,1831"/>
+                
+            <TextEquiv><Unicode>que el mandamiento despachado, se entendiesse</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_86a23907-a86e-4039-8ab2-b6b3c4c2e929">
+                <Coords points="349,1822 1232,1822 1232,1876 349,1876"/>
+                
+            <TextEquiv><Unicode>con Antonio Gomez Pimentel, por tener en su po</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_5999905b-4794-4c1b-a6cf-786dfcb9b0ba">
+                <Coords points="1179,1881 1233,1881 1233,1922 1179,1922"/>
+                
+            <TextEquiv><Unicode>der</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

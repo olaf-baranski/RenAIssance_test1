@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:18:53.733350+00:00</Created>
+        <LastChange>2026-03-30T18:18:53.733350+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BuendiaInstruccion_page_004_right.png" imageWidth="1377" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1377,2000 1377,0"/>
+            
+            <TextLine id="_22d5edf9-dd29-4bbb-8d3a-ea552aedbdeb">
+                <Coords points="267,167 1285,167 1285,253 267,253"/>
+                
+            <TextEquiv><Unicode>CENSURA DEL R. P. ANTONIO CO-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_04654262-82a7-4dc5-8e96-8883118d0c16">
+                <Coords points="329,236 1286,236 1286,300 329,300"/>
+                
+            <TextEquiv><Unicode>dorniu de la Compañía de jesus, Maes-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_022eba06-69eb-4678-a7c0-64ec992f06ca">
+                <Coords points="331,300 1291,300 1291,371 331,371"/>
+                
+            <TextEquiv><Unicode>tro que fue de Theologia, Examinador</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c3da0f06-0dbb-4d90-8893-92b513abaa19">
+                <Coords points="332,362 1289,362 1289,437 332,437"/>
+                
+            <TextEquiv><Unicode>Synodal de los Obispados de Gerona, Ur-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_05798ae4-cbcc-497d-96ce-b0205290df44">
+                <Coords points="322,425 842,425 842,500 322,500"/>
+                
+            <TextEquiv><Unicode>gel, y Barcelona, Oc.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_cc8b2a90-e422-42fc-a6b7-2f06dff72799">
+                <Coords points="278,551 1291,551 1291,638 278,638"/>
+                
+            <TextEquiv><Unicode>DE orden del Ilustre Señor Don Fran-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9fe57ca6-025d-48f5-86a6-1baaa68816a4">
+                <Coords points="305,616 1289,616 1289,683 305,683"/>
+                
+            <TextEquiv><Unicode>cisco Drechos, Canonigo, y Sacristan</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a729bb7c-62a1-4e0c-b361-012a2687353b">
+                <Coords points="276,675 1292,675 1292,742 276,742"/>
+                
+            <TextEquiv><Unicode>Dignidad de la Santa Iglesia de Gerona, y</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_c8cbfffa-c6c1-4a30-b90c-571b2425add2">
+                <Coords points="279,742 1292,742 1292,811 279,811"/>
+                
+            <TextEquiv><Unicode>Vicario General por el Ilustrissimo Señor</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_cf2c52fd-5c9c-4133-9642-ab8ad77b0c07">
+                <Coords points="280,800 1290,800 1290,868 280,868"/>
+                
+            <TextEquiv><Unicode>D. Balthasar de Bastero y lledo, Obispo</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6c371ceb-f5f6-4247-8f97-6baacc689a3f">
+                <Coords points="279,860 1294,860 1294,927 279,927"/>
+                
+            <TextEquiv><Unicode>de Gerona, del Consejo de su Magestad, &amp; c. </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_0abe715c-66a6-4fa3-9631-0d7c6687f89d">
+                <Coords points="280,923 1293,923 1293,990 280,990"/>
+                
+            <TextEquiv><Unicode>He visto un Librito, cuyo titulo es: Ins-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_f7bcc277-3a8c-4ec0-ace3-741bf43b0797">
+                <Coords points="284,980 1298,980 1298,1052 284,1052"/>
+                
+            <TextEquiv><Unicode>truccion de Christiana, y Politica Cortesa-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_bf377a53-8b5c-4ea3-8657-2ec8e613d51f">
+                <Coords points="285,1043 1297,1043 1297,1111 285,1111"/>
+                
+            <TextEquiv><Unicode>nia, Oc. Su Author D. Fausto Agustin de</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_a0d563e5-2a32-4a29-b2da-1da90ff7d24f">
+                <Coords points="283,1106 1293,1106 1293,1174 283,1174"/>
+                
+            <TextEquiv><Unicode>Buendia, Colegial que fue en el Imperial</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_76430540-5cd7-4cd5-83e6-b7647a293b46">
+                <Coords points="281,1168 1295,1168 1295,1239 281,1239"/>
+                
+            <TextEquiv><Unicode>de Cordellas, &amp;c. Y brevemente digo, </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_0caf2b56-6776-4d2c-bd4d-60013411d6e7">
+                <Coords points="284,1231 1297,1231 1297,1301 284,1301"/>
+                
+            <TextEquiv><Unicode>no solo que nada contiene contra la Fe, y </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_e6adf3a0-5391-497a-a6e3-0c98edee0bce">
+                <Coords points="283,1294 1297,1294 1297,1364 283,1364"/>
+                
+            <TextEquiv><Unicode>buenas costumbres, sino que muy atento</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_93e263f5-409f-4abb-99fa-2227155e443b">
+                <Coords points="286,1363 1298,1363 1298,1420 286,1420"/>
+                
+            <TextEquiv><Unicode>el Author con entrambas, describe, y en-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_3154673e-2427-4f24-b5a3-1cad6bdbed01">
+                <Coords points="293,1421 1291,1421 1291,1478 293,1478"/>
+                
+            <TextEquiv><Unicode>seña tan culta, y discreta la Virtud, co-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_6e8edfd3-8e03-41c0-90fd-1c18ba1a6f51">
+                <Coords points="291,1481 1298,1481 1298,1548 291,1548"/>
+                
+            <TextEquiv><Unicode>mo santa la Policia, y Urbanidad. Los</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_3a0016d1-2c20-4d4c-8233-53dc7d6bd603">
+                <Coords points="292,1541 1293,1541 1293,1611 292,1611"/>
+                
+            <TextEquiv><Unicode>Señoritos, que se criaren con estos do-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_52e836b5-c311-43a7-926b-2cf6ea06efbd">
+                <Coords points="291,1603 1301,1603 1301,1672 291,1672"/>
+                
+            <TextEquiv><Unicode>cumentos, mereceran, quando hombres, </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_9ae50623-b0d1-4337-b144-5aed8ccefdfc">
+                <Coords points="293,1666 1298,1666 1298,1736 293,1736"/>
+                
+            <TextEquiv><Unicode>aver nacido Señores. Porque no solo sa-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_244c541e-9205-4e5a-8410-84b7d14f6986">
+                <Coords points="293,1726 1306,1726 1306,1858 293,1858"/>
+                
+            <TextEquiv><Unicode>bran ser Caballeros, sino tambien a lo</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_1df2bfcd-9637-41f8-bf55-430514a1c5b1">
+                <Coords points="1103,1848 1264,1848 1264,1917 1103,1917"/>
+                
+            <TextEquiv><Unicode>Caba-</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"cleaned_text\": \"POR.\\nDONA CATALINA DE\\nLazarraza y Zarate,viuda de Marco\\nAntonio de Cayzedo, y el señor\\nFiscal.\\nCONSO\\nDon Antonio del Barco y Recalde,\\nCauallero de la Orden de\\nSantiago.\\nRetende doña Catalina, que doñ Antonio ha de ser condenado a que auien\\ndespues quitado el habito, y insignias\\nde la Orden, sea entregado a la justicia seglar, para que se execute en el\\nla pena de muerte, por los delitos que\\ncometio de auer con malos medios,\\ny tercerias, y promessas, y alagos engañado a D. Francisco\",\n  \"removed_noise\": [\n    \"«WIMIUHI MUJemtbit AJIMMOMALIF CbigCASeHE-J.L\",\n    \"CND D SObONU Ia\",\n    \"odoibollons abobuusgomalo covaspidmpon al\",\n    \"Coflo er\",\n    \"conisb consticl\",\n    \"si odcirometatl dlan\",\n    \"-29 eftquo sinsolol a ar tobut obatig eu oup da\",\n    \"MlIenil lat asmeb obig\",\n    \"ibste sonss\",\n    \"2\",\n    \"ca\"\n  ],\n  \"uncertain_cases\": [\n    \"auien (kept as is, could be 'auiendo')\",\n    \"CONSO (kept as is, likely a heading or part of a name)\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 905,
+    "candidatesTokenCount": 366,
+    "totalTokenCount": 4210,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 647
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 2939
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "ZbfLaefjId_TvdIPrvbb8QY"
+}

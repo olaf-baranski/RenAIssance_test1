@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>kraken 6.0.3</Creator>
+        <Created>2026-03-30T18:18:47.552901+00:00</Created>
+        <LastChange>2026-03-30T18:18:47.552901+00:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BuendiaInstruccion_page_004_left.png" imageWidth="1162" imageHeight="2000">
+        <TextRegion id="textblock_1">
+            <Coords points="0,0 0,2000 1162,2000 1162,0"/>
+            
+            <TextLine id="_695bfca8-38fd-41ac-ac4a-17bfaf114349">
+                <Coords points="378,177 1159,177 1159,249 378,249"/>
+                
+            <TextEquiv><Unicode>crianza de la niñez. Assi sea, </Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_79b5fc61-abd8-4acf-a96c-ff3df5461326">
+                <Coords points="381,248 1158,248 1158,314 381,314"/>
+                
+            <TextEquiv><Unicode>Divinissimo Niño, por vuestra</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_fd6682f4-dc5f-4662-a0f0-cafae244a5e8">
+                <Coords points="381,310 1157,310 1157,376 381,376"/>
+                
+            <TextEquiv><Unicode>gracia, assi sea, a vuestra ma-</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_071b38d5-3120-4856-9205-b44be3d7a620">
+                <Coords points="380,373 823,373 823,441 380,441"/>
+                
+            <TextEquiv><Unicode>yor gloria. Amen.</Unicode></TextEquiv></TextLine>
+
+            
+            <TextLine id="_d8d29853-6b50-4a5c-a97c-21ee66470862">
+                <Coords points="854,1921 1084,1921 1084,1978 854,1978"/>
+                
+            <TextEquiv><Unicode>CENSU-</Unicode></TextEquiv></TextLine>
+
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,17 @@
+Number of evaluated pages: 16
+
+=== RAW METRICS ===
+Average CER OCR    : 0.088775
+Average CER Gemini : 0.037222
+Average WER OCR    : 0.234301
+Average WER Gemini : 0.137667
+Pages where Gemini improved CER (raw): 15/16
+Pages where Gemini improved WER (raw): 15/16
+
+=== NORMALIZED METRICS ===
+Average CER OCR    : 0.079138
+Average CER Gemini : 0.030490
+Average WER OCR    : 0.208142
+Average WER Gemini : 0.120750
+Pages where Gemini improved CER (norm): 14/16
+Pages where Gemini improved WER (norm): 15/16

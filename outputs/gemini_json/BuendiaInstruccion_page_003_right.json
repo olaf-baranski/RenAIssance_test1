@@ -1,0 +1,20 @@
+{
+  "cleaned_text": "divinas bendiciones, les unisteis\na vuestro fagrado pecho con sua-\nvissimos abrazos. Dichosa edad,\nque os mereció tan regalados ca-\nriños!\nY pues en la celestial Jeru-\nsalen no ha mudado de condicion\nvuestra Benignidad, proseguid,\nò Niño tierno, y Dios Eterno,\nproseguid en bendecirles, y favo-\nrecerles. Sean tan fervorosamen-\nte devotos de vuestra Admirable\nMADRE, que se porten como fus\nhijos, y hermanos de leche con\nVos. Serán sabios, si fueren cas-\ntos; que no entra vuestra Sabi-\nDuria, donde no ay mucha pure-\nza de conciencia. Crezcan en\nvuestro santo temor, y amor, co-\ncomo en los años, y mucho mas.\nAdelantense en la virtud, como\nen las letras, y mucho mas; has-\nta que lleguen, por vuestra imi-\ntacion, à ser varones perfectos,\ny consumados, agradables à\nvuestros ojos, y provechosos à\nla Republica, que libra casi to-\nda su felizidad en la acertada",
+  "removed_noise": [
+    "crian-"
+  ],
+  "uncertain_cases": [
+    "Kept 'a' instead of 'á' in 'a vuestro' as per OCR and conservative rules.",
+    "Kept 'fagrado' instead of 'sagrado' as per OCR and conservative rules.",
+    "Kept 'vissimos' instead of 'suavísimos' as per OCR and conservative rules.",
+    "Kept 'salen' instead of 'salén' as no accent was visible in the image.",
+    "Kept 'condicion' instead of 'condición' as no accent was visible in the image.",
+    "Kept 'Duria' instead of 'duría' as no accent was visible in the image.",
+    "Kept 'ay' instead of 'hay' as per OCR and conservative rules.",
+    "Kept 'mas' instead of 'más' (two instances) as no accent was visible in the image.",
+    "Kept 'Adelantense' instead of 'Adelántense' as no accent was visible in the image.",
+    "Kept 'tacion' instead of 'tación' as no accent was visible in the image.",
+    "Kept 'Republica' instead of 'República' as no accent was visible in the image.",
+    "Kept 'felizidad' instead of 'felicidad' as per OCR and conservative rules."
+  ]
+}

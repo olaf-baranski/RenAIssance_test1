@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"cleaned_text\": \"Boni. tit. de pace, vers. Quando uxor occiditur a viro,\\nIulius Clar. q.58. num.131. versi contingit etiam. Bona-\\ncosa in suis communibus, vers.pax vxoricidæ, lib.1. Pe-\\ntrus Cabal. in resolut. in resolut. crimina. casu 58. à n.10.\\nEt tandem, los delitos sobre que es este pleyto son\\ntan atroces, que bastara la acusacion del señor Fiscal, y\\nde la Orden, y aun de qualquiera del pueblo, para que\\nfueran castigados, vt in principio, & in §.item lex Cor-\\nnelia, & §.item lex Iulia, instit. de publicis iudicijs.\\nLo mismo que esta dicho en la acusacion de la muer-\\nte procede en los demas delitos de que es acusado don\\nAntonio; sobre la fuerza y engaño, y quebrantamien-\\nto de casa, y auer entrado en ella denoche, estando ce-\\nrradas las puertas con llaues, y vsado de otras falsas, y\\npor las ventanas y texados, y el rapto, sacando la hija\\nde la casa, y lleuandola a otras partes para vsar mal de\\nella: porque aunque viuiendo Marco Antonio, como\\ncabeza de la familia ofendida, tenia la voz en su nom-\\nbre, y de su muger, para querellarse; auiendole quita-\\ndo la vida el mismo delinquente, queda toda la accion\\nen su muger, por dos razones.\\nLa primera, porque el dolor de la dicha deshonra\\ntocò igualmente a la madre de familias, como al pa-\\ndre, y aun mas propiamente a la madre, como mas assi-\\ntente, y encargada de la guarda de casa, y de la hija, y a\\nquien toca assimismo ex iusta causa su remedio, como\\ncarga comun del matrimonio, l. peque mater, C. de iure\\ndotiu, & quæ post antiquos tradit Menoch. de arbitra-\\nrijs, casu 460. n.1. & sequentibus: y bastarale ser consor-\\nte, & socia diuinæ, & humanæ domus, para poder acu-\\nsar la injuria hecha a su casa, ex Alex. ad Bart. in l.1. §.\\nitem ait, ff. de iniurijs: vbi verò, la ofensa es comun a\\nmarido y muger, lo es tambien el derecho de acusar, y\\npuede la muger suplir la omission del marido, ex Fa-\\nbro in §. patitur, nu. 4. instit. de iniurijs, Farinac.3.tom.\",\n  \"removed_noise\": [\n    \"quæst.\"\n  ],\n  \"uncertain_cases\": [\n    \"Bosi. tit. de pace, vers. Quando wxor occiditur à viro, Iulius Clat. q.5a. num.131. ver si contingit ctiam, Bona-cosa in suis communibus, vcis.pax vxoricidæ, lib.1.Pe-trus Cabal in resolut, in resolut: crimina. casu 5s.à D.10.\",\n    \"se ñor\",\n    \"est à dicho\",\n    \"Antonio sobre\",\n    \"quebrantamien-to\",\n    \"ce-tradas\",\n    \"conllaues\",\n    \"tocd̀\",\n    \"propiamẽte\",\n    \"assimismo\",\n    \"bastàrale\",\n    \"consor:\",\n    \"diuinæ\",\n    \"humanæ\",\n    \"acusar\",\n    \"sitem ait, ff. de iniurijs: vbi verò\",\n    \"spuede\",\n    \"Fabro in Se patitur, nu. a inst. de iniurijs, Farinac.3.tom.\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1285,
+    "candidatesTokenCount": 933,
+    "totalTokenCount": 65131,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1027
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 62913
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "wLfLaYrvFYDWvdIP7sOfmAQ"
+}
