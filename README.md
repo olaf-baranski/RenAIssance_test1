@@ -142,3 +142,48 @@ preserve historical spelling
 avoid aggressive corrections
 remove marginalia and noise
 correct only high-confidence OCR errors
+
+## Results
+
+The evaluation was performed on 16 manually aligned pages.
+
+### Raw metrics
+
+- Average CER:
+  - OCR: 0.0888
+  - Gemini: 0.0372
+
+- Average WER:
+  - OCR: 0.2343
+  - Gemini: 0.1377
+
+- Improvement:
+  - CER improved on 15/16 pages
+  - WER improved on 15/16 pages
+
+### Normalized metrics
+
+- Average CER:
+  - OCR: 0.0791
+  - Gemini: 0.0305
+
+- Average WER:
+  - OCR: 0.2081
+  - Gemini: 0.1208
+
+- Improvement:
+  - CER improved on 14/16 pages
+  - WER improved on 15/16 pages
+
+### Interpretation
+
+The Gemini-based post-processing consistently reduces both character-level and word-level errors.
+
+The largest gains come from:
+- removal of marginalia and page artifacts
+- correction of obvious OCR noise
+- improved token segmentation
+
+Under conservative constraints (no hallucination, minimal normalization), the model still achieves substantial improvements over baseline OCR.
+
+These results suggest that multimodal LLMs can act as effective post-OCR correction systems for historical documents.
